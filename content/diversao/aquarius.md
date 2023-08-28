@@ -5,7 +5,7 @@ image = "img/diversao/aquarius/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~R$ 50,00~~ por **R$ 30**
+De ~~80,00~~ por **R$ 30**
 
 Jogo de cartas para criancas e adultos.
 <!--more-->

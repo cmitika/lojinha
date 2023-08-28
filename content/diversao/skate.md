@@ -5,7 +5,7 @@ image = "img/diversao/skate/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~R$ 1.600~~ por **R$ 1.000**
+De ~~1.600~~ por **R$ 1.000**
 
 Skate completo, importado, top-de-linha.
 

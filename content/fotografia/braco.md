@@ -5,7 +5,7 @@ image = "img/fotografia/fundo_infinito/discholder2.jpg"
 showonlyimage = false
 weight = 100
 +++
-#### R$ 250
+**R$ 250**
 <!--more-->
 
 - 1x Light Disc Holder (braco articulado para rebatedor)

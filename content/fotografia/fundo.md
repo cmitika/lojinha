@@ -5,7 +5,7 @@ image = "img/fotografia/fundo_infinito/suporte2.jpg"
 showonlyimage = false
 weight = 100
 +++
-#### DE ~~R$ 1.600~~ por R$ 1.000
+De ~~1.600~~ por **R$ 1.000**
 
 Suporte de Fundo e Rolo de Papel Importado da BD Company
 <!--more-->

@@ -5,7 +5,7 @@ image = "img/fotografia/gitzo/gitzo6.jpg"
 showonlyimage = false
 weight = 10
 +++
-De ~~R$ 5.700~~ por **R$ 4.000**
+De ~~5.700~~ por **R$ 4.000**
 
 Tripe [Gitzo GT3542LS](https://www.the-digital-picture.com/Reviews/Gitzo-GT3542LS-Systematic-Carbon-Fiber-Tripod.aspx) Fibra de Carbono
 <!--more-->

@@ -845,7 +845,7 @@ a:active {
   letter-spacing: 0.1em;
 }
 .box-masonry h4 a {
-  color: #000;
+  color: #6e6e6e;
   border-bottom: solid 1px transparent;
 }
 .box-masonry h4 a:hover {
@@ -1951,7 +1951,7 @@ h6,
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 1.2;
-  color: #000000;
+  color: #6e6e6e;
 }
 h1,
 .h1 {

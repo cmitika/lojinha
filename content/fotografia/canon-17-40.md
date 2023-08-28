@@ -5,7 +5,8 @@ image = "img/fotografia/17_40/1740-1.png"
 showonlyimage = false
 weight = 2
 +++
-#### R$ 3.000
+**R$ 3.000**
+
 Lente novissima, sem marcas, sinais ou arranhoes.
 <!--more-->
 

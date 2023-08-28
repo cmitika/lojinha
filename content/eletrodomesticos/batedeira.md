@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Batedeira_planetaria.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~490~~ por R$ 200
+De ~~490~~ por **R$ 200**
 
 <!--more-->
 

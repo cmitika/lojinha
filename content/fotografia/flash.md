@@ -5,7 +5,7 @@ image = "img/fotografia/einstein/einstein.jpg"
 showonlyimage = false
 weight = 2
 +++
-De ~~R$ 12.000~~ por R$ 8.000
+De ~~R$ 12.000~~ por **R$ 8.000**
 
 Flashes Paul C. Buff Einstein + Controle Remoto + Soft-Box + Modificadores
 <!--more-->
