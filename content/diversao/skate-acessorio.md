@@ -3,7 +3,7 @@ title = "Acessorios Skate"
 draft = false
 image = "img/diversao/skate-acessorios/photo_2023-08-23_17-29-12.jpg"
 showonlyimage = false
-weight = 1
+weight = 11
 +++
 Rodinhas, amortecedores, rolamentos.
 <!--more-->

@@ -3,7 +3,7 @@ title = "Zarabatana Indigena"
 draft = false
 image = "img/moveis/zarabatana1.jpg"
 showonlyimage = false
-weight = 1
+weight = 100
 +++
 <span class="price">R$ 50</span>
 

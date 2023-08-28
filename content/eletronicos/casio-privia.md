@@ -3,7 +3,7 @@ title = "Piano Casio Privia PXS-3000"
 draft = false
 image = "img/eletronicos/piano/p3.jpg"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 <span class="price">R$ 4.500</span>
 

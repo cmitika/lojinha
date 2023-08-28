@@ -3,7 +3,7 @@ title = "Kokeshi Kimmidoll Chou"
 draft = false
 image = "img/moveis/kokeshi_kimmidoll_chou1.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 De ~~125~~ por <span class="price">R$ 75</span>
 

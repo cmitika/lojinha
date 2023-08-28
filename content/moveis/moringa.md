@@ -3,7 +3,7 @@ title = "Moringa"
 draft = false
 image = "img/casa/cozinha/moringa.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 30</span>
 

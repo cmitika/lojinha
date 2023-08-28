@@ -3,7 +3,7 @@ title = "Fruteira Flor"
 draft = false
 image = "img/casa/cozinha/fruteira_flor.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 150</span>
 

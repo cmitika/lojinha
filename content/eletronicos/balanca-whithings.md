@@ -3,7 +3,7 @@ title = "Balanca corporal digital Withings Body+"
 draft = false
 image = "img/casa/balanca_withings/2023-08-22_16-15.png"
 showonlyimage = false
-weight = 1
+weight = 3
 +++
 50% OFF!
 De ~~1.600~~ por <span class="price">R$ 800</span>

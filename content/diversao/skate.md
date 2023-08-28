@@ -3,7 +3,7 @@ title = "Skate importado"
 draft = false
 image = "img/diversao/skate/1.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 De ~~1.600~~ por <span class="price">R$ 1.000</span>
 

@@ -3,7 +3,7 @@ title = "Travessa Pintada a Mao"
 draft = false
 image = "img/casa/cozinha/Travessa.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 50</span>
 
