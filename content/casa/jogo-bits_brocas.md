@@ -5,7 +5,7 @@ image = "img/casa/bits_and_brocas/photo_2023-08-22_15-15-11.rotated.rotated.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~R$ 300~~ por **R$ 100**
+De ~~300~~ por **R$ 100**
 
 Jogo de Bit, Brocas e Extensor Magnetico
 <!--more-->

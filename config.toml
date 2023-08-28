@@ -40,17 +40,17 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Coisas pra Casa"
-  url = "casa/"
+  name = "Cozinha"
+  url = "cozinha/"
   home = true
+
+  [[params.navlinks]]
+  name = "Eletrodomesticos"
+  url = "eletrodomesticos/"
 
   [[params.navlinks]]
   name = "Eletronicos"
   url = "eletronicos/"
-
-  [[params.navlinks]]
-  name = "Fotografia"
-  url = "fotografia/"
 
   [[params.navlinks]]
   name = "Filmes"
@@ -67,6 +67,15 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Jogos e Brinquedos"
   url = "diversao/"
+
+  [[params.navlinks]]
+  name = "Diversos"
+  url = "casa/"
+
+  [[params.navlinks]]
+  name = "Fotografia"
+  url = "fotografia/"
+
 
   [params.social]
   facebook      = "https://www.facebook.com/cassia.mitikami"
