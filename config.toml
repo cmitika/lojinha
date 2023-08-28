@@ -40,13 +40,9 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
-  home = true
-
-  [[params.navlinks]]
   name = "Coisas pra Casa"
   url = "casa/"
+  home = true
 
   [[params.navlinks]]
   name = "Eletronicos"
@@ -71,10 +67,6 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Jogos e Brinquedos"
   url = "diversao/"
-
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
 
   [params.social]
   facebook      = "https://www.facebook.com/cassia.mitikami"
