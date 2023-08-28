@@ -23,12 +23,12 @@ Bolsos frontais: comportam filtros ou acessorios diversos.
 Compartimento para notebook. Capa de chuva embutida.
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/mochila_kata/2023-07-07_16-55.png" >}}
-{{< figure src="../../img/fotografia/mochila_kata/2023-07-07_16-55_1.png" >}}
-{{< figure src="../../img/fotografia/mochila_kata/2023-07-07_16-56.png" >}}
+{{< figure src="img/fotografia/mochila_kata/2023-07-07_16-55.png" >}}
+{{< figure src="img/fotografia/mochila_kata/2023-07-07_16-55_1.png" >}}
+{{< figure src="img/fotografia/mochila_kata/2023-07-07_16-56.png" >}}
 
-{{< figure src="../../img/fotografia/mochila_kata/2023-07-07_16-56_1.png" >}}
-{{< figure src="../../img/fotografia/mochila_kata/2023-07-07_16-56_2.png" >}}
-{{< figure src="../../img/fotografia/mochila_kata/2023-07-07_16-56_3.png" >}}
+{{< figure src="img/fotografia/mochila_kata/2023-07-07_16-56_1.png" >}}
+{{< figure src="img/fotografia/mochila_kata/2023-07-07_16-56_2.png" >}}
+{{< figure src="img/fotografia/mochila_kata/2023-07-07_16-56_3.png" >}}
 
 {{< /gallery >}}

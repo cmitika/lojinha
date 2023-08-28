@@ -13,6 +13,6 @@ Plate Universal Markins para qualquer marca ou modelo de DSRL.
 Plate em estado de novo, sem marcas ou sinais de uso.
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/plates/markins-pg34.jpg" >}}
+{{< figure src="img/fotografia/plates/markins-pg34.jpg" >}}
 
 {{< /gallery >}}

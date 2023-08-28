@@ -25,18 +25,18 @@ Tudo novo, na caixa.
 - 1x Umbrella reflector de 7 polegadas
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/einstein/einstein.jpg" caption="Flash Einstein" >}}
-{{< figure src="../../img/fotografia/einstein/cybercommander.jpg" caption="Controle Remoto" >}}
+{{< figure src="img/fotografia/einstein/einstein.jpg" caption="Flash Einstein" >}}
+{{< figure src="img/fotografia/einstein/cybercommander.jpg" caption="Controle Remoto" >}}
 
-{{< figure src="../../img/fotografia/einstein/cybersync.jpg" caption="Controle Remote e Receptores" >}}
-{{< figure src="../../img/fotografia/einstein/e640_backright_0910.jpg" caption="Flash Einstein" >}}
-{{< figure src="../../img/fotografia/einstein/grid.jpg" caption="Grid para o Soft-Box" >}}
+{{< figure src="img/fotografia/einstein/cybersync.jpg" caption="Controle Remote e Receptores" >}}
+{{< figure src="img/fotografia/einstein/e640_backright_0910.jpg" caption="Flash Einstein" >}}
+{{< figure src="img/fotografia/einstein/grid.jpg" caption="Grid para o Soft-Box" >}}
 
-{{< figure src="../../img/fotografia/einstein/softbox.jpg" caption="Softbox de 40 polegadas" >}}
-{{< figure src="../../img/fotografia/einstein/umbrella-reflector.jpg" caption="Refletor de umbrella" >}}
-{{< figure src="../../img/fotografia/einstein/reflector.jpg" caption="Refletor" >}}
+{{< figure src="img/fotografia/einstein/softbox.jpg" caption="Softbox de 40 polegadas" >}}
+{{< figure src="img/fotografia/einstein/umbrella-reflector.jpg" caption="Refletor de umbrella" >}}
+{{< figure src="img/fotografia/einstein/reflector.jpg" caption="Refletor" >}}
 
-{{< figure src="../../img/fotografia/einstein/grid15.jpg" caption="Grid de 15 graus" >}}
-{{< figure src="../../img/fotografia/einstein/grid30.jpg" caption="Grid de 30 graus" >}}
+{{< figure src="img/fotografia/einstein/grid15.jpg" caption="Grid de 15 graus" >}}
+{{< figure src="img/fotografia/einstein/grid30.jpg" caption="Grid de 30 graus" >}}
 
 {{< /gallery >}}

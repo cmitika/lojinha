@@ -16,9 +16,9 @@ Tripe para estudio, novo, na caixa.
 
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/fundo_infinito/wide.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/wide2.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/wide4.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/wide5.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/wide3.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/wide.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/wide2.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/wide4.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/wide5.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/wide3.jpg" >}}
 {{< /gallery >}}

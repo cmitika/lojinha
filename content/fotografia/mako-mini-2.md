@@ -15,9 +15,9 @@ Novo, na caixa.
 - Comprimento Fechado: 0.7m
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/fundo_infinito/mini1.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/mini2.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/mini4.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/mini5.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/mini3.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/mini1.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/mini2.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/mini4.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/mini5.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/mini3.jpg" >}}
 {{< /gallery >}}

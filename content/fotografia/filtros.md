@@ -19,12 +19,12 @@ Kit composto por filter holder, 2x ND filters, 1x GND filter e um Polarizador Ci
 
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/filtro/leannecole-formatt-hitech-filter-holder-51.webp" >}}
-{{< figure src="../../img/fotografia/filtro/leannecole-formatthitech-filter-holder.webp" caption="Holder e adaptadores" >}}
-{{< figure src="../../img/fotografia/filtro/photo_2023-08-21_11-12-27.jpg" >}}
+{{< figure src="img/fotografia/filtro/leannecole-formatt-hitech-filter-holder-51.webp" >}}
+{{< figure src="img/fotografia/filtro/leannecole-formatthitech-filter-holder.webp" caption="Holder e adaptadores" >}}
+{{< figure src="img/fotografia/filtro/photo_2023-08-21_11-12-27.jpg" >}}
 
-{{< figure src="../../img/fotografia/filtro/photo_2023-08-21_11-12-35.jpg" caption="Holder e adaptadores" >}}
-{{< figure src="../../img/fotografia/filtro/photo_2023-08-21_11-12-38.rotated.jpg" caption="Filtros" >}}
-{{< figure src="../../img/fotografia/filtro/photo_2023-08-21_11-12-41.jpg" >}}
+{{< figure src="img/fotografia/filtro/photo_2023-08-21_11-12-35.jpg" caption="Holder e adaptadores" >}}
+{{< figure src="img/fotografia/filtro/photo_2023-08-21_11-12-38.rotated.jpg" caption="Filtros" >}}
+{{< figure src="img/fotografia/filtro/photo_2023-08-21_11-12-41.jpg" >}}
 
 {{< /gallery >}}

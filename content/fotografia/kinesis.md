@@ -24,18 +24,18 @@ Excelente estado. Sem danos, sem marcas.
 - Conectores diversos
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/mochila_kinesis/kinesis1.png" caption="Mochila Kinesis" >}}
-{{< figure src="../../img/fotografia/mochila_kinesis/kinesis2.png" caption="Mochila Kinesis" >}}
-{{< figure src="../../img/fotografia/mochila_kinesis/tt1-cinto.png" caption="Cinto Think Tank" >}}
-{{< figure src="../../img/fotografia/mochila_kinesis/tt2-cinto.png" caption="Cinto Think Tank" >}}
+{{< figure src="img/fotografia/mochila_kinesis/kinesis1.png" caption="Mochila Kinesis" >}}
+{{< figure src="img/fotografia/mochila_kinesis/kinesis2.png" caption="Mochila Kinesis" >}}
+{{< figure src="img/fotografia/mochila_kinesis/tt1-cinto.png" caption="Cinto Think Tank" >}}
+{{< figure src="img/fotografia/mochila_kinesis/tt2-cinto.png" caption="Cinto Think Tank" >}}
 
-{{< figure src="../../img/fotografia/mochila_kinesis/tt5.png" caption="Think Tank Lens Charger" >}}
-{{< figure src="../../img/fotografia/mochila_kinesis/tt-1.png" caption="Think Tank Speed Changer" >}}
-{{< figure src="../../img/fotografia/mochila_kinesis/tt2.png" caption="Lighting Fast" >}}
-{{< figure src="../../img/fotografia/mochila_kinesis/tt3.png" caption="Large Lens Drop-In" >}}
-{{< figure src="../../img/fotografia/mochila_kinesis/tt4.png" caption="Whipe It Out" >}}
+{{< figure src="img/fotografia/mochila_kinesis/tt5.png" caption="Think Tank Lens Charger" >}}
+{{< figure src="img/fotografia/mochila_kinesis/tt-1.png" caption="Think Tank Speed Changer" >}}
+{{< figure src="img/fotografia/mochila_kinesis/tt2.png" caption="Lighting Fast" >}}
+{{< figure src="img/fotografia/mochila_kinesis/tt3.png" caption="Large Lens Drop-In" >}}
+{{< figure src="img/fotografia/mochila_kinesis/tt4.png" caption="Whipe It Out" >}}
 
-{{< figure src="../../img/fotografia/mochila_kinesis/tt-example2.jpg" >}}
-{{< figure src="../../img/fotografia/mochila_kinesis/tt-example3.jpg" >}}
+{{< figure src="img/fotografia/mochila_kinesis/tt-example2.jpg" >}}
+{{< figure src="img/fotografia/mochila_kinesis/tt-example3.jpg" >}}
 
 {{< /gallery >}}

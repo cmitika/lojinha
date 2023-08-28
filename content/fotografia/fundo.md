@@ -16,13 +16,13 @@ Novos, sem uso.
 - 1x Rolo de Papel Dovegrey (BD Company USA, codigo 109-Dovegrey, 2,72m x 11 metros)
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/fundo_infinito/papel_dovegrey.png" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/suporte.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/suporte2.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/suporte3.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/papel_dovegrey.png" >}}
+{{< figure src="img/fotografia/fundo_infinito/suporte.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/suporte2.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/suporte3.jpg" >}}
 
-{{< figure src="../../img/fotografia/fundo_infinito/suporte4.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/suporte5.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/suporte6.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/suporte7.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/suporte4.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/suporte5.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/suporte6.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/suporte7.jpg" >}}
 {{< /gallery >}}

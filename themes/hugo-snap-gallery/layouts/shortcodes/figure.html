@@ -61,7 +61,7 @@
       <div class="snap-lightbox" id="{{ $id }}">
         <a href="#_" class="snap-lightbox-close"></a>
         <div class="snap-lightbox-inner">
-          <img src="{{ .Get "src" }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }} />
+          <img src="{{ .Get "src" | absURL }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }} />
           <p>
           {{- if or (.Get "caption") (.Get "attr") -}}
             {{- .Get "caption" | markdownify -}}

@@ -25,12 +25,12 @@ Current: 8406
 ```
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/5D/canon_5260b054_eos_5d_mark_iii_1009419-124219289.jpg" >}}
-{{< figure src="../../img/fotografia/5D/2023-08-20_17-32.png" >}}
-{{< figure src="../../img/fotografia/5D/2023-08-20_17-32_1.png" >}}
+{{< figure src="img/fotografia/5D/canon_5260b054_eos_5d_mark_iii_1009419-124219289.jpg" >}}
+{{< figure src="img/fotografia/5D/2023-08-20_17-32.png" >}}
+{{< figure src="img/fotografia/5D/2023-08-20_17-32_1.png" >}}
 
-{{< figure src="../../img/fotografia/5D/2023-08-20_17-33.png" >}}
-{{< figure src="../../img/fotografia/5D/2023-08-20_17-33_1.png" >}}
-{{< figure src="../../img/fotografia/5D/2023-08-20_17-34.png" >}}
+{{< figure src="img/fotografia/5D/2023-08-20_17-33.png" >}}
+{{< figure src="img/fotografia/5D/2023-08-20_17-33_1.png" >}}
+{{< figure src="img/fotografia/5D/2023-08-20_17-34.png" >}}
 
 {{< /gallery >}}

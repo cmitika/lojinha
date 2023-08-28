@@ -13,12 +13,12 @@ Tripe [Gitzo GT3542LS](https://www.the-digital-picture.com/Reviews/Gitzo-GT3542L
 Como novo. Sem danos ou marcas. Vem na caixa com todos os acessorios.
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/gitzo/gitzo6.jpg" >}}
-{{< figure src="../../img/fotografia/gitzo/gitzo1.png" >}}
-{{< figure src="../../img/fotografia/gitzo/gitzo2.png" >}}
+{{< figure src="img/fotografia/gitzo/gitzo6.jpg" >}}
+{{< figure src="img/fotografia/gitzo/gitzo1.png" >}}
+{{< figure src="img/fotografia/gitzo/gitzo2.png" >}}
 
-{{< figure src="../../img/fotografia/gitzo/gitzo3.jpg" >}}
-{{< figure src="../../img/fotografia/gitzo/gitzo3.png" >}}
-{{< figure src="../../img/fotografia/gitzo/gitzo4.png" >}}
-{{< figure src="../../img/fotografia/gitzo/gitzo5.jpg" >}}
+{{< figure src="img/fotografia/gitzo/gitzo3.jpg" >}}
+{{< figure src="img/fotografia/gitzo/gitzo3.png" >}}
+{{< figure src="img/fotografia/gitzo/gitzo4.png" >}}
+{{< figure src="img/fotografia/gitzo/gitzo5.jpg" >}}
 {{< /gallery >}}

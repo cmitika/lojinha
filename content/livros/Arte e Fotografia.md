@@ -10,11 +10,11 @@ weight = 1
 ## Pintores por R$ 50
 
 {{< gallery >}}
-	{{< figure src="../../img/livros/arte/bosch.jpg" >}}
-	{{< figure src="../../img/livros/arte/klint.jpg" >}}
-	{{< figure src="../../img/livros/arte/munch.jpg" >}}
-	{{< figure src="../../img/livros/arte/kirchner.jpg" >}}
-	{{< figure src="../../img/livros/arte/schiele.jpg" >}}
+	{{< figure src="img/livros/arte/bosch.jpg" >}}
+	{{< figure src="img/livros/arte/klint.jpg" >}}
+	{{< figure src="img/livros/arte/munch.jpg" >}}
+	{{< figure src="img/livros/arte/kirchner.jpg" >}}
+	{{< figure src="img/livros/arte/schiele.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -22,11 +22,11 @@ weight = 1
 ## Livros gigantes por R$ 150
 
 {{< gallery >}}
-	{{< figure src="../../img/livros/arte/portinari.jpg" >}}
-	{{< figure src="../../img/livros/arte/expressionismo.jpg" >}}
-	{{< figure src="../../img/livros/arte/salgado_genesis.jpg" caption="Edicao Completa" >}}
-	{{< figure src="../../img/livros/arte/salgado_trabalhadores.jpg" >}}
-	{{< figure src="../../img/livros/arte/mccurry_iconic.jpg" >}}
+	{{< figure src="img/livros/arte/portinari.jpg" >}}
+	{{< figure src="img/livros/arte/expressionismo.jpg" >}}
+	{{< figure src="img/livros/arte/salgado_genesis.jpg" caption="Edicao Completa" >}}
+	{{< figure src="img/livros/arte/salgado_trabalhadores.jpg" >}}
+	{{< figure src="img/livros/arte/mccurry_iconic.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -34,8 +34,8 @@ weight = 1
 ## Livros grandes por R$ 100
 
 {{< gallery >}}
-	{{< figure src="../../img/livros/arte/salgado_americas.jpg" >}}
-	{{< figure src="../../img/livros/arte/salgado_children.jpg" >}}
+	{{< figure src="img/livros/arte/salgado_americas.jpg" >}}
+	{{< figure src="img/livros/arte/salgado_children.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -43,9 +43,9 @@ weight = 1
 ## Livros de Bolso por R$ 20
 
 {{< gallery >}}
-	{{< figure src="../../img/livros/arte/grande_livro_arte.jpg" >}}
-	{{< figure src="../../img/livros/arte/salgado_photo_poche.jpg" >}}
-	{{< figure src="../../img/livros/arte/salgado_serra_pelada.jpg" >}}
+	{{< figure src="img/livros/arte/grande_livro_arte.jpg" >}}
+	{{< figure src="img/livros/arte/salgado_photo_poche.jpg" >}}
+	{{< figure src="img/livros/arte/salgado_serra_pelada.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -53,8 +53,8 @@ weight = 1
 ## Livros medios por R$ 50
 
 {{< gallery >}}
-	{{< figure src="../../img/livros/arte/mccurry_sactuary.jpg" >}}
-	{{< figure src="../../img/livros/arte/freeman.jpg" >}}
+	{{< figure src="img/livros/arte/mccurry_sactuary.jpg" >}}
+	{{< figure src="img/livros/arte/freeman.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -62,9 +62,9 @@ weight = 1
 ## Barganhas por R$ 20
 
 {{< gallery >}}
-	{{< figure src="../../img/livros/arte/mulheres_brazil.jpg" >}}
-	{{< figure src="../../img/livros/arte/imagens_posteriores.jpg" >}}
-	{{< figure src="../../img/livros/arte/sedes_copa.jpg" >}}
-	{{< figure src="../../img/livros/arte/spny.jpg" >}}
-	{{< figure src="../../img/livros/arte/terra_bras.jpg" >}}
+	{{< figure src="img/livros/arte/mulheres_brazil.jpg" >}}
+	{{< figure src="img/livros/arte/imagens_posteriores.jpg" >}}
+	{{< figure src="img/livros/arte/sedes_copa.jpg" >}}
+	{{< figure src="img/livros/arte/spny.jpg" >}}
+	{{< figure src="img/livros/arte/terra_bras.jpg" >}}
 {{< /gallery >}}

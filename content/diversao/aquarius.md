@@ -13,9 +13,9 @@ Jogo de cartas para criancas e adultos.
 Jogo importador, em bom estado. Sem dependencia de idioma.
 
 {{< gallery >}}
-{{< figure src="../../img/diversao/aquarius/1.jpg" >}}
-{{< figure src="../../img/diversao/aquarius/3.jpg" >}}
-{{< figure src="../../img/diversao/aquarius/4.jpg" >}}
-{{< figure src="../../img/diversao/aquarius/5.jpg" >}}
+{{< figure src="img/diversao/aquarius/1.jpg" >}}
+{{< figure src="img/diversao/aquarius/3.jpg" >}}
+{{< figure src="img/diversao/aquarius/4.jpg" >}}
+{{< figure src="img/diversao/aquarius/5.jpg" >}}
 
 {{< /gallery >}}

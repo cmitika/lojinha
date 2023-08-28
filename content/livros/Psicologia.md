@@ -11,11 +11,11 @@ weight = 1
 ## Alexander Lower - Bioenergetica
 
 {{< gallery >}}
-{{< figure src="../../img/livros/psicologia/lowen1.jpg" >}}
-{{< figure src="../../img/livros/psicologia/lowen2.jpg" >}}
-{{< figure src="../../img/livros/psicologia/lowen3.jpg" >}}
-{{< figure src="../../img/livros/psicologia/lowen4.jpg" >}}
-{{< figure src="../../img/livros/psicologia/lowen5.jpg" >}}
+{{< figure src="img/livros/psicologia/lowen1.jpg" >}}
+{{< figure src="img/livros/psicologia/lowen2.jpg" >}}
+{{< figure src="img/livros/psicologia/lowen3.jpg" >}}
+{{< figure src="img/livros/psicologia/lowen4.jpg" >}}
+{{< figure src="img/livros/psicologia/lowen5.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -23,11 +23,11 @@ weight = 1
 ## Wilhelm Reich
 
 {{< gallery >}}
-{{< figure src="../../img/livros/psicologia/reich1.jpg" >}}
-{{< figure src="../../img/livros/psicologia/reich2.jpg" >}}
-{{< figure src="../../img/livros/psicologia/reich3.jpg" >}}
-{{< figure src="../../img/livros/psicologia/reich4.jpg" >}}
-{{< figure src="../../img/livros/psicologia/photo_2023-08-20_16-41-19.jpg" >}}
+{{< figure src="img/livros/psicologia/reich1.jpg" >}}
+{{< figure src="img/livros/psicologia/reich2.jpg" >}}
+{{< figure src="img/livros/psicologia/reich3.jpg" >}}
+{{< figure src="img/livros/psicologia/reich4.jpg" >}}
+{{< figure src="img/livros/psicologia/photo_2023-08-20_16-41-19.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -35,8 +35,8 @@ weight = 1
 ## Winnicott
 
 {{< gallery >}}
-{{< figure src="../../img/livros/psicologia/winnicott1.jpg" >}}
-{{< figure src="../../img/livros/psicologia/winnicott2.jpg" >}}
+{{< figure src="img/livros/psicologia/winnicott1.jpg" >}}
+{{< figure src="img/livros/psicologia/winnicott2.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -44,7 +44,7 @@ weight = 1
 ## Diversos
 
 {{< gallery >}}
-{{< figure src="../../img/livros/psicologia/20230825_111256.jpg" >}}
-{{< figure src="../../img/livros/psicologia/gaiarsa1.jpg" >}}
-{{< figure src="../../img/livros/psicologia/gaiarsa2.jpg" >}}
+{{< figure src="img/livros/psicologia/20230825_111256.jpg" >}}
+{{< figure src="img/livros/psicologia/gaiarsa1.jpg" >}}
+{{< figure src="img/livros/psicologia/gaiarsa2.jpg" >}}
 {{< /gallery >}}

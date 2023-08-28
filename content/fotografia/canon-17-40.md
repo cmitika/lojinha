@@ -12,7 +12,7 @@ Lente novissima, sem marcas, sinais ou arranhoes.
 Segue na caixa, com manual e hood.
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/17_40/1740-1.png" >}}
-{{< figure src="../../img/fotografia/17_40/1740-2.png" >}}
+{{< figure src="img/fotografia/17_40/1740-1.png" >}}
+{{< figure src="img/fotografia/17_40/1740-2.png" >}}
 
 {{< /gallery >}}

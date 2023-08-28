@@ -12,12 +12,12 @@ weight = 100
 - 1x Rebatedor Greika 5x1 110cm
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/fundo_infinito/discholder1.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/REBATEDOR.png" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/discholder3.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/discholder1.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/REBATEDOR.png" >}}
+{{< figure src="img/fotografia/fundo_infinito/discholder3.jpg" >}}
 
-{{< figure src="../../img/fotografia/fundo_infinito/discholder.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/discholder2.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/discholder4.jpg" >}}
-{{< figure src="../../img/fotografia/fundo_infinito/rebatedor.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/discholder.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/discholder2.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/discholder4.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/rebatedor.jpg" >}}
 {{< /gallery >}}

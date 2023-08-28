@@ -30,8 +30,8 @@ Multimetro Digital Uni-t Ut61e. Novo, sem marcas ou sinais, sem defeitos, avaria
 
 
 {{< gallery >}}
-{{< figure src="../../img/casa/multimetro/1.jpg" >}}
-{{< figure src="../../img/casa/multimetro/2.jpg" >}}
-{{< figure src="../../img/casa/multimetro/3.rotated.jpg" >}}
+{{< figure src="img/casa/multimetro/1.jpg" >}}
+{{< figure src="img/casa/multimetro/2.jpg" >}}
+{{< figure src="img/casa/multimetro/3.rotated.jpg" >}}
 {{< /gallery >}}
 

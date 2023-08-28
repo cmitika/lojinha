@@ -17,6 +17,6 @@ Acompanha controle-remoto original, cabos, manuais e caixa original.
 Segue com Sony Blu-Ray player e Receptor Google Chromecast.
 
 {{< gallery >}}
-{{< figure src="../../img/eletronicos/tv/photo_2023-08-19_14-38-15.jpg" >}}
-{{< figure src="../../img/eletronicos/tv/photo_2023-08-19_14-38-10.jpg" >}}
+{{< figure src="img/eletronicos/tv/photo_2023-08-19_14-38-15.jpg" >}}
+{{< figure src="img/eletronicos/tv/photo_2023-08-19_14-38-10.jpg" >}}
 {{< /gallery >}}

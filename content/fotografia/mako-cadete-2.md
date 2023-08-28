@@ -15,6 +15,6 @@ Tripe de 3 estagios para estudio, com braco e contra-peso.
 - Altura max: 2.7m
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/fundo_infinito/cadete.jpg" >}}
+{{< figure src="img/fotografia/fundo_infinito/cadete.jpg" >}}
 
 {{< /gallery >}}

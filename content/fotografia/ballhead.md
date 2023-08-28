@@ -13,8 +13,8 @@ Ballhead Arca Swiss Monoball Z1 com Flip Lock
 Como nova. Acompanha caixa e acessorios.
 
 {{< gallery >}}
-{{< figure src="../../img/fotografia/arcaswiss/arcaswiss-z1.jpg" >}}
-{{< figure src="../../img/fotografia/arcaswiss/arcaswiss-z1-2.jpg" >}}
-{{< figure src="../../img/fotografia/arcaswiss/as1.png" >}}
-{{< figure src="../../img/fotografia/arcaswiss/as2.png" >}}
+{{< figure src="img/fotografia/arcaswiss/arcaswiss-z1.jpg" >}}
+{{< figure src="img/fotografia/arcaswiss/arcaswiss-z1-2.jpg" >}}
+{{< figure src="img/fotografia/arcaswiss/as1.png" >}}
+{{< figure src="img/fotografia/arcaswiss/as2.png" >}}
 {{< /gallery >}}

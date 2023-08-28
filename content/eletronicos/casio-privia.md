@@ -14,10 +14,10 @@ Piano completo, com pedal, fonte, suporte partitura, cabos e manuais. Segue na c
 Acompanha o phone de ouvido Akg K240 MkII e o rack de aluminio mostrados nas fotos.
 
 {{< gallery >}}
-{{< figure src="../../img/eletronicos/piano/p1.jpg" >}}
-{{< figure src="../../img/eletronicos/piano/p2.jpg" >}}
+{{< figure src="img/eletronicos/piano/p1.jpg" >}}
+{{< figure src="img/eletronicos/piano/p2.jpg" >}}
 
-{{< figure src="../../img/eletronicos/piano/p3.jpg" >}}
-{{< figure src="../../img/eletronicos/piano/p4.jpg" >}}
+{{< figure src="img/eletronicos/piano/p3.jpg" >}}
+{{< figure src="img/eletronicos/piano/p4.jpg" >}}
 {{< /gallery >}}
 

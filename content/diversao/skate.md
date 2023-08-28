@@ -24,15 +24,15 @@ Sem nenhuma marca de grind, sem trinco, sem cantos amassados, nada. Como novo.
 - Amortercedores Thunder Blue
 
 {{< gallery >}}
-{{< figure src="../../img/diversao/skate/1.jpg" >}}
-{{< figure src="../../img/diversao/skate/2.jpg" >}}
-{{< figure src="../../img/diversao/skate/4.jpg" >}}
+{{< figure src="img/diversao/skate/1.jpg" >}}
+{{< figure src="img/diversao/skate/2.jpg" >}}
+{{< figure src="img/diversao/skate/4.jpg" >}}
 
-{{< figure src="../../img/diversao/skate/6.jpg" >}}
-{{< figure src="../../img/diversao/skate/7.jpg" >}}
-{{< figure src="../../img/diversao/skate/8.jpg" >}}
+{{< figure src="img/diversao/skate/6.jpg" >}}
+{{< figure src="img/diversao/skate/7.jpg" >}}
+{{< figure src="img/diversao/skate/8.jpg" >}}
 
-{{< figure src="../../img/diversao/skate/9.jpg" >}}
-{{< figure src="../../img/diversao/skate/10.jpg" >}}
+{{< figure src="img/diversao/skate/9.jpg" >}}
+{{< figure src="img/diversao/skate/10.jpg" >}}
 
 {{< /gallery >}}
