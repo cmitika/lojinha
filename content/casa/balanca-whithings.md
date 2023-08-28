@@ -15,6 +15,6 @@ Body+ é uma balança inteligente Wi-Fi que possui peso altamente preciso (+-0,1
 Suporta multiplos perfis de usuario (toda a familia), conecta com wifi e bluetooth, envia todas as medicoes para o website e voce pode consultar pelo app iPhone/Android.
 
 {{< gallery >}}
-{{< figure src="../../img/casa/balanca_withings/2023-08-22_16-15.png" >}}
-{{< figure src="../../img/casa/balanca_withings/photo_2023-08-22_16-28-13.rotated.jpg" >}}
+{{< figure src="img/casa/balanca_withings/2023-08-22_16-15.png" >}}
+{{< figure src="img/casa/balanca_withings/photo_2023-08-22_16-28-13.rotated.jpg" >}}
 {{< /gallery >}}

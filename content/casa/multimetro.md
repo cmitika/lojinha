@@ -5,12 +5,12 @@ image = "img/casa/multimetro/2.jpg"
 showonlyimage = false
 weight = 1
 +++
-#### R$ 300
+**R$ 300**
 
 Multimetro Digital Uni-t Ut61e. Novo, sem marcas ou sinais, sem defeitos, avarias ou quaisquer outros problemas.
 <!--more-->
 
-## Caracteristicas
+#### Caracteristicas
 
 - Range automatico e manual
 - Mede voltagem e corrente, resistencia e continuidade, capacitancia e frequencia
@@ -19,7 +19,7 @@ Multimetro Digital Uni-t Ut61e. Novo, sem marcas ou sinais, sem defeitos, avaria
 - Tamanho: 180mm x 87mm x 47mm
 - Peso: 370 gramas
 
-## O que esta incluso
+#### O que esta incluso
 
 - Multimetro
 - Cabos e ponteiras de mensuracao
