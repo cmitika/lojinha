@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Taca_strauss.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 200**
+<span class="price">R$ 200</span>
 <!--more-->
 
 - 6 taças de cristal para champagne

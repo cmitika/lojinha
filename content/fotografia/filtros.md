@@ -5,7 +5,7 @@ image = "img/fotografia/filtro/leannecole-formatt-hitech-filter-holder-51.webp"
 showonlyimage = false
 weight = 2
 +++
-**R$ 4.000**
+<span class="price">R$ 4.000</span>
 
 Kit [Formatt Hitech](https://formatt-hitechusa.com) Holder + Firecrest Ultra Filters
 <!--more-->

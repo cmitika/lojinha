@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Prato_bolo.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 40**
+<span class="price">R$ 40</span>
 
 <!--more-->
 

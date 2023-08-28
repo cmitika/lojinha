@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Processador_alimento.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~237~~ por **R$ 100**
+De ~~237~~ por <span class="price">R$ 100</span>
 
 <!--more-->
 

@@ -5,8 +5,9 @@ image = "img/livros/business/d11b2165d390cfd4100d69dce7eb2a1c.jpg"
 showonlyimage = false
 weight = 1
 +++
+<span class="price">R$ 20</span>
 <!--more-->
-## Livros diversos, por R$ 20
+## Livros diversos
 
 {{< gallery >}}
 {{< figure src="img/livros/business/e4df59598fefa9f2908d2c896f30c7be.jpg" >}}

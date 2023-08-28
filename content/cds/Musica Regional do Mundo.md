@@ -5,8 +5,8 @@ image = "img/cds/world-regional/20170813_154313.jpg"
 showonlyimage = false
 weight = 1
 +++
+<span class="price">R$ 20</span>
 <!--more-->
-**R$ 20** qualquer CD
 
 ## Casa de La Trova
 {{< gallery >}}

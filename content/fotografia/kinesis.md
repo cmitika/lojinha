@@ -5,7 +5,7 @@ image = "img/fotografia/mochila_kinesis/tt-example2.jpg"
 showonlyimage = false
 weight = 50
 +++
-**R$ 1.600**
+<span class="price">R$ 1.600</span>
 
 Mochila Kinesis + Kit Think Tank de Bolsos Articulados
 <!--more-->

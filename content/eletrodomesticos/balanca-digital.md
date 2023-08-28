@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Balanca_digital_vermelha.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 50**
+<span class="price">R$ 50</span>
 <!--more-->
 
 Balança digital para Cozinha

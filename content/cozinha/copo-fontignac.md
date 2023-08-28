@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Copos_Fontignac.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 80**
+<span class="price">R$ 80</span>
 <!--more-->
 
 Copos Fontignac	

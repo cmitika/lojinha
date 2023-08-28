@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Porta_Capsula_Cube.jpg"
 showonlyimage = false
 weight = 1
 +++
-DE ~~270~~ por **R$ 120**
+DE ~~270~~ por <span class="price">R$ 120</span>
 
 <!--more-->
 

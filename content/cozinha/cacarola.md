@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Cacarola.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 150**
+<span class="price">R$ 150</span>
 
 <!--more-->
 

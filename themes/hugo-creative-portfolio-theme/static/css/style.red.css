@@ -2112,3 +2112,9 @@ a.list-group-item.active > .badge,
 .nav-pills > li > a > .badge {
   margin-left: 3px;
 }
+
+
+.price {
+  color: green;
+  font-weight: bold;
+}

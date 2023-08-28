@@ -5,7 +5,7 @@ image = "img/casa/cozinha/fruteira_flor.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 150**
+<span class="price">R$ 150</span>
 
 <!--more-->
 

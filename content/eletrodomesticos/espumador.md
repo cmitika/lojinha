@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Espumador_leite.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~499~~ por **R$ 260**
+De ~~499~~ por <span class="price">R$ 260</span>
 
 <!--more-->
 

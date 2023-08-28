@@ -5,7 +5,7 @@ image = "img/fotografia/5D/canon_5260b054_eos_5d_mark_iii_1009419-124219289.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 6.500**
+<span class="price">R$ 6.500</span>
 
 Camera novissima, com apenas 8.400 cliques e somente 1.082 usos do LiveView!
 <!--more-->

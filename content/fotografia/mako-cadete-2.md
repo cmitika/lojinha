@@ -5,7 +5,7 @@ image = "img/fotografia/fundo_infinito/cadete.jpg"
 showonlyimage = false
 weight = 100
 +++
-**R$ 200**
+<span class="price">R$ 200</span>
 
 Tripe de 3 estagios para estudio, com braco e contra-peso.
 

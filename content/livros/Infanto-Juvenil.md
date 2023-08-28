@@ -5,8 +5,8 @@ image = "img/livros/infantil/33f7f97a1b28150335660e91ee7314ab.jpg"
 showonlyimage = false
 weight = 1
 +++
+<span class="price">R$ 20</span>
 <!--more-->
-**R$ 20** qualquer livro
 
 ## Monteiro Lobato
 

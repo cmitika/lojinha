@@ -5,7 +5,7 @@ image = "img/casa/cozinha/garrafa_termica.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 70**
+<span class="price">R$ 70</span>
 
 <!--more-->
 

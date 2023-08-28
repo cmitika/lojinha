@@ -5,7 +5,7 @@ image = "img/fotografia/mochila_kata/2023-07-07_16-55.png"
 showonlyimage = false
 weight = 50
 +++
-**R$ 800**
+<span class="price">R$ 800</span>
 
 Mochila Kata 3N1 35 PL em estado de nova.
 <!--more-->

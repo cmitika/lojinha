@@ -5,7 +5,7 @@ image = "img/fotografia/plates/kirk-bl-5dg.jpg"
 showonlyimage = false
 weight = 200
 +++
-**R$ 100**
+<span class="price">R$ 100</span>
 
 Plate Kirk BL-5DG para Canon EOS 5D com grip.
 

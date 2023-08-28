@@ -5,7 +5,7 @@ image = "img/fotografia/papel_foto/20180204_170727.jpg"
 showonlyimage = false
 weight = 300
 +++
-**R$ 50**
+<span class="price">R$ 50</span>
 
 Diversas caixas de papel fotografico. Tamanhos e tipos variados.
 <!--more-->

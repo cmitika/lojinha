@@ -5,8 +5,8 @@ image = "img/livros/design/DIY_Furniture.jpg"
 showonlyimage = false
 weight = 1
 +++
+<span class="price">R$ 20</span>
 <!--more-->
-## Diversos, por R$ 20
 
 {{< gallery >}}
 {{< figure src="img/livros/design/1c83eb184a90886cea999bb0d46e9b53.jpg" >}}

@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Liquidificador.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~2,399~~ por **R$ 1,200**
+De ~~2,399~~ por <span class="price">R$ 1.200</span>
 
 <!--more-->
 

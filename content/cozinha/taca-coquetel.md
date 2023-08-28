@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Taca_coquetel.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 10**
+<span class="price">R$ 10</span>
 <!--more-->
 
 - 1 taça para coquetel

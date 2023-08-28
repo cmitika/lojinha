@@ -5,7 +5,7 @@ image = "img/casa/cozinha/bandeja_coelho.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 180**
+<span class="price">R$ 180</span>
 
 Porta docinho ou cupcake, de madeira.
 <!--more-->

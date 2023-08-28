@@ -5,7 +5,7 @@ image = "img/fotografia/arcaswiss/arcaswiss-z1.jpg"
 showonlyimage = false
 weight = 10
 +++
-**R$ 2.000**
+<span class="price">R$ 2.000</span>
 
 Ballhead Arca Swiss Monoball Z1 com Flip Lock
 <!--more-->

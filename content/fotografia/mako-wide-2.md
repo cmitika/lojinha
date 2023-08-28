@@ -5,7 +5,7 @@ image = "img/fotografia/fundo_infinito/wide2.jpg"
 showonlyimage = false
 weight = 100
 +++
-**R$ 200**
+<span class="price">R$ 200</span>
 
 Tripe para estudio, novo, na caixa.
 <!--more-->

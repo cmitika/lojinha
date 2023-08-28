@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Tigelas_quadradas.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 30**
+<span class="price">R$ 30</span>
 
 <!--more-->
 

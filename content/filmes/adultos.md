@@ -5,7 +5,7 @@ image = "img/filmes/adultos/photo_2023-08-25_10-45-21.rotated.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 20**
+<span class="price">R$ 20</span>
 <!--more-->
 
 {{< gallery >}}

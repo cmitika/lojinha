@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Cestos_vime1.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 40**
+<span class="price">R$ 40</span>
 <!--more-->
 
 Cestos de vime, para pães, pode ser usado também para fermentação natural

@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Taca_Champagne_Cristal.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 60**
+<span class="price">R$ 60</span>
 <!--more-->
 
 Taças Champagne Cristal

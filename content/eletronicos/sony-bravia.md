@@ -5,7 +5,7 @@ image = "img/eletronicos/tv/photo_2023-08-19_14-38-15.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 3.500**
+<span class="price">R$ 3.500</span>
 
 TV em estado de nova, sem marcas e sinais.
 <!--more-->

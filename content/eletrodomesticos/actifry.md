@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Actifry.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 100**
+<span class="price">R$ 100</span>
 
 <!--more-->
 

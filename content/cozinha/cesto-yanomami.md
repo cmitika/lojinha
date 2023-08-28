@@ -5,7 +5,7 @@ image = "img/casa/cozinha/cestos.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 300**
+<span class="price">R$ 300</span>
 
 4 cestas yanomami, feitos artesanalmente. 	
 <!--more-->

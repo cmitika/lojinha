@@ -5,7 +5,7 @@ image = "img/casa/cozinha/xicara_view.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 60**
+<span class="price">R$ 60</span>
 
 <!--more-->
 

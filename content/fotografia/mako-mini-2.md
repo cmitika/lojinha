@@ -5,7 +5,7 @@ image = "img/fotografia/fundo_infinito/mini2.jpg"
 showonlyimage = false
 weight = 100
 +++
-**R$ 150**
+<span class="price">R$ 150</span>
 
 Novo, na caixa.
 <!--more-->

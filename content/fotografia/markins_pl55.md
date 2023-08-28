@@ -5,7 +5,7 @@ image = "img/fotografia/plates/Markins-pl55-0.jpg"
 showonlyimage = false
 weight = 200
 +++
-**R$ 100**
+<span class="price">R$ 100</span>
 
 Plate Universal Markin PL55 para tele-objectivas.
 <!--more-->

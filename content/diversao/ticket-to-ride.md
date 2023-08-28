@@ -5,7 +5,7 @@ image = ""
 showonlyimage = false
 weight = 1
 +++
-De ~~350~~ por **R$ 250**
+De ~~350~~ por <span class="price">R$ 250</span>
 
 Jogo de tabuleiro para todas as idades
 

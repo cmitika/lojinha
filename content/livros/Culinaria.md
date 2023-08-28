@@ -5,9 +5,11 @@ image = "img/livros/culinaria/vinho 2.jpg"
 showonlyimage = false
 weight = 1
 +++
+
+<span class="price">R$ 20</span>
 <!--more-->
 
-## Vinho, por R$ 20
+## Vinho
 
 {{< gallery >}}
 {{< figure src="img/livros/culinaria/vinho 6.jpg" >}}
@@ -21,7 +23,7 @@ weight = 1
 
 ---
 
-## Culinaria & Receitas, por R$ 20
+## Culinaria & Receitas
 
 {{< gallery >}}
 {{< figure src="img/livros/culinaria/2f6012bc14649800b194cacd342b896a.jpg" >}}

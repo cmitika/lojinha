@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Pratos.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 75**
+<span class="price">R$ 75</span>
 
 <!--more-->
 

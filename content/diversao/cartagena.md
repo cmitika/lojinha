@@ -5,7 +5,7 @@ image = "img/diversao/cartagena/box.png"
 showonlyimage = false
 weight = 1
 +++
-**R$ 200**
+<span class="price">R$ 200</span>
 
 Jogo de tabuleiro para criancas e adultos.
 <!--more-->

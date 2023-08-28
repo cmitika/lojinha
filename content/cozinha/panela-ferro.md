@@ -5,7 +5,7 @@ image = "img/casa/cozinha/panela_ferro_pequena.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 50**
+<span class="price">R$ 50</span>
 
 <!--more-->
 

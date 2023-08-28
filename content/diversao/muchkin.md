@@ -5,7 +5,7 @@ image = "img/diversao/munchkin/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~120~~ por **R$ 80**
+De ~~120~~ por <span class="price">R$ 80</span>
 
 Jogo de cartas
 

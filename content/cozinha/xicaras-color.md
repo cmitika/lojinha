@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Xicaras_coloridas1.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 30**
+<span class="price">R$ 30</span>
 
 <!--more-->
 

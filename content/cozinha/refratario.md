@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Refratario_porcelana.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 20**
+<span class="price">R$ 20</span>
 
 <!--more-->
 

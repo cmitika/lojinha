@@ -5,7 +5,7 @@ image = "img/eletronicos/piano/p3.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 4.500**
+<span class="price">R$ 4.500</span>
 
 Piano Casio Privia PXS-3000 + Rack + Phone AKG. Em estado de novo, adquirido em marco/2022.
 <!--more-->

@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Microondas.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~1.400~~ por **R$ 700**
+De ~~1.400~~ por <span class="price">R$ 700</span>
 
 <!--more-->
 

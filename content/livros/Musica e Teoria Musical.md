@@ -5,8 +5,8 @@ image = "img/livros/musica/476882f223c5eb8019e7d3743517312c.jpg"
 showonlyimage = false
 weight = 1
 +++
+<span class="price">R$ 20</span>
 <!--more-->
-**R$ 20** qualquer livro
 
 {{< gallery >}}
 {{< figure src="img/livros/musica/17b4c8a0b72fe5d71e267ba005202108.jpg" >}}

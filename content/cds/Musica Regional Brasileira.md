@@ -5,8 +5,8 @@ image = "img/cds/brasil-regional/20170813_155919.jpg"
 showonlyimage = false
 weight = 1
 +++
+<span class="price">R$ 20</span>
 <!--more-->
-**R$ 20** qualquer CD
 
 ## Imperdiveis
 

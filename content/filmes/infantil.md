@@ -5,7 +5,7 @@ image = "img/filmes/infanto-juvenil/photo_2023-08-25_10-44-44.rotated.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 20**
+<span class="price">R$ 20</span>
 <!--more-->
 
 

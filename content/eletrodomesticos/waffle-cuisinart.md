@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Maquina_Waffle.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~R$ 649~~ por **R$ 250**
+De ~~R$ 649~~ por <span class="price">R$ 250</span>
 
 <!--more-->
 

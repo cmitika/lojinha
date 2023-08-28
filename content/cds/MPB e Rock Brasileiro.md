@@ -5,8 +5,8 @@ image = "img/cds/brasil-mpb/20170813_161010.jpg"
 showonlyimage = false
 weight = 1
 +++
+<span class="price">R$ 20</span>
 <!--more-->
-**R$ 20** qualquer CD
 
 ## Alceu 
 

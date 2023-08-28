@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Panela_frigideira_ferro.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 90**
+<span class="price">R$ 90</span>
 
 <!--more-->
 

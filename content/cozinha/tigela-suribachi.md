@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Tigela_Suribachi.jpg"
 showonlyimage = false
 weight = 1
 +++
-De ~~180~~ por **R$ 70**
+De ~~180~~ por <span class="price">R$ 70</span>
 
 <!--more-->
 

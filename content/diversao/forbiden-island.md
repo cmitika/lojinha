@@ -5,7 +5,7 @@ image = ""
 showonlyimage = false
 weight = 1
 +++
-**R$ 100**
+<span class="price">R$ 100</span>
 
 Jogo de tabuleiro para todas as idades.
 <!--more-->

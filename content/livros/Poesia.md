@@ -5,6 +5,7 @@ image = "img/livros/poesia/photo_2023-08-20_16-31-10.jpg"
 showonlyimage = false
 weight = 1
 +++
+<span class="price">R$ 20 e R$ 5</span>
 <!--more-->
 ## Imperdiveis, por R$ 20
 
