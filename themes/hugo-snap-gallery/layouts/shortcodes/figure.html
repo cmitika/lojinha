@@ -3,7 +3,7 @@
   SPDX-License-Identifier: MIT
 -->
 <!-- count how many times we've called this shortcode; load the css if it's the first time -->
-{{- if not ($.Page.Scratch.Get "figurecount") }}<link rel="stylesheet" href="/css/snap-gallery.css" />{{ end }}
+{{- if not ($.Page.Scratch.Get "figurecount") }}<link rel="stylesheet" href="{{ "css/snap-gallery.css" | absURL }}" />{{ end }}
 {{- $.Page.Scratch.Add "figurecount" 1 -}}
 <!-- use src image -->
 {{- $thumb := .Get "src" -}}
