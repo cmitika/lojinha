@@ -2118,3 +2118,8 @@ a.list-group-item.active > .badge,
   color: green;
   font-weight: bold;
 }
+
+.sold {
+  color: gray;
+  font-style: strikethrough;
+}

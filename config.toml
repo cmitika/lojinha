@@ -56,6 +56,10 @@ googleAnalytics = ""
   url = "eletronicos/"
 
   [[params.navlinks]]
+  name = "Moveis & Decoracao"
+  url = "moveis/"
+
+  [[params.navlinks]]
   name = "Filmes"
   url = "filmes/"
 
@@ -79,6 +83,13 @@ googleAnalytics = ""
   name = "Fotografia"
   url = "fotografia/"
 
+  [[params.navlinks]]
+  name = "Reservados"
+  url = "reservado/"
+
+  [[params.navlinks]]
+  name = "Vendidos"
+  url = "sold/"
 
   [params.social]
   facebook      = "https://www.facebook.com/cassia.mitikami"

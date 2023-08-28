@@ -11,6 +11,7 @@ Porta docinho ou cupcake, de madeira.
 <!--more-->
 
 - 30 e 20 cm de diâmetro
+- Demonstavel e facil de guardar
 
 {{< gallery >}}
 {{< figure src="img/casa/cozinha/bandeja_coelho.jpg" >}}

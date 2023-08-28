@@ -1,5 +1,5 @@
 +++
-title = "Caçarola"
+title = "Caçarola Azul"
 draft = false
 image = "img/casa/cozinha/Cacarola.jpg"
 showonlyimage = false

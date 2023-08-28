@@ -5,7 +5,7 @@ image = "img/casa/multimetro/2.jpg"
 showonlyimage = false
 weight = 1
 +++
-**R$ 300**
+<span class="sold">~~R$ 300~~</span> **VENDIDO!**
 
 Multimetro Digital Uni-t Ut61e. Novo, sem marcas ou sinais, sem defeitos, avarias ou quaisquer outros problemas.
 <!--more-->
