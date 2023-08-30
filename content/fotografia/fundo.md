@@ -12,7 +12,11 @@ Suporte de Fundo e Rolo de Papel Importado da BD Company
 
 Novos, sem uso.
 
-- 1x Kit para Fundo com Tripés, Haste OneClic da Mako e pinca pony importada
+Kit para Fundo contendo:
+
+- 2x Tripés Mako Wide II
+- 1x Haste OneClic Mako retratil
+- 2x Pinca Pony importada
 - 1x Rolo de Papel Dovegrey (BD Company USA, codigo 109-Dovegrey, 2,72m x 11 metros)
 
 {{< gallery >}}

@@ -5,10 +5,10 @@ image = "img/fotografia/fundo_infinito/discholder2.jpg"
 showonlyimage = false
 weight = 100
 +++
-<span class="price">R$ 250</span>
+De ~~500~~ por <span class="price">R$ 300</span>
 <!--more-->
 
-- 1x Light Disc Holder (braco articulado para rebatedor)
+- 1x Light Disc Holder Atek (braco articulado para rebatedor)
 - 1x Rebatedor Greika 5x1 110cm
 
 {{< gallery >}}

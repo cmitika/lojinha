@@ -43,6 +43,10 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
+  name = "Novidades"
+  url = "about/"
+
+  [[params.navlinks]]
   name = "Cozinha"
   url = "cozinha/"
   home = true

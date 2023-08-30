@@ -5,14 +5,21 @@ image = "img/fotografia/fundo_infinito/wide2.jpg"
 showonlyimage = false
 weight = 100
 +++
-<span class="price">R$ 200</span>
+DE ~~400~~ por <span class="price">R$ 200</span>
 
 Tripe para estudio, novo, na caixa.
 <!--more-->
 
-- Altura min: 1.2m
-- Altura max: 2.7m
+Tripe Mako Wide-2 para estudio. Duas unidades disponiveis.
+
+- Com haste telescópica de 2 seções.
+- Produzido em alumínio, com conexões de nylon reforçadas com fibra de vidro. 
+- Possui pino Ø 5/8" para encaixe de flashes, luminárias e acessórios.
+- Altura min: 1.18m
+- Altura max: 2.68m
 - Comprimento Fechado: 1m
+- Peso: 2.2kg
+- Peso maximo: 10kg
 
 
 {{< gallery >}}

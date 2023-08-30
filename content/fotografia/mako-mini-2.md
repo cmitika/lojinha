@@ -5,14 +5,21 @@ image = "img/fotografia/fundo_infinito/mini2.jpg"
 showonlyimage = false
 weight = 100
 +++
-<span class="price">R$ 150</span>
+DE ~~230~~ por <span class="price">R$ 150</span>
 
 Novo, na caixa.
 <!--more-->
 
+Tripe Mako Mini-2 de aluminio. Duas unidades disponiveis.
+
+- Com haste telescópica de 2 seções.
+- Produzido em alumínio, com conexões de nylon reforçadas com fibra de vidro.
+- Possui pino Ø 5/8" para encaixe de flashes, luminárias e acessórios.
 - Altura min: 0.8m
-- Altura max: 1.85m
-- Comprimento Fechado: 0.7m
+- Altura max: 1.84m
+- Comprimento Fechado: 0.72m
+- Peso: 1.1kg
+- Peso Maximo: 5kg
 
 {{< gallery >}}
 {{< figure src="img/fotografia/fundo_infinito/mini1.jpg" >}}

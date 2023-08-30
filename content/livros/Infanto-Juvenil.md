@@ -75,5 +75,48 @@ weight = 1
 
 {{< figure src="img/livros/infantil/f8ae0c72c699bf847ca4c892bc3e4646.jpg" >}}
 {{< figure src="img/livros/infantil/fb14842f36617ad61942b5c4ae7a6181.jpg" >}}
+{{< figure src="img/livros/infantil/Alice_maravilhas_cordel.jpg" >}}
+{{< figure src="img/livros/infantil/antes_depois.jpg" >}}
+{{< figure src="img/livros/infantil/baby_animals.jpg" >}}
+{{< figure src="img/livros/infantil/Bruxinha_zuzu.jpg" >}}
+{{< figure src="img/livros/infantil/Classes_sociais.jpg" >}}
+{{< figure src="img/livros/infantil/collins_places.jpg" >}}
+{{< figure src="img/livros/infantil/collins_world.jpg" >}}
+{{< figure src="img/livros/infantil/Democracia.jpg" >}}
+{{< figure src="img/livros/infantil/Ditadura_assim.jpg" >}}
+{{< figure src="img/livros/infantil/enigma_capela_real.jpg" >}}
+{{< figure src="img/livros/infantil/Era_uma_vez_castelo.jpg" >}}
+{{< figure src="img/livros/infantil/Era_uma_vez_televisao.jpg" >}}
+{{< figure src="img/livros/infantil/escaravelho_diabo.jpg" >}}
+{{< figure src="img/livros/infantil/eu_queria.jpg" >}}
+{{< figure src="img/livros/infantil/HarryPotter_camara.jpg" >}}
+{{< figure src="img/livros/infantil/historias_japonesas1.jpg" >}}
+{{< figure src="img/livros/infantil/historias_japonesas2.jpg" >}}
+{{< figure src="img/livros/infantil/Historias_mukashi.jpg" >}}
+{{< figure src="img/livros/infantil/Hobbit.jpg" >}}
+{{< figure src="img/livros/infantil/IMG_1800.jpg" >}}
+{{< figure src="img/livros/infantil/Joca_sopra.jpg" >}}
+{{< figure src="img/livros/infantil/Joca_sopra1.jpg" >}}
+{{< figure src="img/livros/infantil/Judymoody.jpg" >}}
+{{< figure src="img/livros/infantil/Lendas_japao.jpg" >}}
+{{< figure src="img/livros/infantil/Loira_banheiro.jpg" >}}
+{{< figure src="img/livros/infantil/MabelJones_cidade.jpg" >}}
+{{< figure src="img/livros/infantil/MabelJones_improvaveis_aventuras.jpg" >}}
+{{< figure src="img/livros/infantil/Mimi.jpg" >}}
+{{< figure src="img/livros/infantil/Miseraveis.jpg" >}}
+{{< figure src="img/livros/infantil/misterio_ilha_joao.jpg" >}}
+{{< figure src="img/livros/infantil/misterio_museu_imperial.jpg" >}}
+{{< figure src="img/livros/infantil/Misterios_verdejantes.jpg" >}}
+{{< figure src="img/livros/infantil/Pilar_africa.jpg" >}}
+{{< figure src="img/livros/infantil/Pilar_egito.jpg" >}}
+{{< figure src="img/livros/infantil/Pilar_grecia.jpg" >}}
+{{< figure src="img/livros/infantil/Pilar_machu.jpg" >}}
+{{< figure src="img/livros/infantil/segredo_colecionador.jpg" >}}
+{{< figure src="img/livros/infantil/united_states.jpg" >}}
+{{< figure src="img/livros/infantil/vals_diary.jpg" >}}
+{{< figure src="img/livros/infantil/Wally.jpg" >}}
 
 {{< /gallery >}}
+
+
+
