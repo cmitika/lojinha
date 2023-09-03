@@ -5,7 +5,7 @@ image = "img/livros/biografia/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">Livros de R$ 5 a R$ 20</span>
+De <span class="price">R$ 5 a R$ 20</span>
 <!--more-->
 
 ## Livros por R$ 5
