@@ -1,7 +1,7 @@
 +++
 title = "Literatura"
 draft = false
-image = "img/livros/literatura/dostoievski1.jpg"
+image = "img/livros/literatura/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

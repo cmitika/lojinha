@@ -1,7 +1,7 @@
 +++
 title = "Regional Brasileira"
 draft = false
-image = "img/cds/brasil-regional/20170813_155919.jpg"
+image = "img/cds/brasil-regional/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

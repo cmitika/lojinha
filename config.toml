@@ -42,9 +42,9 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
-  #[[params.navlinks]]
-  #name = "Novidades"
-  #url = "about/"
+  [[params.navlinks]]
+  name = "Como comprar"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Cozinha"
@@ -80,12 +80,17 @@ googleAnalytics = ""
   url = "diversao/"
 
   [[params.navlinks]]
-  name = "Diversos"
-  url = "casa/"
+  name = "Academia"
+  url = "academia/"
+  type = "post"
 
   [[params.navlinks]]
   name = "Fotografia"
   url = "fotografia/"
+
+  [[params.navlinks]]
+  name = "Diversos"
+  url = "casa/"
 
   #[[params.navlinks]]
   #name = "Reservados"
@@ -96,8 +101,8 @@ googleAnalytics = ""
   #url = "sold/"
 
   [params.social]
-  facebook      = "https://www.facebook.com/cassia.mitikami"
+  #facebook      = "https://www.facebook.com/cassia.mitikami"
   email         = "cassia.mitikami@gmail.com"
-  linkedin      = "https://www.linkedin.com/in/cassia-mitikami-87507817/"
-  instagram     = "full profile url in instagram"
+  #linkedin      = "https://www.linkedin.com/in/cassia-mitikami-87507817/"
+  #instagram     = "full profile url in instagram"
   whatsapp      = "https://wa.me/5511986982529"

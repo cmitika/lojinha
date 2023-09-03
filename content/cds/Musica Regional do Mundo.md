@@ -1,7 +1,7 @@
 +++
 title = "Regional do Mundo"
 draft = false
-image = "img/cds/world-regional/20170813_154313.jpg"
+image = "img/cds/world-regional/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

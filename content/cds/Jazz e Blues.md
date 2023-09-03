@@ -1,7 +1,7 @@
 +++
 title = "Jazz & Blues"
 draft = false
-image = "img/cds/jazz_blues/20170813_153052.jpg"
+image = "img/cds/jazz_blues/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

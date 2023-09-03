@@ -1,7 +1,7 @@
 +++
 title = "Rock"
 draft = false
-image = "img/cds/rock/rag3.jpg"
+image = "img/cds/rock/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

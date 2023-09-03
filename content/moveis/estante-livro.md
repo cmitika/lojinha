@@ -1,5 +1,5 @@
 +++
-title = "Estante Livros"
+title = "3 Estantes de Livros"
 draft = false
 image = "img/moveis/estante1.jpg"
 showonlyimage = false

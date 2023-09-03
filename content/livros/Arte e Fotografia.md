@@ -1,10 +1,11 @@
 +++
 title = "Arte & Fotografia"
 draft = false
-image = "img/livros/arte/mccurry_iconic.jpg"
+image = "img/livros/arte/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
+A partir de <span class="price">R$ 20</span>
 <!--more-->
 
 ## Pintores por R$ 50

@@ -1,7 +1,7 @@
 +++
 title = "Business"
 draft = false
-image = "img/livros/business/d11b2165d390cfd4100d69dce7eb2a1c.jpg"
+image = "img/livros/business/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

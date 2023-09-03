@@ -1,7 +1,7 @@
 +++
 title = "Infanto-Juvenil"
 draft = false
-image = "img/livros/infantil/33f7f97a1b28150335660e91ee7314ab.jpg"
+image = "img/livros/infantil/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

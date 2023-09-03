@@ -1,12 +1,12 @@
 +++
 date = "2023-08-05T21:05:33+05:30"
-title = "Novidades"
+title = "Como comprar"
 +++
 
-#### 30-08-2023
+Basta escolher os itens do seu interesse e entrar em contato:
 
-- Novos livros adicionados em [Literatura Infanto-Juvenil](../livros/infanto-juvenil/)
+- Cassia: [Whatsapp](https://wa.me/5511986982529), [email](mailto:cassia.mitikami@gmail.com), [fone](phone:11986982529)
+- Alex: [Whatsapp](https://wa.me/55119913500874), [email](mailto:alex@alexaraujo.net), [fone](phone:11991350874)
 
-#### 28-08-2023
 
-- Adicionado [Mesa Grande com 6 cadeiras](../moveis/mesa-grande/)
+

@@ -1,7 +1,7 @@
 +++
 title = "Filosofia & Politica"
 draft = false
-image = "img/livros/filosofia/losurdo2.jpg"
+image = "img/livros/filosofia/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

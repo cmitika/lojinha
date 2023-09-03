@@ -1,7 +1,7 @@
 +++
 title = "MPB & Rock Brasil"
 draft = false
-image = "img/cds/brasil-mpb/20170813_161010.jpg"
+image = "img/cds/brasil-mpb/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

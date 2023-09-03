@@ -5,6 +5,7 @@ image = "img/livros/quadrinhos/4d9b76bcd971b538f3d4af1f77d1a413.jpg"
 showonlyimage = false
 weight = 1
 +++
+A partir de <span class="price">R$ 10</span>
 <!--more-->
 
 ## Quadrinhos por R$ 20

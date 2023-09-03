@@ -1,11 +1,11 @@
 +++
 title = "Biografia"
 draft = false
-image = "img/livros/biografia/20230825_111522.jpg"
+image = "img/livros/biografia/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20 e R$ 5</span>
+<span class="price">Livros de R$ 5 a R$ 20</span>
 <!--more-->
 
 ## Livros por R$ 5

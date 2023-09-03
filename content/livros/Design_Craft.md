@@ -1,7 +1,7 @@
 +++
 title = "Design"
 draft = false
-image = "img/livros/design/DIY_Furniture.jpg"
+image = "img/livros/design/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

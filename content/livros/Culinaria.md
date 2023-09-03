@@ -1,7 +1,7 @@
 +++
 title = "Vinho & Culinaria"
 draft = false
-image = "img/livros/culinaria/vinho 2.jpg"
+image = "img/livros/culinaria/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

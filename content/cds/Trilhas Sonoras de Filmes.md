@@ -1,7 +1,7 @@
 +++
 title = "Trilhas Sonoras"
 draft = false
-image = "img/cds/soundtracks/20170813_162209.jpg"
+image = "img/cds/soundtracks/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

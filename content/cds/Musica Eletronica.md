@@ -1,7 +1,7 @@
 +++
 title = "Musica Eletronica"
 draft = false
-image = "img/cds/eletro/20170813_162741.jpg"
+image = "img/cds/eletro/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
