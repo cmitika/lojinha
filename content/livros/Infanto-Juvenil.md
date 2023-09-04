@@ -5,7 +5,7 @@ image = "img/livros/infantil/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+<span class="price">R$ 20</span> cada
 <!--more-->
 
 ## Monteiro Lobato

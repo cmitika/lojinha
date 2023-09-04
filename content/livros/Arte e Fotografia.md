@@ -1,11 +1,14 @@
 +++
-title = "Arte & Fotografia"
+title = "Arte & Fotografia (+20)"
 draft = false
 image = "img/livros/arte/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-A partir de <span class="price">R$ 20</span>
+A partir de <span class="price">R$ 20</span> cada
+</br>
+
+Mais de 20 livros para a sua escolha.
 <!--more-->
 
 ## Pintores por R$ 50
@@ -20,19 +23,19 @@ A partir de <span class="price">R$ 20</span>
 
 ---
 
-## Livros gigantes por R$ 150
+## Livros gigantes por R$ 200
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/portinari.jpg" >}}
 	{{< figure src="img/livros/arte/expressionismo.jpg" >}}
 	{{< figure src="img/livros/arte/salgado_genesis.jpg" caption="Edicao Completa" >}}
-	{{< figure src="img/livros/arte/salgado_trabalhadores.jpg" >}}
+	{{< figure src="img/livros/arte/salgado_trabalhadores.jpg" caption="Edicao Completa" >}}
 	{{< figure src="img/livros/arte/mccurry_iconic.jpg" >}}
 {{< /gallery >}}
 
 ---
 
-## Livros grandes por R$ 100
+## Livros grandes por R$ 150
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/salgado_americas.jpg" >}}

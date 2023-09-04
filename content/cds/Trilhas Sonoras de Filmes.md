@@ -1,11 +1,11 @@
 +++
-title = "Trilhas Sonoras"
+title = "Trilhas Sonoras (10)"
 draft = false
 image = "img/cds/soundtracks/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+<span class="price">R$ 20</span> cada
 <!--more-->
 
 ## A ultima tentacao

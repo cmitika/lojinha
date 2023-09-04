@@ -1,11 +1,11 @@
 +++
-title = "Psicologia"
+title = "Psicologia (15)"
 draft = false
 image = "img/livros/psicologia/winnicott1.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+<span class="price">R$ 20</span> cada
 <!--more-->
 
 ## Alexander Lower - Bioenergetica

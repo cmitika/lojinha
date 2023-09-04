@@ -1,11 +1,11 @@
 +++
-title = "Biografia"
+title = "Biografia (+10)"
 draft = false
 image = "img/livros/biografia/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-De <span class="price">R$ 5 a R$ 20</span>
+De <span class="price">R$ 5 a R$ 20</span> cada
 <!--more-->
 
 ## Livros por R$ 5

@@ -1,12 +1,12 @@
 +++
-title = "Vinho & Culinaria"
+title = "Vinho & Culinaria (+25)"
 draft = false
 image = "img/livros/culinaria/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
 
-<span class="price">R$ 20</span>
+<span class="price">R$ 20</span> cada
 <!--more-->
 
 ## Vinho

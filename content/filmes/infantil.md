@@ -1,11 +1,11 @@
 +++
-title = "DVD e Blu-Ray Infanto-Juvenil"
+title = "DVD e Blu-Ray Infanto-Juvenil (15)"
 draft = false
-image = "img/filmes/infanto-juvenil/photo_2023-08-25_10-44-44.rotated.jpg"
+image = "img/filmes/infanto-juvenil/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+Qualquer filme por <span class="price">R$ 20</span>
 <!--more-->
 
 

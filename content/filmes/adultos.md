@@ -1,11 +1,11 @@
 +++
-title = "DVD e Blu-Ray Adultos"
+title = "DVD e Blu-Ray Adultos (+40)"
 draft = false
-image = "img/filmes/adultos/photo_2023-08-25_10-45-21.rotated.jpg"
+image = "img/filmes/adultos/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+Mais de 40 filmes disponiveis por <span class="price">R$ 20</span> cada
 <!--more-->
 
 {{< gallery >}}

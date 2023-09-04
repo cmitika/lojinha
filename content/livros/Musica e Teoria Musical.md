@@ -1,11 +1,11 @@
 +++
-title = "Musica & Teoria Musical"
+title = "Musica & Teoria Musical (8)"
 draft = false
 image = "img/livros/musica/476882f223c5eb8019e7d3743517312c.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+<span class="price">R$ 20</span> cada
 <!--more-->
 
 {{< gallery >}}

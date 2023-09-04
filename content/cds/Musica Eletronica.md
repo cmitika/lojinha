@@ -1,11 +1,11 @@
 +++
-title = "Musica Eletronica"
+title = "Musica Eletronica (+20)"
 draft = false
 image = "img/cds/eletro/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+<span class="price">R$ 20</span> cada
 <!--more-->
 
 ## Atman

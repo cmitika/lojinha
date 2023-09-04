@@ -1,11 +1,14 @@
 +++
-title = "Rock"
+title = "Rock (+40)"
 draft = false
 image = "img/cds/rock/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+<span class="price">R$ 20</span> cada
+</br>
+
+Mais de 40 cds disponiveis.
 <!--more-->
 
 

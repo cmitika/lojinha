@@ -92,13 +92,13 @@ googleAnalytics = ""
   name = "Diversos"
   url = "casa/"
 
-  #[[params.navlinks]]
-  #name = "Reservados"
-  #url = "reservado/"
+  [[params.navlinks]]
+  name = "Reservados"
+  url = "reservado/"
 
-  #[[params.navlinks]]
-  #name = "Vendidos"
-  #url = "sold/"
+  [[params.navlinks]]
+  name = "Vendidos"
+  url = "sold/"
 
   [params.social]
   #facebook      = "https://www.facebook.com/cassia.mitikami"

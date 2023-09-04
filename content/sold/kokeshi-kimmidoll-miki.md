@@ -5,7 +5,7 @@ image = "img/moveis/kokeshi-kimmidoll-miki1.jpg"
 showonlyimage = false
 weight = 10
 +++
-De ~~125~~ por <span class="price">R$ 75</span>
+<span class="sold">~~R$ 75~~</span> **VENDIDO!**
 
 <!--more-->
 

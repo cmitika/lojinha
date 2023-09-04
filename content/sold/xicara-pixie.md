@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Xicara_Pixie.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 60</span>
+<span class="sold">~~R$ 60~~</span> **VENDIDO!**
 
 <!--more-->
 

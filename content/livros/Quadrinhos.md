@@ -1,5 +1,5 @@
 +++
-title = "Quadrinhos"
+title = "Quadrinhos (20)"
 draft = false
 image = "img/livros/quadrinhos/4d9b76bcd971b538f3d4af1f77d1a413.jpg"
 showonlyimage = false

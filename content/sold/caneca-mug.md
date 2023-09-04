@@ -5,7 +5,7 @@ image = "img/casa/cozinha/Canecas_Mug_Travel.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 100</span>
+<span class="sold">~~R$ 100~~</span> **VENDIDO!**
 
 <!--more-->
 

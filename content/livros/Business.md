@@ -1,11 +1,11 @@
 +++
-title = "Business"
+title = "Business (7)"
 draft = false
 image = "img/livros/business/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+<span class="price">R$ 20</span> cada
 <!--more-->
 ## Livros diversos
 

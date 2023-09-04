@@ -1,11 +1,12 @@
 +++
-title = "Literatura"
+title = "Literatura (+80)"
 draft = false
 image = "img/livros/literatura/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span>
+
+Mais de 80 titulos, <span class="price">R$ 20</span> cada
 <!--more-->
 
 ## Super Classicos
