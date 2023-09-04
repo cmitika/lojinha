@@ -64,6 +64,14 @@ googleAnalytics = ""
   url = "moveis/"
 
   [[params.navlinks]]
+  name = "Ferramentas"
+  url = "ferramentas/"
+
+  [[params.navlinks]]
+  name = "Jogos e Brinquedos"
+  url = "diversao/"
+
+  [[params.navlinks]]
   name = "Filmes"
   url = "filmes/"
 
@@ -74,10 +82,6 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Livros"
   url = "livros/"
-
-  [[params.navlinks]]
-  name = "Jogos e Brinquedos"
-  url = "diversao/"
 
   [[params.navlinks]]
   name = "Academia"
@@ -92,10 +96,6 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Fotografia"
   url = "fotografia/"
-
-  [[params.navlinks]]
-  name = "Diversos"
-  url = "casa/"
 
   [[params.navlinks]]
   name = "Reservados"
