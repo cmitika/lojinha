@@ -85,6 +85,11 @@ googleAnalytics = ""
   type = "post"
 
   [[params.navlinks]]
+  name = "Joalheria"
+  url = "joalheria/"
+  type = "post"
+
+  [[params.navlinks]]
   name = "Fotografia"
   url = "fotografia/"
 
