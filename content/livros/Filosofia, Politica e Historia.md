@@ -3,7 +3,7 @@ title = "Filosofia & Politica"
 draft = false
 image = "img/livros/filosofia/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 20</span> cada
 <!--more-->
@@ -81,6 +81,15 @@ weight = 1
 
 ---
 
+## Lukacs
+
+{{< gallery >}}
+{{< figure src="img/livros/filosofia/20230905_165703.jpg" >}}
+{{< figure src="img/livros/filosofia/20230905_165722.jpg" >}}
+{{< /gallery >}}
+
+---
+
 ## Karl Marx
 
 {{< gallery >}}
@@ -105,6 +114,8 @@ weight = 1
 {{< figure src="img/livros/filosofia/marx16.jpg" >}}
 {{< figure src="img/livros/filosofia/marx20.jpg" >}}
 {{< figure src="img/livros/filosofia/marx24.jpg" >}}
+
+{{< figure src="img/livros/filosofia/20230905_165736.jpg" >}}
 {{< figure src="img/livros/filosofia/marx26.jpg" >}}
 {{< /gallery >}}
 
@@ -147,6 +158,12 @@ weight = 1
 {{< figure src="img/livros/filosofia/20230825_111536.jpg" >}}
 {{< figure src="img/livros/filosofia/20230825_111842.jpg" >}}
 
+{{< figure src="img/livros/filosofia/20230905_165655.jpg" >}}
+{{< figure src="img/livros/filosofia/20230905_165437.jpg" >}}
+{{< figure src="img/livros/filosofia/20230905_165802.jpg" >}}
+{{< figure src="img/livros/filosofia/20230905_165855.jpg" >}}
+
+
 {{< figure src="img/livros/filosofia/brasil6.jpg" >}}
 {{< figure src="img/livros/filosofia/brasil2.jpg" >}}
 {{< figure src="img/livros/filosofia/brasil3.jpg" >}}
@@ -160,4 +177,8 @@ weight = 1
 {{< figure src="img/livros/filosofia/brasil10.jpg" >}}
 {{< figure src="img/livros/filosofia/brasil11.jpg" >}}
 {{< figure src="img/livros/filosofia/brasil12.jpg" >}}
+
 {{< /gallery >}}
+
+
+

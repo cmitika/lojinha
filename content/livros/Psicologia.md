@@ -3,7 +3,7 @@ title = "Psicologia (15)"
 draft = false
 image = "img/livros/psicologia/winnicott1.jpg"
 showonlyimage = false
-weight = 1
+weight = 13
 +++
 <span class="price">R$ 20</span> cada
 <!--more-->
@@ -16,6 +16,7 @@ weight = 1
 {{< figure src="img/livros/psicologia/lowen3.jpg" >}}
 {{< figure src="img/livros/psicologia/lowen4.jpg" >}}
 {{< figure src="img/livros/psicologia/lowen5.jpg" >}}
+{{< figure src="img/livros/psicologia/20230905_165728.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -44,6 +45,8 @@ weight = 1
 ## Diversos
 
 {{< gallery >}}
+{{< figure src="img/livros/psicologia/20230905_165326.jpg" >}}
+{{< figure src="img/livros/psicologia/20230905_165648.jpg" >}}
 {{< figure src="img/livros/psicologia/20230825_111256.jpg" >}}
 {{< figure src="img/livros/psicologia/gaiarsa1.jpg" >}}
 {{< figure src="img/livros/psicologia/gaiarsa2.jpg" >}}

@@ -3,7 +3,7 @@ title = "Infanto-Juvenil"
 draft = false
 image = "img/livros/infantil/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 <span class="price">R$ 20</span> cada
 <!--more-->

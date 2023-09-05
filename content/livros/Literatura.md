@@ -3,7 +3,7 @@ title = "Literatura (+80)"
 draft = false
 image = "img/livros/literatura/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 4
 +++
 
 Mais de 80 titulos, <span class="price">R$ 20</span> cada
@@ -38,6 +38,10 @@ Mais de 80 titulos, <span class="price">R$ 20</span> cada
 {{< figure src="img/livros/literatura/goethe1.jpg" >}}
 {{< figure src="img/livros/literatura/drummond 1.jpg" >}}
 {{< figure src="img/livros/literatura/015aed6029ac48a8bf586f1cc79ae4b6.jpg" >}}
+
+
+{{< figure src="img/livros/literatura/20230905_165744.jpg" caption="Livro lacrado" >}}
+{{< figure src="img/livros/literatura/20230905_165809.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -59,6 +63,7 @@ Mais de 80 titulos, <span class="price">R$ 20</span> cada
 {{< gallery >}}
 {{< figure src="img/livros/literatura/huxley1.jpg" >}}
 {{< figure src="img/livros/literatura/huxley2.jpg" >}}
+{{< figure src="img/livros/literatura/20230905_165818.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -93,6 +98,7 @@ Mais de 80 titulos, <span class="price">R$ 20</span> cada
 {{< figure src="img/livros/literatura/hemingway1.jpg" >}}
 {{< figure src="img/livros/literatura/hemingway2.jpg" >}}
 {{< figure src="img/livros/literatura/hemingway3.jpg" >}}
+{{< figure src="img/livros/literatura/20230905_165911.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -103,6 +109,7 @@ Mais de 80 titulos, <span class="price">R$ 20</span> cada
 {{< figure src="img/livros/literatura/hoffmann1.jpg" >}}
 {{< figure src="img/livros/literatura/hoffmann3.jpg" >}}
 {{< figure src="img/livros/literatura/hoffmann8.jpg" >}}
+{{< figure src="img/livros/literatura/20230905_170005.jpg" caption="Livro Lacrado" >}}
 {{< /gallery >}}
 
 ---
@@ -159,6 +166,7 @@ Mais de 80 titulos, <span class="price">R$ 20</span> cada
 {{< figure src="img/livros/literatura/strindberg1.jpg" >}}
 {{< figure src="img/livros/literatura/strindberg2.jpg" >}}
 {{< figure src="img/livros/literatura/strindberg3.jpg" >}}
+{{< figure src="img/livros/literatura/20230905_165847.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -166,6 +174,12 @@ Mais de 80 titulos, <span class="price">R$ 20</span> cada
 ## Diversos
 
 {{< gallery >}}
+{{< figure src="img/livros/literatura/20230905_165716.jpg" >}}
+{{< figure src="img/livros/literatura/20230905_165832.jpg" >}}
+{{< figure src="img/livros/literatura/20230905_165838.jpg" >}}
+{{< figure src="img/livros/literatura/20230905_165904.jpg" >}}
+{{< figure src="img/livros/literatura/3336537f114a178c5553028d382048df.jpg" >}}
+
 {{< figure src="img/livros/literatura/5bc417ae8b64dbb5ddfbfcb84c596263.jpg" >}}
 {{< figure src="img/livros/literatura/20230825_105912.jpg" >}}
 {{< figure src="img/livros/literatura/20230825_110305.jpg" >}}
@@ -186,3 +200,4 @@ Mais de 80 titulos, <span class="price">R$ 20</span> cada
 {{< figure src="img/livros/literatura/jeosafa3.jpg" >}}
 
 {{< /gallery >}}
+

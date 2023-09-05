@@ -3,7 +3,7 @@ title = "Design (20)"
 draft = false
 image = "img/livros/design/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 <span class="price">R$ 20</span> cada
 <!--more-->
@@ -30,4 +30,15 @@ weight = 1
 {{< figure src="img/livros/design/DIY_Furniture.jpg" >}}
 {{< figure src="img/livros/design/c22d7bf712b28b6819a1ca86f03937c0.jpg" >}}
 {{< figure src="img/livros/design/df3c8199663e9bfd44c47b9da4744a31.jpg" >}}
+
+{{< figure src="img/livros/design/20230905_165401.jpg" >}}
+{{< figure src="img/livros/design/20230905_165407.jpg" >}}
+{{< figure src="img/livros/design/20230905_165414.jpg" >}}
+{{< figure src="img/livros/design/20230905_165420.jpg" >}}
+{{< figure src="img/livros/design/20230905_165431.jpg" >}}
+{{< figure src="img/livros/design/20230905_165508.jpg" >}}
+{{< figure src="img/livros/design/20230905_165530.jpg" >}}
+{{< figure src="img/livros/design/20230905_165601.jpg" >}}
 {{< /gallery >}}
+
+

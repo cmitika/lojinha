@@ -3,7 +3,7 @@ title = "Poesia (15)"
 draft = false
 image = "img/livros/poesia/photo_2023-08-20_16-31-10.jpg"
 showonlyimage = false
-weight = 1
+weight = 14
 +++
 De <span class="price">R$ 5 a 20</span> cada
 <!--more-->

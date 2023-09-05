@@ -3,7 +3,7 @@ title = "Culinaria & Vinho (+25)"
 draft = false
 image = "img/livros/culinaria/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 3
 +++
 
 Diversos titulos a partir de <span class="price">R$ 10</span>

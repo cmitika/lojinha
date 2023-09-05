@@ -3,7 +3,7 @@ title = "Business (7)"
 draft = false
 image = "img/livros/business/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 9
 +++
 <span class="price">R$ 20</span> cada
 <!--more-->
