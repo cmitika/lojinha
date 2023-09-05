@@ -36,6 +36,8 @@ weight = 1
 {{< figure src="img/cds/eletro/20170813_161754.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Deep Forest
 
 {{< gallery >}}
@@ -48,6 +50,8 @@ weight = 1
 {{< figure src="img/cds/eletro/df4.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Enigma - The Cross of Changes
 
 {{< gallery >}}
@@ -55,12 +59,16 @@ weight = 1
 {{< figure src="img/cds/eletro/20170813_154301.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Massive Attack
 
 {{< gallery >}}
 {{< figure src="img/cds/eletro/20170813_162741.jpg" >}}
 {{< figure src="img/cds/eletro/20170813_162746.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Ministry
 
@@ -74,6 +82,8 @@ weight = 1
 {{< figure src="img/cds/eletro/min4.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## New Order
 
 {{< gallery >}}
@@ -81,12 +91,16 @@ weight = 1
 {{< figure src="img/cds/eletro/20170813_154955.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Orbital
 
 {{< gallery >}}
 {{< figure src="img/cds/eletro/orb1.jpg" >}}
 {{< figure src="img/cds/eletro/orb2.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## The Chemical Brothers
 
@@ -105,6 +119,8 @@ weight = 1
 {{< figure src="img/cds/eletro/cb6.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## The Prodigy
 
 {{< gallery >}}
@@ -117,10 +133,11 @@ weight = 1
 {{< figure src="img/cds/eletro/pro4.jpg" >}}
 {{< /gallery >}}
 
+---
 
 ## The Young Gods
 
-### THe Young Gods
+### The Young Gods
 {{< gallery >}}
 {{< figure src="img/cds/eletro/yg1.jpg" >}}
 {{< figure src="img/cds/eletro/yg2.jpg" >}}
@@ -131,7 +148,6 @@ weight = 1
 {{< figure src="img/cds/eletro/yg3.jpg" >}}
 {{< figure src="img/cds/eletro/yg4.jpg" >}}
 {{< /gallery >}}
-
 
 ### The Young Gods
 {{< gallery >}}
@@ -151,12 +167,16 @@ weight = 1
 {{< figure src="img/cds/eletro/yg10.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Trans Slovenia Express
 
 {{< gallery >}}
 {{< figure src="img/cds/eletro/20170813_162914.jpg" >}}
 {{< figure src="img/cds/eletro/20170813_162920.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Underworld
 

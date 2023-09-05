@@ -17,6 +17,8 @@ De <span class="price">R$ 5 a R$ 20</span> cada
 {{< figure src="img/livros/biografia/bio4.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Livros por R$ 20
 
 {{< gallery >}}

@@ -34,6 +34,8 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_155726.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Barbatuques
 
 ### Barbatuques - Corpo do Som
@@ -49,7 +51,10 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_160009.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Caetano
+
 ### Caetano - Sem Lenco Sem Documento
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_161040.jpg" >}}
@@ -86,6 +91,8 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_161141.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Cantadores I, II e III
 
 {{< gallery >}}
@@ -99,6 +106,8 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_155744.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Cassia Eller
 
 {{< gallery >}}
@@ -106,6 +115,7 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_164019.jpg" >}}
 {{< /gallery >}}
 
+---
 
 ## Cazuza
 
@@ -133,6 +143,8 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_161335.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Chico Buarque
 
 ### Chico Buarque - A Arte de Chico Buarque
@@ -158,6 +170,8 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_155600.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_155607.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Chico Science & Nacao Zumbi
 
@@ -203,12 +217,15 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-rock/20170813_163154.jpg" >}}
 {{< /gallery >}}
 
+---
 
 ## Fernanda Porto
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_161809.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_161815.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Lenine
 
@@ -224,6 +241,8 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_163140.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Lobao
 
 ### Lobao
@@ -238,17 +257,23 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_155119.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Mawaca - Astrolabio Tucupira
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/mawaca1.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/mawaca2.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Milton Nascimento
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_163648.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_163654.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Nana Vasconcelos
 
@@ -264,12 +289,16 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_155320.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Orishas
 
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_162324.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_162329.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Panos & Lendas
 
@@ -278,12 +307,16 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/panos2.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Renato Russo
 
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_162308.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_162314.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Secos & Molhados
 
@@ -292,11 +325,15 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_155453.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Titas - Acustico MTV
 {{< gallery >}}
 {{< figure src="img/cds/brasil-rock/20170813_163033.jpg" >}}
 {{< figure src="img/cds/brasil-rock/20170813_163038.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Varsovia & Submundo
 
@@ -308,12 +345,16 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-rock/20170813_154854.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Zeca Baleiro - Vo Imbola
 
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_162626.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_162630.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Zeca Pagodinho
 
@@ -322,12 +363,16 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_162451.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Zelia Duncan
 
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_163633.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_163639.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Ze Ramalho -  Coletanea I e II
 
@@ -337,6 +382,8 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< figure src="img/cds/brasil-mpb/20170813_161205.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_161210.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Zizi Possi - Valsa Brasileira
 

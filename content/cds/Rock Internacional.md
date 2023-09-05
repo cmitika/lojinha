@@ -18,12 +18,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_162702.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Blur
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_153906.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_153912.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Cocteau Twins - Garlands
 
@@ -32,18 +36,24 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock/ct2.jpg" >}}
 {{< /gallery >}}
 
-## David Bowier - The Best of
+---
+
+## David Bowie
+
+### The Best of David Bowie
 
 {{< gallery >}}
 {{< figure src="img/cds/rock/db1.jpg" >}}
 {{< figure src="img/cds/rock/db2.jpg" >}}
 {{< /gallery >}}
 
-## David Bowie - Earthling
+### David Bowie - Earthling
 {{< gallery >}}
 {{< figure src="img/cds/rock/db3.jpg" >}}
 {{< figure src="img/cds/rock/db4.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## David Sylvian
 
@@ -51,6 +61,8 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock/ds1.jpg" >}}
 {{< figure src="img/cds/rock/ds2.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Dead Can Dance
 
@@ -102,12 +114,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock/dcd16.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Echo & The Bunnymen
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_163929.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_163934.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Enya
 
@@ -116,12 +132,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_153758.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Everlast
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_163202.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_163208.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Galaxie 500 - Copenhagen
 
@@ -130,12 +150,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_163009.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Iggy Pop
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_153951.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_154004.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Jamiroquai
 
@@ -144,12 +168,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_162951.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Janes Addiction
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_162004.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_162009.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Jethro Tull
 
@@ -158,12 +186,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_162820.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Joy Division - Substance
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_162359.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_162404.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Oasis
 
@@ -172,12 +204,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_154127.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Ozzy Osbourne
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_154015.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_154024.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Peter Gabriel - UP
 
@@ -186,12 +222,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_154108.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Pink Floyd
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_162018.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_162024.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Pixies
 
@@ -219,6 +259,8 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock/px8.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Rage Against The Machine
 
 ### Rage Against The Machine - The Battle of Los Angeles
@@ -234,6 +276,8 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock/rag3.jpg" >}}
 {{< figure src="img/cds/rock/rag4.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Rollins Band
 
@@ -251,6 +295,7 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock/rb4.jpg" >}}
 {{< /gallery >}}
 
+---
 
 ## Smashing Pumpkins (Duplo)
 
@@ -259,12 +304,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_153936.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Suede
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_162226.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_162230.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## The Smiths - Singles
 
@@ -273,12 +322,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_163920.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## This Mortal Coil - Filigree & Shadow
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_162429.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_162435.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## TSOL
 
@@ -287,12 +340,16 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock-ii/20170813_154238.jpg" >}}
 {{< /gallery >}}
 
+---
+
 ## Within Temptation - The Dance
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_162545.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_162549.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Yo La Tengo
 
@@ -307,6 +364,8 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock/yo3.jpg" >}}
 {{< figure src="img/cds/rock/yo4.jpg" >}}
 {{< /gallery >}}
+
+---
 
 ## Psychotica
 
