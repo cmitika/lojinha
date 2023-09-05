@@ -3,7 +3,7 @@ title = "Petisqueira"
 draft = false
 image = "img/casa/cozinha/Petisqueira.jpg"
 showonlyimage = false
-weight = 10
+weight = 8
 +++
 <span class="price">R$ 20</span>
 

@@ -3,7 +3,7 @@ title = "Prato para bolo"
 draft = false
 image = "img/casa/cozinha/Prato_bolo.jpg"
 showonlyimage = false
-weight = 5
+weight = 6
 +++
 <span class="price">R$ 40</span>
 

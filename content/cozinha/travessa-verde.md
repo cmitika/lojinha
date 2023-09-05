@@ -3,7 +3,7 @@ title = "Travessa porcelana verde"
 draft = false
 image = "img/casa/cozinha/Travessa_verde.jpg"
 showonlyimage = false
-weight = 10
+weight = 8
 +++
 <span class="price">R$ 20</span>
 <!--more-->

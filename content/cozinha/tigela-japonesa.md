@@ -3,7 +3,7 @@ title = "Tigela japonesa"
 draft = false
 image = "img/casa/cozinha/Tigela_japonesa.jpg"
 showonlyimage = false
-weight = 5
+weight = 6
 +++
 <span class="price">R$ 40</span>
 

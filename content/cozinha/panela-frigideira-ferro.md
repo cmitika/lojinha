@@ -3,7 +3,7 @@ title = "Panela e frigideira de ferro"
 draft = false
 image = "img/casa/cozinha/Panela_frigideira_ferro.jpg"
 showonlyimage = false
-weight = 5
+weight = 1
 +++
 <span class="price">R$ 90</span>
 

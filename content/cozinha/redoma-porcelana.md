@@ -3,7 +3,7 @@ title = "Redoma de vidro e porcelana"
 draft = false
 image = "img/casa/cozinha/Redoma_vidro.jpg"
 showonlyimage = false
-weight = 5
+weight = 6
 +++
 <span class="price">R$ 40</span>
 

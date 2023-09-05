@@ -3,7 +3,7 @@ title = "Pratos"
 draft = false
 image = "img/casa/cozinha/Pratos.jpg"
 showonlyimage = false
-weight = 5
+weight = 3
 +++
 <span class="price">R$ 75</span>
 

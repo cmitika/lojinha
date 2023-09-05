@@ -3,7 +3,7 @@ title = "Copos Fontignac"
 draft = false
 image = "img/casa/cozinha/Copos_Fontignac.jpg"
 showonlyimage = false
-weight = 5
+weight = 2
 +++
 <span class="price">R$ 80</span>
 <!--more-->

@@ -3,7 +3,7 @@ title = "Garrafa Térmica Hauskraft"
 draft = false
 image = "img/casa/cozinha/garrafa_termica.jpg"
 showonlyimage = false
-weight = 5
+weight = 3
 +++
 <span class="price">R$ 70</span>
 

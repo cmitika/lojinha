@@ -3,7 +3,7 @@ title = "Xícaras de café View - Nespresso"
 draft = false
 image = "img/casa/cozinha/xicara_view.jpg"
 showonlyimage = false
-weight = 5
+weight = 4
 +++
 <span class="price">R$ 60</span>
 

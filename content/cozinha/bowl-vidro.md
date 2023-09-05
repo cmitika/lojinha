@@ -3,7 +3,7 @@ title = "Bowl de vidro"
 draft = false
 image = "img/casa/cozinha/Bowl_vidro.jpg"
 showonlyimage = false
-weight = 10
+weight = 8
 +++
 <span class="price">R$ 20</span>
 

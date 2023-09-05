@@ -3,7 +3,7 @@ title = "Cestos de Vime"
 draft = false
 image = "img/casa/cozinha/Cestos_vime1.jpg"
 showonlyimage = false
-weight = 7
+weight = 6
 +++
 <span class="price">R$ 40</span>
 <!--more-->

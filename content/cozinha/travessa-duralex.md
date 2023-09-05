@@ -3,7 +3,7 @@ title = "Travessa Duralex"
 draft = false
 image = "img/casa/cozinha/Travessa_Duralex.jpg"
 showonlyimage = false
-weight = 10
+weight = 7
 +++
 <span class="price">R$ 30</span>
 

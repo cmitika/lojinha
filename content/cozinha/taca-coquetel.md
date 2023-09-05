@@ -3,7 +3,7 @@ title = "Taça coquetel"
 draft = false
 image = "img/casa/cozinha/Taca_coquetel.jpg"
 showonlyimage = false
-weight = 10
+weight = 9
 +++
 <span class="price">R$ 10</span>
 <!--more-->

@@ -3,7 +3,7 @@ title = "Travessa Peixe"
 draft = false
 image = "img/casa/cozinha/travessa_peixe.jpg"
 showonlyimage = false
-weight = 10
+weight = 8
 +++
 <span class="price">R$ 20</span>
 

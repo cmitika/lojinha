@@ -3,7 +3,7 @@ title = "Leiteira Schmidt"
 draft = false
 image = "img/casa/cozinha/Leiteira_schimidt.jpg"
 showonlyimage = false
-weight = 7
+weight = 6
 +++
 <span class="price">R$ 40</span>
 

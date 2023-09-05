@@ -3,7 +3,7 @@ title = "Tigela Suribachi"
 draft = false
 image = "img/casa/cozinha/Tigela_Suribachi.jpg"
 showonlyimage = false
-weight = 5
+weight = 3
 +++
 De ~~180~~ por <span class="price">R$ 70</span>
 

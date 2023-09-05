@@ -3,7 +3,7 @@ title = "Taças Champagne de Cristal"
 draft = false
 image = "img/casa/cozinha/Taca_Champagne_Cristal.jpg"
 showonlyimage = false
-weight = 5
+weight = 4
 +++
 <span class="price">R$ 60</span>
 <!--more-->
