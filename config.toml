@@ -45,11 +45,12 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Como comprar"
   url = "about/"
+  home = true
 
   [[params.navlinks]]
   name = "Cozinha"
   url = "cozinha/"
-  home = true
+  
 
   [[params.navlinks]]
   name = "Eletrodomesticos"
@@ -62,10 +63,6 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Moveis & Decoracao"
   url = "moveis/"
-
-  [[params.navlinks]]
-  name = "Ferramentas"
-  url = "ferramentas/"
 
   [[params.navlinks]]
   name = "Jogos e Brinquedos"
@@ -84,9 +81,8 @@ googleAnalytics = ""
   url = "livros/"
 
   [[params.navlinks]]
-  name = "Academia"
-  url = "academia/"
-  type = "post"
+  name = "Fotografia"
+  url = "fotografia/"
 
   [[params.navlinks]]
   name = "Joalheria"
@@ -94,8 +90,13 @@ googleAnalytics = ""
   type = "post"
 
   [[params.navlinks]]
-  name = "Fotografia"
-  url = "fotografia/"
+  name = "Academia"
+  url = "academia/"
+  type = "post"
+
+  [[params.navlinks]]
+  name = "Ferramentas"
+  url = "ferramentas/"
 
   [[params.navlinks]]
   name = "Reservados"
