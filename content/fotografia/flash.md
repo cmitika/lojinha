@@ -5,14 +5,16 @@ image = "img/fotografia/einstein/einstein.jpg"
 showonlyimage = false
 weight = 2
 +++
-De ~~13.000~~ por <span class="price">R$ 8.000</span>
+De ~~16.000~~ por <span class="price">R$ 10.000</span>
 
 Flashes Paul C. Buff Einstein + Controle Remoto + Soft-Box + Modificadores
 <!--more-->
 
+Tudo novo, na caixa e efetivamente sem uso.
+
 O [Einstein](https://www.paulcbuff.com/Flash-Units/Einstein/Einstein-Flash-Unit.html) e o flash profissional e top-de-linha do [Paul C. Buff](https://www.paulcbuff.com) (USA), o mesmo criador dos populares Alien Bees. 
 
-Tudo novo, na caixa.
+Acompanha:
 
 - 2x unidades de flash de estudio Einstein 640w + case + lampadas extras
 - 1x CyberCommander wireless transmitter (compativel Canon/Nikon/etc)

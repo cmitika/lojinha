@@ -5,12 +5,19 @@ image = "img/fotografia/mochila_kinesis/tt-example2.jpg"
 showonlyimage = false
 weight = 50
 +++
-<span class="price">R$ 1.600</span>
+De ~~2.500~~ por <span class="price">R$ 2.000</span>
 
 Mochila Kinesis + Kit Think Tank de Bolsos Articulados
 <!--more-->
 
-Excelente estado. Sem danos, sem marcas.
+Estado:
+
+- Sem danos ou marcas no tecido ou nos bolsos.
+- Sem manchas ou outros sinais de uso.
+- Alguns dos ziperes apresentam sinais de oxidacao
+- Fotos originais (exceto as duas ultimas fotos, do senhorzinho)
+
+Acompanha:
 
 - 1 x Mochila [Kinesis Journeyman P450](https://kgear.eogear.com/collections/kinesis/products/kinesis-p450-journeyman-modular-pack) mais adaptadores
 - 2 x [Kinesis Elevator Harness](https://kgear.eogear.com/collections/kinesis/products/kinesis-p111-elevator-adapter)

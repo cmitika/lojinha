@@ -9,7 +9,13 @@ weight = 2
 
 Kit [Formatt Hitech](https://formatt-hitechusa.com) Holder + Firecrest Ultra Filters
 <!--more-->
-Kit composto por filter holder, 2x ND filters, 1x GND filter e um Polarizador Circular SuperSlim. Todos os filtros sao da linha ULTRA, fabricados em vidro.
+
+- Kit composto por filter holder, 2x ND filters, 1x GND filter e um Polarizador Circular SuperSlim
+- Todos os filtros sao da linha ULTRA, fabricados em vidro.
+- Tudo novo, sem uso, sem marcas, sem nada. Segue na caixa.
+- Fotos originais
+
+Conteudo:
 
 - Firecrest 100mm Holder Kit: 100mm Holder + 82mm Rotating Ring + 3x adapters (step-up rings)
 - [Firecrest SuperSlim Circular Polariser](https://formatt-hitechusa.com/collections/polarizer/products/firecrest-superslim-circular-polarizer?variant=31876990500973)

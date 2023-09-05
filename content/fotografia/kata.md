@@ -10,17 +10,29 @@ weight = 50
 Mochila Kata 3N1 35 PL em estado de nova.
 <!--more-->
 
-Mochila importada Kata/Manfrotto 3N1 35 PL, para fotografia.
+Mochila importada Kata/Manfrotto 3N1 35 PL, para fotografia. Abre por todos os lados permitindo troca rapida de equipamento, lentes, etc.
 
-Mochila que abre fundamentalmente por todos os lados permitindo troca rapida de equipamento, lentes, etc.
+- Fotos originais do produto
+- Nao apresenta manchas, marcas ou sinais de uso
+- Tem sinais de oxidacao em alguns dos ziperes
 
-Bolso inferior: comporta 2x DSLRs com lentes acopladas, incluindo 70-200mm + 2 a 3 lentes de porte medio/pequeno. Facil acesso pelas laterais, bastando girar a mochila no proprio corpo para ganhar acesso ao equipamento.
+Bolso inferior:
 
-Bolso superior: comporta 1x DSLR com lente ou multiplas lentes de tamanhos diversos (cabe ate quatro lentes 70-200), alem de bolsos para acessorios como cartoes de memoria e baterias.
+- Cabe 2x DSLRs com lentes (exemplo: 70-200mm + 2 a 3 lentes de porte medio/pequeno)
+- Facil acesso pelas laterais, basta girar a mochila no proprio corpo.
 
-Bolsos frontais: comportam filtros ou acessorios diversos.
+Bolso superior: 
 
-Compartimento para notebook. Capa de chuva embutida.
+- Cabe 1x DSLR + lente ou multiplas lentes de tamanhos diversos (exemplo: ate quatro lentes 70-200)
+- Bolsos para acessorios como cartoes de memoria e baterias.
+
+Bolsos frontais: 
+
+- Comportam filtros ou acessorios diversos.
+
+Outros:
+- Tem compartimento para notebook
+- Tem capa de chuva embutida
 
 {{< gallery >}}
 {{< figure src="img/fotografia/mochila_kata/2023-07-07_16-55.png" >}}

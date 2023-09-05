@@ -10,7 +10,9 @@ De ~~5.700~~ por <span class="price">R$ 4.000</span>
 Tripe [Gitzo GT3542LS](https://www.the-digital-picture.com/Reviews/Gitzo-GT3542LS-Systematic-Carbon-Fiber-Tripod.aspx) Fibra de Carbono
 <!--more-->
 
-Como novo. Sem danos ou marcas. Vem na caixa com todos os acessorios.
+- Novo, sem marcas ou sinais de uso
+- Segue na caixa com todos os acessorios
+- Fotos originais
 
 {{< gallery >}}
 {{< figure src="img/fotografia/gitzo/gitzo6.jpg" >}}
