@@ -3,7 +3,7 @@ title = "Mesa de Solda Giratoria"
 draft = false
 image = "img/joalheria/Mesa_giratoria.jpg"
 showonlyimage = false
-weight = 10
+weight = 5
 +++
 <span class="price">R$ 70</span>
 

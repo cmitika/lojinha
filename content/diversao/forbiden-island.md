@@ -3,7 +3,7 @@ title = "Forbidden Island"
 draft = false
 image = ""
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 <span class="price">R$ 100</span>
 

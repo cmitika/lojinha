@@ -3,7 +3,7 @@ title = "Lamparina"
 draft = false
 image = "img/joalheria/Lamparina.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 <span class="price">R$ 40</span>
 

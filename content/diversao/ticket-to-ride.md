@@ -3,7 +3,7 @@ title = "Ticket To Ride"
 draft = false
 image = ""
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 De ~~350~~ por <span class="price">R$ 250</span>
 

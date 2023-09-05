@@ -3,7 +3,7 @@ title = "Alicate de Corte"
 draft = false
 image = "img/joalheria/Alicate_corte.jpg"
 showonlyimage = false
-weight = 10
+weight = 5
 +++
 <span class="price">R$ 60</span>
 

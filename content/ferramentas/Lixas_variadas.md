@@ -3,9 +3,9 @@ title = "Lixas Variadas"
 draft = false
 image = "img/joalheria/Lixas_variadas.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
-<span class="price">R$ 2.50</span>
+<span class="price">R$ 5</span>
 
 <!--more-->
 

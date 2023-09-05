@@ -3,7 +3,7 @@ title = "Processador de Alimentos 3 em 1, Oster"
 draft = false
 image = "img/casa/cozinha/Processador_alimento.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 De ~~237~~ por <span class="price">R$ 100</span>
 

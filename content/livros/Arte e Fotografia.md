@@ -11,18 +11,6 @@ A partir de <span class="price">R$ 20</span> cada
 Mais de 20 livros para a sua escolha.
 <!--more-->
 
-## Pintores por R$ 50
-
-{{< gallery >}}
-	{{< figure src="img/livros/arte/bosch.jpg" >}}
-	{{< figure src="img/livros/arte/klint.jpg" >}}
-	{{< figure src="img/livros/arte/munch.jpg" >}}
-	{{< figure src="img/livros/arte/kirchner.jpg" >}}
-	{{< figure src="img/livros/arte/schiele.jpg" >}}
-{{< /gallery >}}
-
----
-
 ## Livros gigantes por R$ 200
 
 {{< gallery >}}
@@ -44,12 +32,14 @@ Mais de 20 livros para a sua escolha.
 
 ---
 
-## Livros de Bolso por R$ 20
+## Pintores por R$ 50
 
 {{< gallery >}}
-	{{< figure src="img/livros/arte/grande_livro_arte.jpg" >}}
-	{{< figure src="img/livros/arte/salgado_photo_poche.jpg" >}}
-	{{< figure src="img/livros/arte/salgado_serra_pelada.jpg" >}}
+	{{< figure src="img/livros/arte/bosch.jpg" >}}
+	{{< figure src="img/livros/arte/klint.jpg" >}}
+	{{< figure src="img/livros/arte/munch.jpg" >}}
+	{{< figure src="img/livros/arte/kirchner.jpg" >}}
+	{{< figure src="img/livros/arte/schiele.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -59,6 +49,16 @@ Mais de 20 livros para a sua escolha.
 {{< gallery >}}
 	{{< figure src="img/livros/arte/mccurry_sactuary.jpg" >}}
 	{{< figure src="img/livros/arte/freeman.jpg" >}}
+{{< /gallery >}}
+
+---
+
+## Livros de Bolso por R$ 20
+
+{{< gallery >}}
+	{{< figure src="img/livros/arte/grande_livro_arte.jpg" >}}
+	{{< figure src="img/livros/arte/salgado_photo_poche.jpg" >}}
+	{{< figure src="img/livros/arte/salgado_serra_pelada.jpg" >}}
 {{< /gallery >}}
 
 ---

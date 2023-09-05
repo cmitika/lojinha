@@ -3,7 +3,7 @@ title = "Banneton"
 draft = false
 image = "img/casa/cozinha/Banneton.jpg"
 showonlyimage = false
-weight = 1
+weight = 7
 +++
 <span class="price">R$ 40</span>
 

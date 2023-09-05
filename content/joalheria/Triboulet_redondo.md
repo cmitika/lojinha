@@ -3,7 +3,7 @@ title = "Triboulet Redondo"
 draft = false
 image = "img/joalheria/Triboulet_redondo.jpg"
 showonlyimage = false
-weight = 10
+weight = 5
 +++
 <span class="price">R$ 70</span>
 

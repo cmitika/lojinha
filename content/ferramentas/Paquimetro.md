@@ -3,7 +3,7 @@ title = "Paquimetro de Aco"
 draft = false
 image = "img/joalheria/Paquimetro.jpg"
 showonlyimage = false
-weight = 10
+weight = 5
 +++
 <span class="price">R$ 40</span>
 

@@ -3,7 +3,7 @@ title = "Jogo de Bit, Brocas e Extensor Magnetico"
 draft = false
 image = "img/casa/bits_and_brocas/photo_2023-08-22_15-15-11.rotated.rotated.jpg"
 showonlyimage = false
-weight = 1
+weight = 3
 +++
 De ~~300~~ por <span class="price">R$ 100</span>
 

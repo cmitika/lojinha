@@ -3,7 +3,7 @@ title = "Cartagena"
 draft = false
 image = "img/diversao/cartagena/box.png"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 <span class="price">R$ 200</span>
 

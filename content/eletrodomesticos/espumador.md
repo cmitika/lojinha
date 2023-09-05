@@ -3,7 +3,7 @@ title = "Espumador de Leite Aerocciono - Nespresso"
 draft = false
 image = "img/casa/cozinha/Espumador_leite.jpg"
 showonlyimage = false
-weight = 1
+weight = 3
 +++
 De ~~499~~ por <span class="price">R$ 260</span>
 

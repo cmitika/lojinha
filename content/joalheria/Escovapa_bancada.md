@@ -3,7 +3,7 @@ title = "Escova e Pa de Bancada"
 draft = false
 image = "img/joalheria/Escovapa_bancada.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 12</span>
 

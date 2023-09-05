@@ -3,7 +3,7 @@ title = "Balanca de Precisao Digital"
 draft = false
 image = "img/joalheria/Balanca_precisao.jpg"
 showonlyimage = false
-weight = 10
+weight = 1
 +++
 <span class="price">R$ 180</span>
 

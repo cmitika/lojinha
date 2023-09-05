@@ -3,7 +3,7 @@ title = "Suporte Motor Suspensão"
 draft = false
 image = "img/joalheria/Suporte_motor_suspensao1.jpg"
 showonlyimage = false
-weight = 10
+weight = 1
 +++
 <span class="price">R$ 70</span>
 

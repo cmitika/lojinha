@@ -3,7 +3,7 @@ title = "Botijao 5L"
 draft = false
 image = "img/joalheria/Botijao.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 <span class="price">R$ 75</span>
 

@@ -3,7 +3,7 @@ title = "Triboulet Pulseria"
 draft = false
 image = "img/joalheria/Triboulet_pulseria.jpg"
 showonlyimage = false
-weight = 10
+weight = 5
 +++
 <span class="price">R$ 150</span>
 

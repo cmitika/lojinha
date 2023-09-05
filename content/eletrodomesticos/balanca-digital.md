@@ -3,7 +3,7 @@ title = "Balança digital para Cozinha"
 draft = false
 image = "img/casa/cozinha/Balanca_digital_vermelha.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 50</span>
 <!--more-->

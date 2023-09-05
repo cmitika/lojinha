@@ -3,7 +3,7 @@ title = "Xícaras coloridas"
 draft = false
 image = "img/casa/cozinha/Xicaras_coloridas1.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 30</span>
 

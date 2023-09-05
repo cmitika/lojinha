@@ -3,7 +3,7 @@ title = "Munchkin"
 draft = false
 image = "img/diversao/munchkin/1.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 De ~~120~~ por <span class="price">R$ 80</span>
 

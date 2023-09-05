@@ -3,7 +3,7 @@ title = "Bandejas de mosaico"
 draft = false
 image = "img/casa/cozinha/Bandejas_mosaico.jpg"
 showonlyimage = false
-weight = 1
+weight = 7
 +++
 <span class="price">R$ 50</span>
 

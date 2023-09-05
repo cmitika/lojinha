@@ -3,7 +3,7 @@ title = "Travessa e tigela Capivara"
 draft = false
 image = "img/casa/cozinha/Travessa_Capivara.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 <span class="price">R$ 60</span>
 

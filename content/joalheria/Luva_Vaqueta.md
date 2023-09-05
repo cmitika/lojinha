@@ -3,7 +3,7 @@ title = "Luva Vaqueta"
 draft = false
 image = "img/joalheria/Luva_Vaqueta.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 10</span>
 

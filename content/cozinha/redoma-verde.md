@@ -3,7 +3,7 @@ title = "Redoma verde"
 draft = false
 image = "img/casa/cozinha/Redona_verde.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 20</span>
 

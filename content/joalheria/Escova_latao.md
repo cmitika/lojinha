@@ -3,7 +3,7 @@ title = "Escova Latao"
 draft = false
 image = "img/joalheria/Escova_latao.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 12</span>
 

@@ -3,7 +3,7 @@ title = "Morsa Torno"
 draft = false
 image = "img/joalheria/Morsa_torno.jpg"
 showonlyimage = false
-weight = 10
+weight = 5
 +++
 <span class="price">R$ 90</span>
 

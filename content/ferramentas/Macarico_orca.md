@@ -3,7 +3,7 @@ title = "Macarico Orca"
 draft = false
 image = "img/joalheria/Macarico_orca.jpg"
 showonlyimage = false
-weight = 10
+weight = 1
 +++
 <span class="price">R$ 450</span>
 

@@ -3,7 +3,7 @@ title = "Fritadeira elétrica Actifry"
 draft = false
 image = "img/casa/cozinha/Actifry.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="price">R$ 100</span>
 

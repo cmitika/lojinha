@@ -1,5 +1,5 @@
 +++
-title = "Nintendo Switch"
+title = "Nintendo Switch + 10 Jogos"
 draft = false
 image = "img/diversao/nintendo/photo_2023-09-03_17-06-58.jpg"
 showonlyimage = false
@@ -7,7 +7,7 @@ weight = 1
 +++
 <span class="price">R$ 2.000</span>
 
-Nintendo Switch v1, Serial Verde
+Nintendo Switch v1 Serial Verde + 10 Jogos
 
 <!--more-->
 

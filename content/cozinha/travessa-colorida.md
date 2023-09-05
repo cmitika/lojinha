@@ -3,7 +3,7 @@ title = "Travessas coloridas"
 draft = false
 image = "img/casa/cozinha/Travessas_coloridas.jpg"
 showonlyimage = false
-weight = 1
+weight = 5
 +++
 <span class="price">R$ 60</span>
 

@@ -3,7 +3,7 @@ title = "Optivisor"
 draft = false
 image = "img/joalheria/Optivisor.jpg"
 showonlyimage = false
-weight = 10
+weight = 1
 +++
 <span class="price">R$ 335</span>
 
