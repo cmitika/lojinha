@@ -5,7 +5,7 @@ image = "img/joalheria/Botijao.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="price">R$ 75</span>
+<span class="orange">50% OFF!</span> De ~~150~~ por <span class="price">R$ 75</span>
 
 <!--more-->
 

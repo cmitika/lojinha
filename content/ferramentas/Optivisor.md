@@ -5,7 +5,7 @@ image = "img/joalheria/Optivisor.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 335</span>
+<span class="orange">50% OFF!</span> De ~~670~~ por <span class="price">R$ 335</span>
 
 <!--more-->
 

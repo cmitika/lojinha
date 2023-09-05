@@ -5,8 +5,7 @@ image = "img/casa/balanca_withings/2023-08-22_16-15.png"
 showonlyimage = false
 weight = 1
 +++
-50% OFF!
-De ~~1.600~~ por <span class="price">R$ 800</span>
+<span class="orange">50% OFF!</span> De ~~1.600~~ por <span class="price">R$ 800</span>
 
 Body+ é uma balança inteligente Wi-Fi que possui peso altamente preciso (+-0,1 kg), composição corporal e rastreamento perfeito no aplicativo gratuito Health Mate (iOS8+ e Android 5+) para ajudar você a alcançar seus objetivos.
 <!--more-->

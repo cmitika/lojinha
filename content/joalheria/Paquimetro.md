@@ -5,7 +5,7 @@ image = "img/joalheria/Paquimetro.jpg"
 showonlyimage = false
 weight = 10
 +++
-<span class="price">R$ 40</span>
+De ~~80~~ por <span class="price">R$ 40</span>
 
 <!--more-->
 

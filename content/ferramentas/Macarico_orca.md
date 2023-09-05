@@ -5,7 +5,7 @@ image = "img/joalheria/Macarico_orca.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 450</span>
+<span class="orange">Pechincha!</span> De ~~770~~ por <span class="price">R$ 450</span>
 
 <!--more-->
 

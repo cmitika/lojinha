@@ -2123,3 +2123,8 @@ a.list-group-item.active > .badge,
   color: gray;
   font-style: strikethrough;
 }
+
+.orange {
+  color: orange;
+  font-weight: bold;
+}
