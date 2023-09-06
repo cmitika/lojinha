@@ -160,10 +160,10 @@ Mais de 80 titulos, <span class="price">R$ 20</span> cada
 
 ---
 
-## Stringberg
+## Strindberg
 
 {{< gallery >}}
-{{< figure src="img/livros/literatura/strindberg1.jpg" >}}
+{{< figure src="img/livros/literatura/strindberg1.jpg" caption="RARIDADE" >}}
 {{< figure src="img/livros/literatura/strindberg2.jpg" >}}
 {{< figure src="img/livros/literatura/strindberg3.jpg" >}}
 {{< figure src="img/livros/literatura/20230905_165847.jpg" >}}

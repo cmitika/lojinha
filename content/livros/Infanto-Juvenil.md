@@ -8,7 +8,6 @@ weight = 5
 <span class="price">R$ 20</span> cada
 <!--more-->
 
-## Monteiro Lobato
 
 {{< gallery >}}
 {{< figure src="img/livros/infantil/lobato1.jpg" >}}
@@ -16,23 +15,8 @@ weight = 5
 {{< figure src="img/livros/infantil/lobato3.jpg" >}}
 {{< figure src="img/livros/infantil/lobato4.jpg" >}}
 {{< figure src="img/livros/infantil/eccd10754c4e2d4e40ad0e6d2275a12e.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Grimm
-
-{{< gallery >}}
 {{< figure src="img/livros/infantil/grimm1.jpg" >}}
 {{< figure src="img/livros/infantil/grimm2.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Diversos
-
-{{< gallery >}}
-
 {{< figure src="img/livros/infantil/33f7f97a1b28150335660e91ee7314ab.jpg" >}}
 {{< figure src="img/livros/infantil/1d1f7fed36c30e3f418a66434bec8a38.jpg" >}}
 {{< figure src="img/livros/infantil/2c0fd29f98ab48a6e5766ee63681bffd.jpg" >}}
@@ -79,12 +63,12 @@ weight = 5
 {{< figure src="img/livros/infantil/antes_depois.jpg" >}}
 {{< figure src="img/livros/infantil/baby_animals.jpg" >}}
 {{< figure src="img/livros/infantil/Bruxinha_zuzu.jpg" >}}
-{{< figure src="img/livros/infantil/Classes_sociais.jpg" >}}
+
 {{< figure src="img/livros/infantil/collins_places.jpg" >}}
 {{< figure src="img/livros/infantil/collins_world.jpg" >}}
+{{< figure src="img/livros/infantil/Classes_sociais.jpg" >}}
 {{< figure src="img/livros/infantil/Democracia.jpg" >}}
 {{< figure src="img/livros/infantil/Ditadura_assim.jpg" >}}
-{{< figure src="img/livros/infantil/enigma_capela_real.jpg" >}}
 {{< figure src="img/livros/infantil/Era_uma_vez_castelo.jpg" >}}
 {{< figure src="img/livros/infantil/Era_uma_vez_televisao.jpg" >}}
 {{< figure src="img/livros/infantil/escaravelho_diabo.jpg" >}}
@@ -105,13 +89,14 @@ weight = 5
 {{< figure src="img/livros/infantil/Mimi.jpg" >}}
 {{< figure src="img/livros/infantil/Miseraveis.jpg" >}}
 {{< figure src="img/livros/infantil/misterio_ilha_joao.jpg" >}}
-{{< figure src="img/livros/infantil/misterio_museu_imperial.jpg" >}}
+{{< figure src="img/livros/infantil/enigma_capela_real.jpg" >}}
+{{< figure src="img/livros/infantil/segredo_colecionador.jpg" >}}
 {{< figure src="img/livros/infantil/Misterios_verdejantes.jpg" >}}
 {{< figure src="img/livros/infantil/Pilar_africa.jpg" >}}
 {{< figure src="img/livros/infantil/Pilar_egito.jpg" >}}
 {{< figure src="img/livros/infantil/Pilar_grecia.jpg" >}}
 {{< figure src="img/livros/infantil/Pilar_machu.jpg" >}}
-{{< figure src="img/livros/infantil/segredo_colecionador.jpg" >}}
+
 {{< figure src="img/livros/infantil/united_states.jpg" >}}
 {{< figure src="img/livros/infantil/vals_diary.jpg" >}}
 {{< figure src="img/livros/infantil/Wally.jpg" >}}

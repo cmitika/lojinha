@@ -13,8 +13,7 @@ weight = 10
 {{< gallery >}}
 {{< figure src="img/livros/filosofia/cp2.jpg" >}}
 {{< figure src="img/livros/filosofia/cp3.jpg" >}}
-{{< figure src="img/livros/filosofia/d1ad6893a64b41d16d4786a750f72046.jpg" >}}
-{{< figure src="img/livros/filosofia/cp1.jpg" >}}
+{{< figure src="img/livros/filosofia/cp1.jpg" caption="RARIDADE" >}}
 {{< figure src="img/livros/filosofia/brasil1.jpg" >}}
 {{< /gallery >}}
 
@@ -22,15 +21,19 @@ weight = 10
 
 ## Domenico Losurdo
 
+Um dos maiores pensadores do seculo. Contra-Historia do Liberalismo e imperdivel!
+
 {{< gallery >}}
 {{< figure src="img/livros/filosofia/losurdo1.jpg" >}}
-{{< figure src="img/livros/filosofia/losurdo2.jpg" >}}
+{{< figure src="img/livros/filosofia/losurdo2.jpg" caption="IMPERDIVEL" >}}
 {{< figure src="img/livros/filosofia/losurdo3.jpg" >}}
 {{< /gallery >}}
 
 ---
 
 ## Eduardo Bueno
+
+Colecao imperdivel para enteder a historia do Brasil de forma prazeirosa.
 
 {{< gallery >}}
 {{< figure src="img/livros/filosofia/naufragos3.jpg" >}}
@@ -41,6 +44,8 @@ weight = 10
 ---
 
 # Ferreira Gullar
+
+Os livros abaixo do Gullar sao fundamentais no entendimento da arte e cultura no Brasil.
 
 {{< gallery >}}
 {{< figure src="img/livros/filosofia/gullar1.jpg" >}}
@@ -97,7 +102,7 @@ weight = 10
 {{< figure src="img/livros/filosofia/marx22.jpg" >}}
 {{< figure src="img/livros/filosofia/marx23.jpg" >}}
 
-{{< figure src="img/livros/filosofia/marx10.jpg" >}}
+{{< figure src="img/livros/filosofia/marx10.jpg" caption="ILUSTRADO" >}}
 {{< figure src="img/livros/filosofia/marx12.jpg" >}}
 {{< figure src="img/livros/filosofia/marx9.jpg" >}}
 {{< figure src="img/livros/filosofia/marx1.jpg" >}}
@@ -122,7 +127,8 @@ weight = 10
 ## Diversos
 
 {{< gallery >}}
-{{< figure src="img/livros/filosofia/photo_2023-08-20_16-35-06.jpg" >}}
+{{< figure src="img/livros/filosofia/d1ad6893a64b41d16d4786a750f72046.jpg" >}}
+{{< figure src="img/livros/filosofia/photo_2023-08-20_16-35-06.jpg" caption="IMPERDIVEL" >}}
 {{< figure src="img/livros/filosofia/939c170eda5f083b8847bc6652553cd2.jpg" >}}
 {{< figure src="img/livros/filosofia/20230825_105934.jpg" >}}
 {{< figure src="img/livros/filosofia/20230825_105941.jpg" >}}
