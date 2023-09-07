@@ -7,11 +7,13 @@ weight = 1
 +++
 <span class="sold">~~R$ 300~~</span> **VENDIDO!**
 
-Jogo de Tabuleiro
+Jogo de Tabuleiro Importado.
 
 <!--more-->
 
-Jogo de tabuleiro "My Little Scythe", importado.
+Jogo de tabuleiro "My Little Scythe", importado, em Ingles.
+
+Dependencia minima de idioma: somente algumas cartas tem texto em ingles e podem ser lidas por quem fala a lingua.
 
 Jogo novo.
 

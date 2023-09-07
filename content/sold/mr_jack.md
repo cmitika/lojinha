@@ -7,11 +7,13 @@ weight = 1
 +++
 <span class="sold">~~R$ 250~~</span> **VENDIDO!**
 
-Jogo de Tabuleiro
+Jogo de Tabuleiro Importado
 
 <!--more-->
 
 Jogo de tabuleiro "Mr Jack", novo.
+
+Importado, mas sem dependencia de idioma.
 
 
 {{< gallery >}}

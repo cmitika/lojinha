@@ -7,7 +7,7 @@ weight = 1
 +++
 <span class="sold">~~R$ 400~~</span> **VENDIDO!**
 
-Jogo de Tabuleiro
+Jogo de Tabuleiro Importado
 
 <!--more-->
 

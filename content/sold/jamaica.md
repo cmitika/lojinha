@@ -13,6 +13,10 @@ Jogo de Tabuleiro
 
 Jogo de tabuleiro "Jamaica". Novo.
 
+Importado, mas sem dependencia de idioma.
+
+Manual multi-lingua: Ingles, Frances, Italiano, etc.
+
 {{< gallery >}}
 {{< figure src="img/diversao/jamaica/1.jpg" >}}
 {{< figure src="img/diversao/jamaica/2.jpg" >}}
