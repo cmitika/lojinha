@@ -5,7 +5,7 @@ image = "img/diversao/andor/1.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="orange">30% OFF</span>: <span class="price">R$ 200</span>
+<span class="price">R$ 250</span>
 
 Jogo de Tabuleiro
 

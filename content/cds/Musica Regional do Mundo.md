@@ -3,7 +3,7 @@ title = "Regional do Mundo (10)"
 draft = false
 image = "img/cds/world-regional/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 7
 +++
 <span class="price">R$ 20</span> cada
 <!--more-->

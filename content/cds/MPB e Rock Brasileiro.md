@@ -3,7 +3,7 @@ title = "MPB & Rock Brasil (+50)"
 draft = false
 image = "img/cds/brasil-mpb/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 Mais de 50 CDs por <span class="price">R$ 20</span> cada
 <!--more-->

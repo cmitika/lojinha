@@ -13,9 +13,9 @@ Skate completo, importado, top-de-linha.
 
 Skate importado, top de linha, com componentes ultra-leves e resistentes. 
 
-Recem adquirido, possui apenas marcas muito leves de uso, tal como pode ser verificado pelas fotos. 
+Em estado de novo, possui apenas marcas muito leves de uso, tal como pode ser verificado pelas fotos. 
 
-Sem nenhuma marca de grind, sem trinco, sem cantos amassados, nada. Como novo.
+Sem nenhuma marca de grind, sem trinco, sem cantos amassados, nada. Realmente como novo.
 
 - Shape Chocolate Vincent Alvarez Original Chunk 7.75" Canadian Maple 7-ply
 - Truck Thunder Titanium Lights 129mm com Thunder Blue 95 DURO

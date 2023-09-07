@@ -3,7 +3,7 @@ title = "Trilhas Sonoras (10)"
 draft = false
 image = "img/cds/soundtracks/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 3
 +++
 <span class="price">R$ 20</span> cada
 <!--more-->

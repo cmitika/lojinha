@@ -3,7 +3,7 @@ title = "Musica Eletronica (+20)"
 draft = false
 image = "img/cds/eletro/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 4
 +++
 <span class="price">R$ 20</span> cada
 <!--more-->

@@ -16,7 +16,7 @@ Vide-game Nintendo Switch v1, com Serial Verde que permite desbloqueio.
 - Nintendo Switch v1, Serial XAW40010 Verde - Unpatched, 100% desbloqueavel!
 - Completo e original: com docker, fonte e cabos originais, joycons e joysticks originais, na caixa
 - Sem quaisquer riscos, marcas ou sinais
-- 1 joystick com problemas (substituicao da ribbon interna)
+- 1 joystick com problemas (substituicao da ribbon interna; explico como fazer; sai baratinho)
 
 Jogos incluidos (sem box)
 - Max: The Curse of Brotherhood

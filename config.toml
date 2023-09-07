@@ -89,10 +89,10 @@ googleAnalytics = ""
   url = "joalheria/"
   type = "post"
 
-  [[params.navlinks]]
-  name = "Academia"
-  url = "academia/"
-  type = "post"
+  #[[params.navlinks]]
+  #name = "Academia"
+  #url = "academia/"
+  #type = "post"
 
   [[params.navlinks]]
   name = "Ferramentas"

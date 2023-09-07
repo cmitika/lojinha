@@ -3,7 +3,7 @@ title = "Regional Brasileira (20)"
 draft = false
 image = "img/cds/brasil-regional/cover.jpg"
 showonlyimage = false
-weight = 1
+weight = 6
 +++
 <span class="price">R$ 20</span> cada
 <!--more-->
