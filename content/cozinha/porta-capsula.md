@@ -1,5 +1,5 @@
 +++
-title = "Portas capsula Cube - Nespresso"
+title = "2 Porta capsula Cube - Nespresso"
 draft = false
 image = "img/casa/cozinha/Porta_Capsula_Cube.jpg"
 showonlyimage = false

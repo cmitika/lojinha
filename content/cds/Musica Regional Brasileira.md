@@ -34,7 +34,7 @@ weight = 6
 {{< figure src="img/cds/brasil-regional/20170813_163106.jpg" >}}
 {{< /gallery >}}
 
-### Uaki - Aguas da Amazonia (Philip Glass)
+### Uakti - Aguas da Amazonia (Philip Glass)
 {{< gallery >}}
 {{< figure src="img/cds/brasil-regional/20170813_155919.jpg" >}}
 {{< figure src="img/cds/brasil-regional/20170813_155925.jpg" >}}
@@ -42,13 +42,13 @@ weight = 6
 
 ## Caiapo e Guarani
 
-### Caiapo
+### Caiapo - Metutire
 {{< gallery >}}
 {{< figure src="img/cds/brasil-regional/20170813_154509.jpg" >}}
 {{< figure src="img/cds/brasil-regional/20170813_154518.jpg" >}}
 {{< /gallery >}}
 
-### Indios Guaranis - Nande Reko Arandu
+### Indios Guarani - Nande Reko Arandu
 {{< gallery >}}
 {{< figure src="img/cds/brasil-regional/20170813_154807.jpg" >}}
 {{< figure src="img/cds/brasil-regional/20170813_154813.jpg" >}}
