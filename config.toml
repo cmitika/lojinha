@@ -5,7 +5,7 @@ languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-27161989-3"
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
@@ -14,7 +14,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "red"
-  description = "Lojinha da Cassia"
+  description = "Cassia & Alex"
   copyright = "&copy;2023 Cassia Mitikami"
   sidebarAbout = [
   ]
