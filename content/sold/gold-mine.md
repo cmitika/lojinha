@@ -5,7 +5,7 @@ image = "img/diversao/gold_mine/1.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="price">R$ 200</span>
+<span class="sold">~~R$ 200~~</span> **VENDIDO!**
 
 Jogo de tabuleiro para todas as idades
 

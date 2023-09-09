@@ -1,48 +1,32 @@
 +++
-title = "Kinesis + Kit Think Tank"
+title = "Mochila Kinesis Photo Gear"
 draft = false
-image = "img/fotografia/mochila_kinesis/tt-example2.jpg"
+image = "img/fotografia/mochila_kinesis/k1.png"
 showonlyimage = false
 weight = 50
 +++
-De ~~2.500~~ por <span class="price">R$ 2.000</span>
+<span class="price">R$ 900</span>
 
-Mochila Kinesis + Kit Think Tank de Bolsos Articulados
+Mochila Kinesis Journeyman P450
 <!--more-->
 
-Estado:
+Mochila para fotografia da Kinesis Photo Gear. Somente a mochila, sem bolsos/cases.
 
-- Sem danos ou marcas no tecido ou nos bolsos.
-- Sem manchas ou outros sinais de uso.
-- Alguns dos ziperes apresentam sinais de oxidacao
-- Fotos originais (exceto as duas ultimas fotos, do senhorzinho)
+Em excelente estado, como nova, sem danos, sem marcas ou sinais.
 
-Acompanha:
+Acompanha
+- 1x Mochila Journeyman P450
+- 1x Harness H255 (alca de ombro acolchoada, hooks para prender a camera, etc)
+- 2x Elevator Adapter P111 (suportes internos para prender bolsos e cases)
+- 1x Bolso para tripe
+- Diversos adaptadores B590 e Y309 (internos e externos)
 
-- 1 x Mochila [Kinesis Journeyman P450](https://kgear.eogear.com/collections/kinesis/products/kinesis-p450-journeyman-modular-pack) mais adaptadores
-- 2 x [Kinesis Elevator Harness](https://kgear.eogear.com/collections/kinesis/products/kinesis-p111-elevator-adapter)
-- 1 x cinto Think Tank Pro Speed Belt
-- 1x Think Tank Chimp Cage / Speed Changer
-- 1x Think Tank Lens Charger 35
-- 1x Think Tank Lens Charger 25
-- 1x Think Tank Whip It Out
-- 1x Think Tank Large Lens Drop In
-- 1x Think Tank Lighting Fast
-- Conectores diversos
 
 {{< gallery >}}
-{{< figure src="img/fotografia/mochila_kinesis/kinesis1.png" caption="Mochila Kinesis" >}}
-{{< figure src="img/fotografia/mochila_kinesis/kinesis2.png" caption="Mochila Kinesis" >}}
-{{< figure src="img/fotografia/mochila_kinesis/tt1-cinto.png" caption="Cinto Think Tank" >}}
-{{< figure src="img/fotografia/mochila_kinesis/tt2-cinto.png" caption="Cinto Think Tank" >}}
-
-{{< figure src="img/fotografia/mochila_kinesis/tt5.png" caption="Think Tank Lens Charger" >}}
-{{< figure src="img/fotografia/mochila_kinesis/tt-1.png" caption="Think Tank Speed Changer" >}}
-{{< figure src="img/fotografia/mochila_kinesis/tt2.png" caption="Lighting Fast" >}}
-{{< figure src="img/fotografia/mochila_kinesis/tt3.png" caption="Large Lens Drop-In" >}}
-{{< figure src="img/fotografia/mochila_kinesis/tt4.png" caption="Whipe It Out" >}}
-
-{{< figure src="img/fotografia/mochila_kinesis/tt-example2.jpg" >}}
-{{< figure src="img/fotografia/mochila_kinesis/tt-example3.jpg" >}}
+{{< figure src="img/fotografia/mochila_kinesis/k1.png" caption="Adaptadores e suporte tripe" >}}
+{{< figure src="img/fotografia/mochila_kinesis/k2.png" caption="Expansivel" >}}
+{{< figure src="img/fotografia/mochila_kinesis/k3.png" caption="Regulavel" >}}
+{{< figure src="img/fotografia/mochila_kinesis/kinesis1.png" caption="Regulavel e Contratil" >}}
+{{< figure src="img/fotografia/mochila_kinesis/kinesis2.png" caption="Regulavel e Contratil" >}}
 
 {{< /gallery >}}

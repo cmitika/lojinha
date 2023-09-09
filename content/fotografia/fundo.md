@@ -10,7 +10,7 @@ De ~~1.600~~ por <span class="price">R$ 1.000</span>
 Suporte de Fundo e Rolo de Papel Importado da BD Company
 <!--more-->
 
-Novos, sem uso.
+Novos, sem uso, na caixa. Nao tenho sequer foto pra postar (exceto se quizer ver foto das caixas).
 
 Kit para Fundo contendo:
 
