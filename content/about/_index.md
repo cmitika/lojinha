@@ -11,3 +11,9 @@ Basta escolher os itens do seu interesse e entrar em contato:
 </br>
 
 Quer fazer uma visita e conferir tudo o que temos? Estamos no Jardim Prudencia (Washington x Vicente Rao). [Clique para ver o mapa](https://goo.gl/maps/1m9pPea3tAkG3qJ9A).
+
+
+{{< gallery >}}
+{{< figure src="img/about/cassia.jpg" >}}
+{{< figure src="img/about/alex.jpg" >}}
+{{< /gallery >}}
