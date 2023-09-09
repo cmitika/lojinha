@@ -5,7 +5,7 @@ image = "img/fotografia/einstein/einstein.jpg"
 showonlyimage = false
 weight = 2
 +++
-De ~~16.000~~ por <span class="price">R$ 10.000</span>
+De ~~14.000~~ por <span class="price">R$ 10.000</span>
 
 2x Flashes Paul C. Buff Einstein + Radio Wireless + Soft-Box + Modificadores
 <!--more-->
