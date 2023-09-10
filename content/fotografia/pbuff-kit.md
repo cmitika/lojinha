@@ -1,11 +1,11 @@
 +++
-title = "Flash Paul C. Buff Einstein"
+title = "Kit Estudio Paul C. Buff Einstein"
 draft = false
 image = "img/fotografia/einstein/einstein.jpg"
 showonlyimage = false
 weight = 2
 +++
-De ~~14.000~~ por <span class="price">R$ 10.000</span>
+<span class="orange">IMPERDIVEL</span> De ~~14.000~~ por <span class="price">R$ 10.000</span>
 
 2x Flashes Paul C. Buff Einstein + Radio Wireless + Soft-Box + Modificadores
 <!--more-->
