@@ -99,7 +99,7 @@ weight = 5
 
 {{< figure src="img/livros/infantil/united_states.jpg" >}}
 {{< figure src="img/livros/infantil/vals_diary.jpg" >}}
-{{< figure src="img/livros/infantil/Wally.jpg" >}}
+
 
 {{< /gallery >}}
 
