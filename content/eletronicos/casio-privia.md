@@ -5,7 +5,7 @@ image = "img/eletronicos/piano/p3.jpg"
 showonlyimage = false
 weight = 2
 +++
-<span class="price">R$ 3.500</span>
+De ~~4.100~~ por <span class="price">R$ 3.500</span>
 
 Piano Casio Privia PXS-3000. Em estado de novo, adquirido em marco/2022.
 <!--more-->

@@ -16,7 +16,7 @@ googleAnalytics = "UA-27161989-3"
   style = "red"
   description = "Cassia & Alex"
   copyright = "&copy;2023 Cassia Mitikami"
-  sidebarAbout = [
+  sidebarAbout = ["Vendendo a casa toda a preco muito especial."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

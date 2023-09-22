@@ -12,20 +12,26 @@ weight = 5
 {{< gallery >}}
 {{< figure src="img/livros/infantil/lobato1.jpg" >}}
 {{< figure src="img/livros/infantil/lobato2.jpg" >}}
+
 {{< figure src="img/livros/infantil/lobato3.jpg" >}}
 {{< figure src="img/livros/infantil/lobato4.jpg" >}}
+
 {{< figure src="img/livros/infantil/eccd10754c4e2d4e40ad0e6d2275a12e.jpg" >}}
 {{< figure src="img/livros/infantil/grimm1.jpg" >}}
+
 {{< figure src="img/livros/infantil/grimm2.jpg" >}}
 {{< figure src="img/livros/infantil/33f7f97a1b28150335660e91ee7314ab.jpg" >}}
+
 {{< figure src="img/livros/infantil/1d1f7fed36c30e3f418a66434bec8a38.jpg" >}}
 {{< figure src="img/livros/infantil/2c0fd29f98ab48a6e5766ee63681bffd.jpg" >}}
+
 {{< figure src="img/livros/infantil/3ffaf83157bacadffcff8b41e572d6a8.jpg" >}}
-{{< figure src="img/livros/infantil/4eb7c2a7b138b782cd88673360669a27.jpg" >}}
+
 
 {{< figure src="img/livros/infantil/5d23ff49b2213707f06259ebb4e264ee.jpg" >}}
 {{< figure src="img/livros/infantil/5d937eb9be3b01b976c674c95fb79f69.jpg" >}}
-{{< figure src="img/livros/infantil/6af340ca4b528d1b9f1788c3a9841b85.jpg" >}}
+
+
 {{< figure src="img/livros/infantil/6fcdeeacc880ef5ef6e8d48a060845ca.jpg" >}}
 
 {{< figure src="img/livros/infantil/7ad0f8e2a72ab90f61b643e50162990f.jpg" >}}
