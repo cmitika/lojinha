@@ -25,9 +25,9 @@ Configuracao ideal para iniciantes ou intermediarios:
 
 Acompanha
 - Capacete infantil
-- 2x kits de joelheira, cotoveleira e wrist-guard para criancas de difentes tamanhos/idades
+- 2x kits de joelheira, cotoveleira e wrist-guard para criancas de diferentes tamanhos/idades
 - Kit adicional de rolamentos novos
-- Chave de regulagem
+- Chave de roda
 
 {{< gallery >}}
 {{< figure src="img/diversao/patins/1.jpg" >}}
