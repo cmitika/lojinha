@@ -45,11 +45,6 @@ weight = 4
 {{< figure src="img/cds/eletro/df2.jpg" >}}
 {{< /gallery >}}
 
-{{< gallery >}}
-{{< figure src="img/cds/eletro/df3.jpg" >}}
-{{< figure src="img/cds/eletro/df4.jpg" >}}
-{{< /gallery >}}
-
 ---
 
 ## Enigma - The Cross of Changes
@@ -60,16 +55,6 @@ weight = 4
 {{< /gallery >}}
 
 ---
-
-## Massive Attack
-
-{{< gallery >}}
-{{< figure src="img/cds/eletro/20170813_162741.jpg" >}}
-{{< figure src="img/cds/eletro/20170813_162746.jpg" >}}
-{{< /gallery >}}
-
----
-
 ## Ministry
 
 {{< gallery >}}
@@ -77,21 +62,8 @@ weight = 4
 {{< figure src="img/cds/eletro/min2.jpg" >}}
 {{< /gallery >}}
 
-{{< gallery >}}
-{{< figure src="img/cds/eletro/min3.jpg" >}}
-{{< figure src="img/cds/eletro/min4.jpg" >}}
-{{< /gallery >}}
-
 ---
 
-## New Order
-
-{{< gallery >}}
-{{< figure src="img/cds/eletro/20170813_154948.jpg" >}}
-{{< figure src="img/cds/eletro/20170813_154955.jpg" >}}
-{{< /gallery >}}
-
----
 
 ## Orbital
 
@@ -124,47 +96,8 @@ weight = 4
 ## The Prodigy
 
 {{< gallery >}}
-{{< figure src="img/cds/eletro/pro1.jpg" >}}
-{{< figure src="img/cds/eletro/pro2.jpg" >}}
-{{< /gallery >}}
-
-{{< gallery >}}
 {{< figure src="img/cds/eletro/pro3.jpg" >}}
 {{< figure src="img/cds/eletro/pro4.jpg" >}}
-{{< /gallery >}}
-
----
-
-## The Young Gods
-
-### The Young Gods
-{{< gallery >}}
-{{< figure src="img/cds/eletro/yg1.jpg" >}}
-{{< figure src="img/cds/eletro/yg2.jpg" >}}
-{{< /gallery >}}
-
-### The Young Gods
-{{< gallery >}}
-{{< figure src="img/cds/eletro/yg3.jpg" >}}
-{{< figure src="img/cds/eletro/yg4.jpg" >}}
-{{< /gallery >}}
-
-### The Young Gods
-{{< gallery >}}
-{{< figure src="img/cds/eletro/yg5.jpg" >}}
-{{< figure src="img/cds/eletro/yg6.jpg" >}}
-{{< /gallery >}}
-
-### The Young Gods - Live Sky Tour
-{{< gallery >}}
-{{< figure src="img/cds/eletro/yg7.jpg" >}}
-{{< figure src="img/cds/eletro/yg8.jpg" >}}
-{{< /gallery >}}
-
-### The Young Gods - Plays Kurt Weill
-{{< gallery >}}
-{{< figure src="img/cds/eletro/yg9.jpg" >}}
-{{< figure src="img/cds/eletro/yg10.jpg" >}}
 {{< /gallery >}}
 
 ---

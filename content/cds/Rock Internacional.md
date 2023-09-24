@@ -5,20 +5,12 @@ image = "img/cds/rock/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 20</span> cada
+A partir de <span class="price">R$ 20</span>
 </br>
 
 Mais de 40 cds disponiveis.
 <!--more-->
 
-
-## Bjork - Homogenic
-{{< gallery >}}
-{{< figure src="img/cds/rock-ii/20170813_162658.jpg" >}}
-{{< figure src="img/cds/rock-ii/20170813_162702.jpg" >}}
-{{< /gallery >}}
-
----
 
 ## Blur
 
@@ -29,23 +21,8 @@ Mais de 40 cds disponiveis.
 
 ---
 
-## Cocteau Twins - Garlands
-
-{{< gallery >}}
-{{< figure src="img/cds/rock/ct1.jpg" >}}
-{{< figure src="img/cds/rock/ct2.jpg" >}}
-{{< /gallery >}}
-
----
-
 ## David Bowie
 
-### The Best of David Bowie
-
-{{< gallery >}}
-{{< figure src="img/cds/rock/db1.jpg" >}}
-{{< figure src="img/cds/rock/db2.jpg" >}}
-{{< /gallery >}}
 
 ### David Bowie - Earthling
 {{< gallery >}}
@@ -55,7 +32,7 @@ Mais de 40 cds disponiveis.
 
 ---
 
-## David Sylvian
+## David Sylvian - R$ 30
 
 {{< gallery >}}
 {{< figure src="img/cds/rock/ds1.jpg" >}}
@@ -66,49 +43,49 @@ Mais de 40 cds disponiveis.
 
 ## Dead Can Dance
 
-### Dead Can Dance - Into the Labyrinth
+### Dead Can Dance - Into the Labyrinth (Importado) - R$ 50
 {{< gallery >}}
 {{< figure src="img/cds/rock/dcd1.jpg" >}}
 {{< figure src="img/cds/rock/dcd2.jpg" >}}
 {{< /gallery >}}
 
-### Can Dance - Toward the Within
+### Can Dance - Toward the Within - R$ 50
 {{< gallery >}}
 {{< figure src="img/cds/rock/dcd3.jpg" >}}
 {{< figure src="img/cds/rock/dcd4.jpg" >}}
 {{< /gallery >}}
 
-### Dead Can Dance - Spiritchaser
+### Dead Can Dance - Spiritchaser - R$ 20
 {{< gallery >}}
 {{< figure src="img/cds/rock/dcd5.jpg" >}}
 {{< figure src="img/cds/rock/dcd6.jpg" >}}
 {{< /gallery >}}
 
-### Dead Can Dance
+### Dead Can Dance - R$ 50
 {{< gallery >}}
 {{< figure src="img/cds/rock/dcd7.jpg" >}}
 {{< figure src="img/cds/rock/dcd8.jpg" >}}
 {{< /gallery >}}
 
-### Dead Can Dance
+### Dead Can Dance - R$ 50
 {{< gallery >}}
 {{< figure src="img/cds/rock/dcd9.jpg" >}}
 {{< figure src="img/cds/rock/dcd10.jpg" >}}
 {{< /gallery >}}
 
-### Dead Can Dance - Aion
+### Dead Can Dance - Aion - R$ 50
 {{< gallery >}}
 {{< figure src="img/cds/rock/dcd11.jpg" >}}
 {{< figure src="img/cds/rock/dcd12.jpg" >}}
 {{< /gallery >}}
 
-### Dead Can Dance - The Serpent Egg
+### Dead Can Dance - The Serpent Egg - R$ 50
 {{< gallery >}}
 {{< figure src="img/cds/rock/dcd13.jpg" >}}
 {{< figure src="img/cds/rock/dcd14.jpg" >}}
 {{< /gallery >}}
 
-### Dead Can Dance - Into the Labyrinth
+### Dead Can Dance - Into the Labyrinth (Nacional) - R$ 20
 {{< gallery >}}
 {{< figure src="img/cds/rock/dcd15.jpg" >}}
 {{< figure src="img/cds/rock/dcd16.jpg" >}}
@@ -120,7 +97,6 @@ Mais de 40 cds disponiveis.
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_163929.jpg" >}}
-{{< figure src="img/cds/rock-ii/20170813_163934.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -170,7 +146,7 @@ Mais de 40 cds disponiveis.
 
 ---
 
-## Janes Addiction
+## Janes Addiction - R$ 50
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_162004.jpg" >}}
@@ -235,12 +211,6 @@ Mais de 40 cds disponiveis.
 
 ## Pixies
 
-### Pixies - Doolittle
-{{< gallery >}}
-{{< figure src="img/cds/rock/px1.jpg" >}}
-{{< figure src="img/cds/rock/px2.jpg" >}}
-{{< /gallery >}}
-
 ### Pixies - Surfer Rosa
 {{< gallery >}}
 {{< figure src="img/cds/rock/px3.jpg" >}}
@@ -253,7 +223,7 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock/px6.jpg" >}}
 {{< /gallery >}}
 
-### Pixies - Death to the Pixies
+### Pixies - Death to the Pixies - R$ 50
 {{< gallery >}}
 {{< figure src="img/cds/rock/px7.jpg" >}}
 {{< figure src="img/cds/rock/px8.jpg" >}}
@@ -288,22 +258,6 @@ Mais de 40 cds disponiveis.
 {{< figure src="img/cds/rock/rb2.jpg" >}}
 {{< /gallery >}}
 
-### Rollins Band - The End of Silence
-
-{{< gallery >}}
-{{< figure src="img/cds/rock/rb3.jpg" >}}
-{{< figure src="img/cds/rock/rb4.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Smashing Pumpkins (Duplo)
-
-{{< gallery >}}
-{{< figure src="img/cds/rock-ii/20170813_153929.jpg" >}}
-{{< figure src="img/cds/rock-ii/20170813_153936.jpg" >}}
-{{< /gallery >}}
-
 ---
 
 ## Suede
@@ -324,20 +278,11 @@ Mais de 40 cds disponiveis.
 
 ---
 
-## This Mortal Coil - Filigree & Shadow
+## This Mortal Coil - Filigree & Shadow - R$ 30
 
 {{< gallery >}}
 {{< figure src="img/cds/rock-ii/20170813_162429.jpg" >}}
 {{< figure src="img/cds/rock-ii/20170813_162435.jpg" >}}
-{{< /gallery >}}
-
----
-
-## TSOL
-
-{{< gallery >}}
-{{< figure src="img/cds/rock-ii/20170813_154231.jpg" >}}
-{{< figure src="img/cds/rock-ii/20170813_154238.jpg" >}}
 {{< /gallery >}}
 
 ---

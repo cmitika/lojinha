@@ -36,19 +36,20 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 
 ---
 
-## Barbatuques
+## Banda Estralo
 
-### Barbatuques - Corpo do Som
+{{< gallery >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-48.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-45.jpg" >}}
+{{< /gallery >}}
+
+---
+
+## Barbatuques - Corpo do Som
 
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_155352.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_155359.jpg" >}}
-{{< /gallery >}}
-
-### Barbatuques - O Seguinte e esse
-{{< gallery >}}
-{{< figure src="img/cds/brasil-mpb/20170813_160002.jpg" >}}
-{{< figure src="img/cds/brasil-mpb/20170813_160009.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -89,6 +90,15 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_161136.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_161141.jpg" >}}
+{{< /gallery >}}
+
+---
+
+## Cantos e Encantos
+
+{{< gallery >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-54.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-51.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -175,46 +185,16 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 
 ## Chico Science & Nacao Zumbi
 
-### Chico Science & Nacao Zumbi - Afrociberdelia
-{{< gallery >}}
-{{< figure src="img/cds/brasil-rock/20170813_161345.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_161350.jpg" >}}
-{{< /gallery >}}
-
-### Nacao Zumbi - Radio Samba
-{{< gallery >}}
-{{< figure src="img/cds/brasil-rock/20170813_161415.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_161420.jpg" >}}
-{{< /gallery >}}
-
-### Nacao Zumbi - Trilha do Filme Baile Perfumado
-{{< gallery >}}
-{{< figure src="img/cds/brasil-rock/20170813_161434.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_161439.jpg" >}}
-{{< /gallery >}}
-
 ### Chico Science & Nacao Zumbi - Maxximum
 {{< gallery >}}
-{{< figure src="img/cds/brasil-rock/20170813_161450.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_161456.jpg" >}}
-{{< /gallery >}}
-
-### Chico Science & Nacao Zumbi - Da Lama ao Caos
-{{< gallery >}}
-{{< figure src="img/cds/brasil-rock/20170813_161506.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_161511.jpg" >}}
-{{< /gallery >}}
-
-### Chico Science & Nacao Zumbi
-{{< gallery >}}
-{{< figure src="img/cds/brasil-rock/20170813_161622.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_161627.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/20170813_161450.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/20170813_161456.jpg" >}}
 {{< /gallery >}}
 
 ### Nacao Zumbi
 {{< gallery >}}
-{{< figure src="img/cds/brasil-rock/20170813_163149.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_163154.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/20170813_163149.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/20170813_163154.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -239,6 +219,15 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/20170813_163135.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/20170813_163140.jpg" >}}
+{{< /gallery >}}
+
+---
+
+## Leves Cantos
+
+{{< gallery >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-19.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-16.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -291,6 +280,16 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 
 ---
 
+## Nhambuzim - Bichos de Ca
+
+{{< gallery >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-07.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-04.jpg" >}}
+{{< /gallery >}}
+
+
+---
+
 ## Orishas
 
 {{< gallery >}}
@@ -300,20 +299,30 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 
 ---
 
+## Palavra Cantada
+
+### Cancoes de Ninar
+
+{{< gallery >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-13.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-10.jpg" >}}
+{{< /gallery >}}
+
+### Cancoes do Brasil - R$ 30
+
+{{< gallery >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-26.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-22.jpg" >}}
+{{< /gallery >}}
+
+---
+
+
 ## Panos & Lendas
 
 {{< gallery >}}
 {{< figure src="img/cds/brasil-mpb/panos1.jpg" >}}
 {{< figure src="img/cds/brasil-mpb/panos2.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Renato Russo
-
-{{< gallery >}}
-{{< figure src="img/cds/brasil-mpb/20170813_162308.jpg" >}}
-{{< figure src="img/cds/brasil-mpb/20170813_162314.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -328,21 +337,24 @@ Mais de 50 CDs por <span class="price">R$ 20</span> cada
 ---
 
 ## Titas - Acustico MTV
+
 {{< gallery >}}
-{{< figure src="img/cds/brasil-rock/20170813_163033.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_163038.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/20170813_163033.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/20170813_163038.jpg" >}}
 {{< /gallery >}}
 
 ---
 
-## Varsovia & Submundo
+## Tavinho Simoes
 
 {{< gallery >}}
-{{< figure src="img/cds/brasil-rock/20170813_154827.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_154835.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-35.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-32.jpg" >}}
+{{< /gallery >}}
 
-{{< figure src="img/cds/brasil-rock/20170813_154846.jpg" >}}
-{{< figure src="img/cds/brasil-rock/20170813_154854.jpg" >}}
+{{< gallery >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-43.jpg" >}}
+{{< figure src="img/cds/brasil-mpb/photo_2023-09-24_12-07-40.jpg" >}}
 {{< /gallery >}}
 
 ---

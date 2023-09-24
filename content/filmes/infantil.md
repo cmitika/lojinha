@@ -25,4 +25,10 @@ Qualquer filme por <span class="price">R$ 20</span>
 	{{< figure src="img/filmes/infanto-juvenil/photo_2023-08-25_10-44-33.jpg" >}}
 	{{< figure src="img/filmes/infanto-juvenil/photo_2023-08-25_10-44-37.rotated.jpg" >}}
 	{{< figure src="img/filmes/infanto-juvenil/photo_2023-08-25_10-44-38.rotated.jpg" >}}
+	{{< figure src="img/filmes/infanto-juvenil/z50.jpg" >}}
+	{{< figure src="img/filmes/infanto-juvenil/z51.jpg" >}}
+	{{< figure src="img/filmes/infanto-juvenil/z52.jpg" >}}
+	{{< figure src="img/filmes/infanto-juvenil/z53.jpg" >}}
+	{{< figure src="img/filmes/infanto-juvenil/z54.jpg" >}}
+	{{< figure src="img/filmes/infanto-juvenil/z55.jpg" >}}
 {{< /gallery >}}	

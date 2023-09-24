@@ -1,5 +1,5 @@
 +++
-title = "Design (20)"
+title = "Design & Artes Manuais (20)"
 draft = false
 image = "img/livros/design/cover.jpg"
 showonlyimage = false
@@ -19,6 +19,7 @@ weight = 2
 {{< figure src="img/livros/design/933c3042843ebdfd90a64fbb2a39c147.jpg" >}}
 {{< figure src="img/livros/design/0944bedd0f1d00cfc92b69ab2d025bb0.jpg" >}}
 
+{{< figure src="img/livros/design/photo_2023-09-24_12-24-53.jpg" >}}
 {{< figure src="img/livros/design/1595ce1d3c0cb1a9410fdcca42cb2666.jpg" >}}
 {{< figure src="img/livros/design/157263c91cbd55ef790fc48ab6ee4ea5.jpg" >}}
 {{< figure src="img/livros/design/20230825_111421.jpg" >}}

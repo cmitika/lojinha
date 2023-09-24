@@ -16,7 +16,7 @@ weight = 6
 {{< figure src="img/cds/brasil-regional/20170813_163713.jpg" >}}
 {{< /gallery >}}
 
-### Musica Regional do Brasil
+### Musica Regional do Brasil - R$ 50
 {{< gallery >}}
 {{< figure src="img/cds/brasil-regional/20170813_161025.jpg" >}}
 {{< figure src="img/cds/brasil-regional/20170813_161030.jpg" >}}
@@ -26,12 +26,6 @@ weight = 6
 {{< gallery >}}
 {{< figure src="img/cds/brasil-regional/20170813_155051.jpg" >}}
 {{< figure src="img/cds/brasil-regional/20170813_155058.jpg" >}}
-{{< /gallery >}}
-
-### Quinteto Armorial - Aralume
-{{< gallery >}}
-{{< figure src="img/cds/brasil-regional/20170813_163101.jpg" >}}
-{{< figure src="img/cds/brasil-regional/20170813_163106.jpg" >}}
 {{< /gallery >}}
 
 ### Uakti - Aguas da Amazonia (Philip Glass)
@@ -46,18 +40,6 @@ weight = 6
 {{< gallery >}}
 {{< figure src="img/cds/brasil-regional/20170813_154509.jpg" >}}
 {{< figure src="img/cds/brasil-regional/20170813_154518.jpg" >}}
-{{< /gallery >}}
-
-### Indios Guarani - Nande Reko Arandu
-{{< gallery >}}
-{{< figure src="img/cds/brasil-regional/20170813_154807.jpg" >}}
-{{< figure src="img/cds/brasil-regional/20170813_154813.jpg" >}}
-{{< /gallery >}}
-
-### Indios Guarani - Nande Arandu Pygua
-{{< gallery >}}
-{{< figure src="img/cds/brasil-regional/20170813_162729.jpg" >}}
-{{< figure src="img/cds/brasil-regional/20170813_162733.jpg" >}}
 {{< /gallery >}}
 
 ## Colecao Funarte
@@ -86,18 +68,6 @@ weight = 6
 {{< gallery >}}
 {{< figure src="img/cds/brasil-regional/20170813_155216.jpg" >}}
 {{< figure src="img/cds/brasil-regional/20170813_155224.jpg" >}}
-{{< /gallery >}}
-
-### Banda de Pifano Cultural de Caruaru - 100% Regional
-{{< gallery >}}
-{{< figure src="img/cds/brasil-regional/20170813_163231.jpg" >}}
-{{< figure src="img/cds/brasil-regional/20170813_163237.jpg" >}}
-{{< /gallery >}}
-
-### Cantigas de Lampeao, por Volta Seca (cangaceiro do bando de Lampiao que faleceu em 97)
-{{< gallery >}}
-{{< figure src="img/cds/brasil-regional/20170813_163855.jpg" >}}
-{{< figure src="img/cds/brasil-regional/20170813_163901.jpg" >}}
 {{< /gallery >}}
 
 ### Musica Popular do Norte 3

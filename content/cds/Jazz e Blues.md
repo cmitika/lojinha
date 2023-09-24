@@ -5,10 +5,10 @@ image = "img/cds/jazz_blues/cover.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="price">R$ 20</span> cada
+A partir de <span class="price">R$ 20</span>
 <!--more-->
 
-## Billie Holiday
+## Billie Holiday - R$ 20
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_153010.jpg" >}}
@@ -17,7 +17,7 @@ weight = 5
 
 ---
 
-## Charlie Parker
+## Charlie Parker - R$ 30
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_153133.jpg" >}}
@@ -26,7 +26,7 @@ weight = 5
 
 ---
 
-## Chet Baker - My Funny Valentine
+## Chet Baker - My Funny Valentine - R$ 30
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_163259.jpg" >}}
@@ -35,7 +35,7 @@ weight = 5
 
 ---
 
-## Roots of Rythm and Blues - Coletanea de Blues
+## Roots of Rythm and Blues - Coletanea de Blues - R$ 20
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_160955.jpg" >}}
@@ -44,7 +44,7 @@ weight = 5
 
 ---
 
-## September Songs
+## September Songs - R$ 20
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_163114.jpg" >}}
 {{< figure src="img/cds/jazz_blues/20170813_163122.jpg" >}}
@@ -52,7 +52,7 @@ weight = 5
 
 ---
 
-## Dave Brubeck - Time Out / Take Five
+## Dave Brubeck - Time Out / Take Five - R$ 20
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_152528.jpg" >}}
 {{< figure src="img/cds/jazz_blues/20170813_152535.jpg" >}}
@@ -60,7 +60,7 @@ weight = 5
 
 ---
 
-## Ella Fitzgerald
+## Ella Fitzgerald - R$ 20
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_152459.jpg" >}}
@@ -69,7 +69,7 @@ weight = 5
 
 ---
 
-## Ladies of Jazz Volume I e II, por R$ 40
+## Ladies of Jazz Volume I e II - Os dois por R$ 40
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_134137.jpg" >}}
@@ -80,7 +80,7 @@ weight = 5
 
 ---
 
-## Miles Davis - Walkin
+## Miles Davis - Walkin - R$ 20
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_152548.jpg" >}}
@@ -89,9 +89,13 @@ weight = 5
 
 ---
 
-## Miles Davis - Box contendo 4 CDs, por R$ 80
+## Miles Davis - Box contendo 4 CDs, por R$ 100
 
 {{< gallery >}}
+
+{{< figure src="img/cds/jazz_blues/photo_2023-09-24_12-06-41.jpg" >}}
+{{< figure src="img/cds/jazz_blues/photo_2023-09-24_12-06-58.jpg" >}}
+
 {{< figure src="img/cds/jazz_blues/20170813_153159.jpg" >}}
 {{< figure src="img/cds/jazz_blues/20170813_153211.jpg" >}}
 
@@ -103,29 +107,32 @@ weight = 5
 
 {{< figure src="img/cds/jazz_blues/20170813_153321.jpg" >}}
 {{< figure src="img/cds/jazz_blues/20170813_153331.jpg" >}}
+
+{{< figure src="img/cds/jazz_blues/photo_2023-09-24_12-07-01.jpg" >}}
 {{< /gallery >}}
 
 ---
 
-## Robert Johnson - Complete Records 2 Volumes, por R$ 40
+## Robert Johnson - Complete Records 2 Volumes, por R$ 60
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_153052.jpg" >}}
 {{< figure src="img/cds/jazz_blues/20170813_153100.jpg" >}}
 {{< figure src="img/cds/jazz_blues/20170813_153112.jpg" >}}
 {{< figure src="img/cds/jazz_blues/20170813_153121.jpg" >}}
+{{< figure src="img/cds/jazz_blues/photo_2023-09-24_12-07-29.jpg" >}}
 {{< /gallery >}}
 
 ---
 
-## Scott Hamilton - Organic Duke
+## Scott Hamilton - Organic Duke - R$ 30
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_152404.jpg" >}}
 {{< figure src="img/cds/jazz_blues/20170813_152420.jpg" >}}
 {{< /gallery >}}
 
-## Scott Hamilton - The Right Time
+## Scott Hamilton - The Right Time - R$ 30
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_153358.jpg" >}}
@@ -134,7 +141,7 @@ weight = 5
 
 ---
 
-## Sonny Boy Williamson
+## Sonny Boy Williamson - R$ 20
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_153033.jpg" >}}
@@ -143,7 +150,7 @@ weight = 5
 
 ---
 
-## Sonny Rollins - Saxophone Colossus
+## Sonny Rollins - Saxophone Colossus - R$ 30
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/sonny1.jpg" >}}

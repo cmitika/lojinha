@@ -34,7 +34,9 @@ Mais de 40 filmes disponiveis por <span class="price">R$ 20</span> cada
 	{{< figure src="img/filmes/adultos/clint2.jpg" >}}
 	{{< figure src="img/filmes/adultos/etica1.jpg" >}}
 	{{< figure src="img/filmes/adultos/etica2.jpg" >}}
-	{{< figure src="img/filmes/adultos/moretti1.jpg" >}}
+	{{< figure src="img/filmes/adultos/3.jpg" >}}
+	{{< figure src="img/filmes/adultos/4.jpg" >}}
+	
 	{{< figure src="img/filmes/adultos/moretti2.jpg" >}}
 	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-44-34.rotated.jpg" >}}
 	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-44-42.rotated.jpg" >}}

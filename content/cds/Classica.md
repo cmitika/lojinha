@@ -5,20 +5,23 @@ image = "img/cds/classico/cover.jpg"
 showonlyimage = false
 weight = 10
 +++
-<span class="price">R$ 20</span> cada
+De <span class="price">R$ 10 a 20</span>
 <!--more-->
 
+# R$ 20
 
 {{< gallery >}}
 {{< figure src="img/cds/classico/20170813_161522.jpg" >}}
 {{< figure src="img/cds/classico/20170813_161527.jpg" >}}
 {{< figure src="img/cds/classico/20170813_161538.jpg" >}}
 {{< figure src="img/cds/classico/20170813_161543.jpg" >}}
-{{< figure src="img/cds/classico/20170813_161554.jpg" >}}
-{{< figure src="img/cds/classico/20170813_161558.jpg" >}}
 {{< figure src="img/cds/classico/20170813_161607.jpg" >}}
 {{< figure src="img/cds/classico/20170813_161612.jpg" >}}
+{{< /gallery >}}
 
+# R$ 10
+
+{{< gallery >}}
 {{< figure src="img/cds/classico/20170813_154438.jpg" >}}
 {{< figure src="img/cds/classico/20170813_154450.jpg" >}}
 {{< figure src="img/cds/classico/20170813_154530.jpg" >}}

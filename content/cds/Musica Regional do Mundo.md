@@ -5,8 +5,18 @@ image = "img/cds/world-regional/cover.jpg"
 showonlyimage = false
 weight = 7
 +++
-<span class="price">R$ 20</span> cada
+A partir de <span class="price">R$ 20</span> cada
 <!--more-->
+
+## Giro Giro Tondo - R$ 100
+
+CD e livro importado, Italia. Cancoes medievais infantis + livro com letras e partitura.
+
+{{< gallery >}}
+{{< figure src="img/cds/world-regional/giro1.jpg" >}}
+{{< /gallery >}}
+
+
 
 ## Casa de La Trova
 {{< gallery >}}
@@ -25,17 +35,6 @@ weight = 7
 {{< gallery >}}
 {{< figure src="img/cds/world-regional/20170813_161929.jpg" >}}
 {{< figure src="img/cds/world-regional/20170813_161934.jpg" >}}
-{{< /gallery >}}
-
-## Eros Ramazzotti
-{{< gallery >}}
-{{< figure src="img/cds/world-regional/20170813_154911.jpg" >}}
-{{< figure src="img/cds/world-regional/20170813_154919.jpg" >}}
-{{< /gallery >}}
-
-## Giro Giro Tondo
-{{< gallery >}}
-{{< figure src="img/cds/world-regional/giro1.jpg" >}}
 {{< /gallery >}}
 
 ## Heart of the Forest

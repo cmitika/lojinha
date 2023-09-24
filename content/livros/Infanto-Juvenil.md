@@ -5,9 +5,19 @@ image = "img/livros/infantil/cover.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="price">R$ 20</span> cada
+A partir de <span class="price">R$ 20</span>
 <!--more-->
 
+
+# Livros por R$ 50
+
+{{< gallery >}}
+
+{{< figure src="img/livros/infantil/photo_2023-09-24_12-24-47.jpg" >}}
+{{< figure src="img/livros/infantil/photo_2023-09-24_12-24-50.jpg" >}}
+{{< /gallery >}}
+
+# Livros por R$ 30
 
 {{< gallery >}}
 {{< figure src="img/livros/infantil/lobato1.jpg" >}}
@@ -21,7 +31,12 @@ weight = 5
 
 {{< figure src="img/livros/infantil/grimm2.jpg" >}}
 {{< figure src="img/livros/infantil/33f7f97a1b28150335660e91ee7314ab.jpg" >}}
+{{< figure src="img/livros/infantil/906c50fc2eee6084cfbf1b436517e3cb.jpg" >}}
+{{< /gallery >}}
 
+# Livros por R$ 20
+
+{{< gallery >}}
 {{< figure src="img/livros/infantil/1d1f7fed36c30e3f418a66434bec8a38.jpg" >}}
 {{< figure src="img/livros/infantil/2c0fd29f98ab48a6e5766ee63681bffd.jpg" >}}
 
@@ -45,7 +60,7 @@ weight = 5
 
 {{< figure src="img/livros/infantil/668f851c05ab9016e52687a9756a1229.jpg" >}}
 {{< figure src="img/livros/infantil/865a80cd71d97f9c4fa1aa863a61899d.jpg" >}}
-{{< figure src="img/livros/infantil/906c50fc2eee6084cfbf1b436517e3cb.jpg" >}}
+
 {{< figure src="img/livros/infantil/946d7a6c7883f2358bdd95d53473efa7.jpg" >}}
 
 {{< figure src="img/livros/infantil/984c63c69627167f5993056bd4880bbd.jpg" >}}
@@ -83,7 +98,6 @@ weight = 5
 {{< figure src="img/livros/infantil/historias_japonesas1.jpg" >}}
 {{< figure src="img/livros/infantil/historias_japonesas2.jpg" >}}
 {{< figure src="img/livros/infantil/Historias_mukashi.jpg" >}}
-{{< figure src="img/livros/infantil/Hobbit.jpg" >}}
 {{< figure src="img/livros/infantil/IMG_1800.jpg" >}}
 {{< figure src="img/livros/infantil/Joca_sopra.jpg" >}}
 {{< figure src="img/livros/infantil/Joca_sopra1.jpg" >}}
