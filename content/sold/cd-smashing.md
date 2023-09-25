@@ -3,7 +3,7 @@ title = "Smashing Pumpkins (Duplo)"
 draft = false
 image = "img/cds/00/20170813_153929.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 60~~</span> **VENDIDO!**
 

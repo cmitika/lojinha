@@ -3,7 +3,7 @@ title = "Deep Forest"
 draft = false
 image = "img/cds/00/df3.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 25~~</span> **VENDIDO!**
 

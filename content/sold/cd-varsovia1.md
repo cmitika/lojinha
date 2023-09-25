@@ -3,7 +3,7 @@ title = "Varsovia & Submundo (2 CDs)"
 draft = false
 image = "img/cds/00/20170813_154827.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 40~~</span> **VENDIDO!**
 

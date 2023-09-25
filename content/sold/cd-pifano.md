@@ -3,7 +3,7 @@ title = "Banda de Pifano Cultural de Caruaru - 100% Regional"
 draft = false
 image = "img/cds/00/20170813_163231.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 30~~</span> **VENDIDO!**
 

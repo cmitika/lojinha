@@ -3,7 +3,7 @@ title = "Nande Arandu Pygua"
 draft = false
 image = "img/cds/00/20170813_162729.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 30~~</span> **VENDIDO!**
 

@@ -3,7 +3,7 @@ title = "Kokeshi Kimmidoll Satori"
 draft = false
 image = "img/moveis/kokeshi-kimmidoll-satori1.jpg"
 showonlyimage = false
-weight = 10
+weight = 20
 +++
 De ~~125~~ por <span class="price">R$ 75</span>
 

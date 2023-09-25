@@ -3,7 +3,7 @@ title = "The Best of David Bowie"
 draft = false
 image = "img/cds/00/db1.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 20~~</span> **VENDIDO!**
 

@@ -3,7 +3,7 @@ title = "Nacao Zumbi - Radio Samba"
 draft = false
 image = "img/cds/00/20170813_161415.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 30~~</span> **VENDIDO!**
 

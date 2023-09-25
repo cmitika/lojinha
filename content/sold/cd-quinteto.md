@@ -3,7 +3,7 @@ title = "Quinteto Armorial - Aralume"
 draft = false
 image = "img/cds/00/20170813_163101.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 20~~</span> **VENDIDO!**
 

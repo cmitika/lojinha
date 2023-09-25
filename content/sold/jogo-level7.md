@@ -3,7 +3,7 @@ title = "Level 7"
 draft = false
 image = "img/diversao/level7/1.jpg"
 showonlyimage = false
-weight = 1
+weight = 50
 +++
 <span class="sold">~~R$ 300~~</span> **VENDIDO!**
 

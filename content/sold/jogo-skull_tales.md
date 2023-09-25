@@ -3,7 +3,7 @@ title = "Skull Tales"
 draft = false
 image = "img/diversao/skull_tales/1.jpg"
 showonlyimage = false
-weight = 1
+weight = 50
 +++
 <span class="sold">~~R$ 400~~</span> **VENDIDO!**
 

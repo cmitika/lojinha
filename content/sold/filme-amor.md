@@ -1,15 +1,15 @@
 +++
 title = "Amor a Flor da Pele"
 draft = false
-image = "img/filmes/adultos/amor.jpg"
+image = "img/filmes/00/amor.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 20~~</span> **VENDIDO!**
 
 <!--more-->
 
 {{< gallery >}}
-{{< figure src="img/filmes/adultos/amor.jpg" >}}
+{{< figure src="img/filmes/00/amor.jpg" >}}
 {{< /gallery >}}
 

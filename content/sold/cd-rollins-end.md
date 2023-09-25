@@ -3,7 +3,7 @@ title = "Rollins Band - The End of Silence"
 draft = false
 image = "img/cds/00/rb3.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 30~~</span> **VENDIDO!**
 

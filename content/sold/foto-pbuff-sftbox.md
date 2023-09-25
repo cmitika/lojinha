@@ -3,7 +3,7 @@ title = "Large Foldable Softbox com Grid - Paul C. Buff"
 draft = false
 image = "img/fotografia/einstein/softbox.jpg"
 showonlyimage = false
-weight = 200
+weight = 30
 +++
 <span class="price">R$ 1.700</span>
 

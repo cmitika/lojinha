@@ -3,7 +3,7 @@ title = "Macarico Orca"
 draft = false
 image = "img/joalheria/Macarico_orca.jpg"
 showonlyimage = false
-weight = 1
+weight = 60
 +++
 <span class="orange">Pechincha!</span> De ~~770~~ por <span class="price">R$ 450</span>
 

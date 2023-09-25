@@ -1,16 +1,16 @@
 +++
 title = "John Coltrane"
 draft = false
-image = "img/livros/musica/9840ebabb2ecce800eeb92aa0e441870.jpg"
+image = "img/livros/00/9840ebabb2ecce800eeb92aa0e441870.jpg"
 showonlyimage = false
-weight = 1
+weight = 100
 +++
 <span class="sold">~~R$ 30~~</span> **VENDIDO!**
 
 <!--more-->
 
 {{< gallery >}}
-{{< figure src="img/livros/musica/9840ebabb2ecce800eeb92aa0e441870.jpg" >}}
+{{< figure src="img/livros/00/9840ebabb2ecce800eeb92aa0e441870.jpg" >}}
 
 {{< /gallery >}}
 

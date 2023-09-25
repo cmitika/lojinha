@@ -3,7 +3,7 @@ title = "Pinca Cruzada - Base"
 draft = false
 image = "img/joalheria/Pincacruzada_base.jpg"
 showonlyimage = false
-weight = 5
+weight = 60
 +++
 <span class="price">R$ 50</span>
 

@@ -3,7 +3,7 @@ title = "2 Sapateiras"
 draft = false
 image = "img/moveis/sapateira.jpg"
 showonlyimage = false
-weight = 3
+weight = 1
 +++
 <span class="price">R$ 100</span>
 

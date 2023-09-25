@@ -3,7 +3,7 @@ title = "Pixies - Doolittle"
 draft = false
 image = "img/cds/00/px1.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 50~~</span> **VENDIDO!**
 

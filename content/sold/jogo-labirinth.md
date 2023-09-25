@@ -3,7 +3,7 @@ title = "Labirinth"
 draft = false
 image = "img/diversao/labirinth/1.jpg"
 showonlyimage = false
-weight = 1
+weight = 50
 +++
 <span class="sold">~~R$ 250~~</span> **VENDIDO!**
 

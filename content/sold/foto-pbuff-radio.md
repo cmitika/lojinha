@@ -3,7 +3,7 @@ title = "Radio CyberCommander + CyberSync Paul C. Buff"
 draft = false
 image = "img/fotografia/cybercommander/1.jpg"
 showonlyimage = false
-weight = 2
+weight = 30
 +++
 <span class="price">R$ 1.600</span>
 

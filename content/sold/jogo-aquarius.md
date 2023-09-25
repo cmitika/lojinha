@@ -3,7 +3,7 @@ title = "Aquarius"
 draft = false
 image = "img/diversao/aquarius/1.jpg"
 showonlyimage = false
-weight = 10
+weight = 50
 +++
 <span class="sold">~~R$ 50~~</span> **VENDIDO!**
 

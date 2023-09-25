@@ -3,7 +3,7 @@ title = "Nacao Zumbi - Trilha do Filme Baile Perfumado"
 draft = false
 image = "img/cds/00/20170813_161434.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 30~~</span> **VENDIDO!**
 

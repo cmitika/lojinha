@@ -3,7 +3,7 @@ title = "Nacht Der Magier"
 draft = false
 image = "img/diversao/nacht_der_magier/1.jpg"
 showonlyimage = false
-weight = 1
+weight = 50
 +++
 <span class="sold">~~R$ 300~~</span> **VENDIDO!**
 

@@ -3,7 +3,7 @@ title = "As Lendas de Andor"
 draft = false
 image = "img/diversao/andor/1.jpg"
 showonlyimage = false
-weight = 5
+weight = 50
 +++
 <span class="price">R$ 250</span>
 

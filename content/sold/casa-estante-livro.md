@@ -3,7 +3,7 @@ title = "3x Estantes de Livros"
 draft = false
 image = "img/moveis/estante1.jpg"
 showonlyimage = false
-weight = 2
+weight = 1
 +++
 <span class="price">R$ 1.200</span>
 

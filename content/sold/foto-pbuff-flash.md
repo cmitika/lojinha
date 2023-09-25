@@ -3,7 +3,7 @@ title = "Flash Paul C. Buff Einstein"
 draft = false
 image = "img/fotografia/einstein/einstein.jpg"
 showonlyimage = false
-weight = 2
+weight = 30
 +++
 <span class="price">R$ 5.000</span>
 

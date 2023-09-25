@@ -3,7 +3,7 @@ title = "Chico Science & Nacao Zumbi - Da Lama ao Caos"
 draft = false
 image = "img/cds/00/20170813_161506.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 30~~</span> **VENDIDO!**
 

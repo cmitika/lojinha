@@ -3,7 +3,7 @@ title = "Munchkin Cthulhu"
 draft = false
 image = "img/diversao/cthulhu/1.jpg"
 showonlyimage = false
-weight = 1
+weight = 50
 +++
 <span class="sold">~~R$ 180~~</span> **VENDIDO!**
 

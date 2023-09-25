@@ -3,7 +3,7 @@ title = "Zombicide Rue Morgue"
 draft = false
 image = "img/diversao/zombicide/1.jpg"
 showonlyimage = false
-weight = 1
+weight = 50
 +++
 <span class="sold">~~R$ 350~~</span> **VENDIDO!**
 

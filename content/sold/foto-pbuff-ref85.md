@@ -3,7 +3,7 @@ title = "High output reflector de 8.5 - Paul C. Buff"
 draft = false
 image = "img/fotografia/foto_dish/a1.jpg"
 showonlyimage = false
-weight = 200
+weight = 30
 +++
 <span class="price">R$ 210</span>
 

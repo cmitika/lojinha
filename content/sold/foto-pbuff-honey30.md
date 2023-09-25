@@ -3,7 +3,7 @@ title = "Honeycomb de 30 graus - Paul C. Buff"
 draft = false
 image = "img/fotografia/pbuff_grid/b2.jpg"
 showonlyimage = false
-weight = 200
+weight = 30
 +++
 <span class="price">R$ 180</span>
 

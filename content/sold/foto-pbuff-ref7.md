@@ -3,7 +3,7 @@ title = "Reflector de 7 - Paul C. Buff"
 draft = false
 image = "img/fotografia/foto_dish/b1.jpg"
 showonlyimage = false
-weight = 200
+weight = 30
 +++
 <span class="price">R$ 150</span>
 

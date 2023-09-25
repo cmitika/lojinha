@@ -3,7 +3,7 @@ title = "Gold Mine"
 draft = false
 image = "img/diversao/gold_mine/1.jpg"
 showonlyimage = false
-weight = 5
+weight = 50
 +++
 <span class="sold">~~R$ 200~~</span> **VENDIDO!**
 

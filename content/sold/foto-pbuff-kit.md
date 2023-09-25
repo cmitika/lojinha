@@ -3,7 +3,7 @@ title = "Kit Estudio Paul C. Buff Einstein"
 draft = false
 image = "img/fotografia/einstein/einstein.jpg"
 showonlyimage = false
-weight = 2
+weight = 30
 +++
 <span class="orange">IMPERDIVEL</span> De ~~14.000~~ por <span class="price">R$ 10.000</span>
 

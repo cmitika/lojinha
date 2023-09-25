@@ -3,7 +3,7 @@ title = "Cantigas de Lampeao, por Volta Seca"
 draft = false
 image = "img/cds/00/20170813_163855.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 30~~</span> **VENDIDO!**
 

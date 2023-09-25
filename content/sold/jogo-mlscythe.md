@@ -3,7 +3,7 @@ title = "My Little Scythe"
 draft = false
 image = "img/diversao/mlscythe/1.jpg"
 showonlyimage = false
-weight = 1
+weight = 50
 +++
 <span class="sold">~~R$ 300~~</span> **VENDIDO!**
 

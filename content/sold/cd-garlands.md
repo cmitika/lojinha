@@ -3,7 +3,7 @@ title = "Cocteau Twins - Garlands"
 draft = false
 image = "img/cds/00/ct1.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 50~~</span> **VENDIDO!**
 

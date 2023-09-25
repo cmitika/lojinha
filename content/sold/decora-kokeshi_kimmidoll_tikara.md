@@ -3,7 +3,7 @@ title = "Kokeshi Kimmidoll Tikara"
 draft = false
 image = "img/moveis/kokeshi_kimmidoll_tikara1.jpg"
 showonlyimage = false
-weight = 10
+weight = 20
 +++
 De ~~125~~ por <span class="price">R$ 75</span>
 
