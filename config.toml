@@ -69,16 +69,20 @@ googleAnalytics = "UA-27161989-3"
   url = "diversao/"
 
   [[params.navlinks]]
-  name = "Filmes"
+  name = "DVD & Blu-Ray"
   url = "filmes/"
 
   [[params.navlinks]]
-  name = "CDs"
+  name = "CDs de Musica"
   url = "cds/"
 
   [[params.navlinks]]
   name = "Livros"
   url = "livros/"
+
+  [[params.navlinks]]
+  name = "Instrumentos Musicais"
+  url = "instrumentos/"
 
   [[params.navlinks]]
   name = "Fotografia"
