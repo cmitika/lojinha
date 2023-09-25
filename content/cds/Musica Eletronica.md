@@ -5,7 +5,7 @@ image = "img/cds/eletro/cover.jpg"
 showonlyimage = false
 weight = 4
 +++
-<span class="price">R$ 20</span> cada
+A partir de <span class="price">R$ 20</span>
 <!--more-->
 
 ## Atman
@@ -55,7 +55,7 @@ weight = 4
 {{< /gallery >}}
 
 ---
-## Ministry
+## Ministry - R$ 50
 
 {{< gallery >}}
 {{< figure src="img/cds/eletro/min1.jpg" >}}
@@ -93,7 +93,7 @@ weight = 4
 
 ---
 
-## The Prodigy
+## The Prodigy - R$ 50
 
 {{< gallery >}}
 {{< figure src="img/cds/eletro/pro3.jpg" >}}

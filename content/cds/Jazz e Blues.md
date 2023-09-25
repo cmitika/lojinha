@@ -35,7 +35,7 @@ A partir de <span class="price">R$ 20</span>
 
 ---
 
-## Roots of Rythm and Blues - Coletanea de Blues - R$ 20
+## Roots of Rythm and Blues - Coletanea de Blues - R$ 100
 
 {{< gallery >}}
 {{< figure src="img/cds/jazz_blues/20170813_160955.jpg" >}}

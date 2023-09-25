@@ -5,7 +5,7 @@ image = "img/cds/brasil-regional/cover.jpg"
 showonlyimage = false
 weight = 6
 +++
-<span class="price">R$ 20</span> cada
+A partir de <span class="price">R$ 20</span>
 <!--more-->
 
 ## Imperdiveis
@@ -34,9 +34,7 @@ weight = 6
 {{< figure src="img/cds/brasil-regional/20170813_155925.jpg" >}}
 {{< /gallery >}}
 
-## Caiapo e Guarani
-
-### Caiapo - Metutire
+## Caiapo - Metutire - R$ 50
 {{< gallery >}}
 {{< figure src="img/cds/brasil-regional/20170813_154509.jpg" >}}
 {{< figure src="img/cds/brasil-regional/20170813_154518.jpg" >}}
