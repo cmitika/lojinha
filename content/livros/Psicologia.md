@@ -1,48 +1,39 @@
 +++
 title = "Psicologia (15)"
 draft = false
-image = "img/livros/psicologia/winnicott1.jpg"
+image = "img/livros/psicologia/400/400_1.jpg"
 showonlyimage = false
 weight = 13
 +++
-A partir de <span class="price">R$ 20</span>
 <!--more-->
 
-## Livros por R$ 100
-
 {{< gallery >}}
-{{< figure src="img/livros/psicologia/winnicott1.jpg" >}}
-{{< /gallery >}}
+{{< figure src="img/livros/psicologia/400/400_1.jpg" caption="R$ 400" >}}
+{{< figure src="img/livros/psicologia/70/70_1.jpg" caption="R$ 70" >}}
 
----
+{{< figure src="img/livros/psicologia/60/60_1.jpg" caption="R$ 60" >}}
+{{< figure src="img/livros/psicologia/60/60_2.jpg" caption="R$ 60" >}}
 
-## Livros por R$ 40
+{{< figure src="img/livros/psicologia/50/50_1.jpg" caption="R$ 50" >}}
+{{< figure src="img/livros/psicologia/50/50_2.jpg" caption="R$ 50" >}}
+{{< figure src="img/livros/psicologia/50/50_3.jpg" caption="R$ 50" >}}
 
-{{< gallery >}}
-{{< figure src="img/livros/psicologia/reich1.jpg" >}}
-{{< figure src="img/livros/psicologia/reich3.jpg" >}}
-{{< figure src="img/livros/psicologia/winnicott2.jpg" >}}
-{{< figure src="img/livros/psicologia/20230905_165326.jpg" >}}
-{{< /gallery >}}
+{{< figure src="img/livros/psicologia/45/45_1.jpg" caption="R$ 45" >}}
+{{< figure src="img/livros/psicologia/45/45_2.jpg" caption="R$ 45" >}}
 
----
+{{< figure src="img/livros/psicologia/40/40_1.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/psicologia/40/40_2.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/psicologia/40/40_3.jpg" caption="R$ 40" >}}
 
-## Livros por R$ 20
+{{< figure src="img/livros/psicologia/30/30_1.jpg" caption="R$ 30" >}}
 
-{{< gallery >}}
-{{< figure src="img/livros/psicologia/lowen1.jpg" >}}
-{{< figure src="img/livros/psicologia/lowen2.jpg" >}}
-{{< figure src="img/livros/psicologia/lowen3.jpg" >}}
-{{< figure src="img/livros/psicologia/lowen4.jpg" >}}
-{{< figure src="img/livros/psicologia/lowen5.jpg" >}}
-{{< figure src="img/livros/psicologia/20230905_165728.jpg" >}}
-{{< figure src="img/livros/psicologia/20230905_165648.jpg" >}}
-{{< figure src="img/livros/psicologia/20230825_111256.jpg" >}}
-{{< figure src="img/livros/psicologia/gaiarsa1.jpg" >}}
-{{< figure src="img/livros/psicologia/gaiarsa2.jpg" >}}
-{{< figure src="img/livros/psicologia/reich2.jpg" >}}
-{{< figure src="img/livros/psicologia/reich4.jpg" >}}
-{{< figure src="img/livros/psicologia/photo_2023-08-20_16-41-19.jpg" >}}
+{{< figure src="img/livros/psicologia/25/25_1.jpg" caption="R$ 25" >}}
+
+{{< figure src="img/livros/psicologia/20/20_1.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/psicologia/20/20_2.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/psicologia/20/20_3.jpg" caption="R$ 20" >}}
+
+{{< figure src="img/livros/psicologia/10/10_1.jpg" caption="R$ 10" >}}
 {{< /gallery >}}
 
 

@@ -5,10 +5,7 @@ image = "img/livros/arte/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-A partir de <span class="price">R$ 20</span> cada
 </br>
-
-Mais de 20 livros para a sua escolha.
 <!--more-->
 
 ## Expressionism, R$ 250

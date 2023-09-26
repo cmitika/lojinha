@@ -6,7 +6,7 @@
 /** GENERAL FIGURE LAYOUT **/
 
 figure {
-  max-width: 90%;
+  max-width: 90%;  /* ALX Was 90% for big display */
   margin: 10px auto;
   display: block;
   text-align: center;
@@ -50,7 +50,7 @@ figure.pull-left {
 figure figcaption {
   background-color: rgba(0, 0, 0, 0.5);
   display: block;
-  font-size: .8em;
+  font-size: 1.4em;
   padding: 1px;
   position: static;
   text-align: center;

@@ -1,34 +1,36 @@
 +++
 title = "Linguas (20)"
 draft = false
-image = "img/livros/linguas/20230905_165709.jpg"
+image = "img/livros/linguas/70/70_1.jpg"
 showonlyimage = false
 weight = 15
 +++
 
-<span class="price">R$ 20</span> cada
 <!--more-->
 
 {{< gallery >}}
-{{< figure src="img/livros/linguas/20230825_112325.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112337.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112344.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112349.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112355.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112402.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112409.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112415.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112421.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112428.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112434.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112440.jpg" >}}
-{{< figure src="img/livros/linguas/20230825_112449.jpg" >}}
-{{< figure src="img/livros/linguas/20230905_165709.jpg" >}}
-{{< figure src="img/livros/linguas/262d3e168c463d6aed67611286083dc8.jpg" >}}
-{{< figure src="img/livros/linguas/genial0.jpg" >}}
-{{< figure src="img/livros/linguas/genial1.jpg" >}}
-{{< figure src="img/livros/linguas/world3-1.jpg" >}}
-{{< figure src="img/livros/linguas/world3-2.jpg" >}}
+{{< figure src="img/livros/linguas/70/70_1.jpg" caption="R$ 70" >}}
+{{< figure src="img/livros/linguas/20/20_1.jpg" caption="R$ 20" >}}
+
+{{< figure src="img/livros/linguas/10/10_1.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_2.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_3.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_4.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_5.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_6.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_7.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_8.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_9.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_10.jpg" caption="R$ 10" >}}
+
+{{< figure src="img/livros/linguas/10/10_11.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_12.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_13.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_14.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_15.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_16.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_17.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/linguas/10/10_18.jpg" caption="R$ 10" >}}
 
 {{< /gallery >}}
 

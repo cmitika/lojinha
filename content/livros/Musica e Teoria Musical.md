@@ -5,25 +5,21 @@ image = "img/livros/musica/476882f223c5eb8019e7d3743517312c.jpg"
 showonlyimage = false
 weight = 12
 +++
-A partir de <span class="price">R$ 30</span>
 <!--more-->
 
-## Livros por R$ 60
-
 {{< gallery >}}
-{{< figure src="img/livros/musica/17b4c8a0b72fe5d71e267ba005202108.jpg" >}}
-{{< figure src="img/livros/musica/photo_2023-08-20_16-03-06.jpg" >}}
-{{< figure src="img/livros/musica/55e407707455c78b56f107375d3bfe57.jpg" >}}
-{{< /gallery >}}
+{{< figure src="img/livros/musica/100/100_1.jpg" caption="R$ 100" >}}
+{{< figure src="img/livros/musica/100/100_2.jpg" caption="Acompanha CD" >}}
+{{< figure src="img/livros/musica/100/100_3.jpg" caption="R$ 100" >}}
+{{< figure src="img/livros/musica/100/100_4.jpg" caption="Acompanha CD" >}}
+{{< figure src="img/livros/musica/100/100_5.jpg" caption="R$ 100" >}}
 
-## Livros por R$ 30
+{{< figure src="img/livros/musica/40/40_1.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/musica/40/40_2.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/musica/40/40_3.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/musica/40/40_4.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/musica/40/40_5.jpg" caption="R$ 40" >}}
 
-{{< gallery >}}
-{{< figure src="img/livros/musica/sax1.jpg" >}}
-{{< figure src="img/livros/musica/sax2.jpg" >}}
-{{< figure src="img/livros/musica/476882f223c5eb8019e7d3743517312c.jpg" >}}
-{{< figure src="img/livros/musica/20230825_111426.jpg" >}}
-{{< figure src="img/livros/musica/20230905_165335.jpg" >}}
 {{< /gallery >}}
 
 

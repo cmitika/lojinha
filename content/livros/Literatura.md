@@ -1,203 +1,143 @@
 +++
-title = "Literatura (+80)"
+title = "Literatura, Poesia, Biografias (+80)"
 draft = false
 image = "img/livros/literatura/cover.jpg"
 showonlyimage = false
 weight = 4
 +++
-
-Mais de 80 titulos, <span class="price">R$ 20</span> cada
 <!--more-->
 
-## Super Classicos
 
 {{< gallery >}}
-{{< figure src="img/livros/literatura/20230825_111759.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_111822.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_111939.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_111943.jpg" >}}
-{{< figure src="img/livros/literatura/a3118fbc57f48ae4bf2c88c7cf5f8548.jpg" >}}
+{{< figure src="img/livros/literatura/150/150_1.jpg" caption="R$ 150" >}}
+{{< figure src="img/livros/literatura/80/80_1.jpg" caption="R$ 80" >}}
+{{< figure src="img/livros/literatura/80/80_2.jpg" caption="R$ 80" >}}
+{{< figure src="img/livros/literatura/70/70_1.jpg" caption="R$ 70" >}}
+{{< figure src="img/livros/literatura/50/50_1.jpg" caption="R$ 50" >}}
+{{< figure src="img/livros/literatura/40/40_1.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/literatura/40/40_2.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/literatura/40/40_3.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/literatura/40/40_4.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/literatura/40/40_5.jpg" caption="R$ 40" >}}
+{{< figure src="img/livros/literatura/40/40_6.jpg" caption="R$ 40" >}}
 
-{{< figure src="img/livros/literatura/186d5a1ce4c4c0de5b5b422c526d4803.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_111140.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_111542.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_111557.jpg" >}}
+{{< figure src="img/livros/literatura/30/30_1.jpg" caption="R$ 30" >}}
+{{< figure src="img/livros/literatura/30/30_2.jpg" caption="R$ 30" >}}
+{{< figure src="img/livros/literatura/30/30_3.jpg" caption="R$ 30" >}}
+{{< figure src="img/livros/literatura/30/30_4.jpg" caption="R$ 30" >}}
+{{< figure src="img/livros/literatura/30/30_5.jpg" caption="R$ 30" >}}
+{{< figure src="img/livros/literatura/30/30_6.jpg" caption="R$ 30" >}}
+{{< figure src="img/livros/literatura/30/30_7.jpg" caption="R$ 30" >}}
+{{< figure src="img/livros/literatura/30/30_8.jpg" caption="R$ 30" >}}
+{{< figure src="img/livros/literatura/30/30_9.jpg" caption="R$ 30" >}}
 
-{{< figure src="img/livros/literatura/20230825_110127.jpg" >}}
-{{< figure src="img/livros/literatura/310b9a0648eb24a7f848d6e1f859ca15.jpg" >}}
-{{< figure src="img/livros/literatura/981369ca0d7736a0b286bbc3147df192.jpg" >}}
-{{< figure src="img/livros/literatura/5e95a6c11b81bab22a014b6c8d4b5caf.jpg" >}}
+{{< figure src="img/livros/literatura/25/25_1.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_2.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_3.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_4.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_5.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_6.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_7.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_8.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_9.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_10.jpg" caption="R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_11.jpg" caption="R$ 25" >}}
 
-{{< figure src="img/livros/literatura/35d10a296ac6ab08ec3214c64505d445.jpg" >}}
-{{< figure src="img/livros/literatura/lawerence1.jpg" >}}
-{{< figure src="img/livros/literatura/2d215fb2f2febb3cefe2627cc77f6edd.jpg" >}}
-{{< figure src="img/livros/literatura/3a2c5978b5a30d2656fba5db0f003a84.jpg" >}}
-{{< figure src="img/livros/literatura/3ab288a39d1c0642b81d3c14303fd076.jpg" >}}
+{{< figure src="img/livros/literatura/20/20_1.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_2.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_3.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_4.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_5.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_6.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_7.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_8.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_9.jpg" caption="R$ 20" >}}
 
-{{< figure src="img/livros/literatura/e3321cf2917234cd229d5e474520129a.jpg" >}}
-{{< figure src="img/livros/literatura/goethe1.jpg" >}}
-{{< figure src="img/livros/literatura/drummond 1.jpg" >}}
-{{< figure src="img/livros/literatura/015aed6029ac48a8bf586f1cc79ae4b6.jpg" >}}
+{{< figure src="img/livros/literatura/20/20_10.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_11.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_12.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_13.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_14.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_15.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_16.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_17.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_18.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_19.jpg" caption="R$ 20" >}}
+
+{{< figure src="img/livros/literatura/20/20_20.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_21.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_22.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_23.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_24.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_25.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_26.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_27.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_28.jpg" caption="R$ 20" >}}
+
+{{< figure src="img/livros/literatura/15/15_1.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_2.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_3.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_4.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_5.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_6.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_7.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_8.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_9.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_10.jpg" caption="R$ 15" >}}
+
+{{< figure src="img/livros/literatura/15/15_11.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_12.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_13.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_14.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_15.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_16.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_17.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_18.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_19.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_10.jpg" caption="R$ 15" >}}
+
+{{< figure src="img/livros/literatura/15/15_21.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_22.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_23.jpg" caption="R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_24.jpg" caption="R$ 15" >}}
 
 
-{{< figure src="img/livros/literatura/20230905_165744.jpg" caption="Livro lacrado" >}}
-{{< figure src="img/livros/literatura/20230905_165809.jpg" >}}
-{{< /gallery >}}
+{{< figure src="img/livros/literatura/10/10_1.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_2.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_3.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_4.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_5.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_6.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_7.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_8.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_9.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_10.jpg" caption="R$ 10" >}}
 
----
+{{< figure src="img/livros/literatura/10/10_11.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_12.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_13.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_14.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_15.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_16.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_17.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_18.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_19.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_20.jpg" caption="R$ 10" >}}
 
-## Contos Imperdiveis
+{{< figure src="img/livros/literatura/10/10_21.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_22.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_23.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_24.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_25.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_26.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_27.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_28.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_29.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_30.jpg" caption="R$ 10" >}}
 
-{{< gallery >}}
-{{< figure src="img/livros/literatura/4dc4371fd38e017f8c50991ffa542107.jpg" >}}
-{{< figure src="img/livros/literatura/74a0bd21f9286515d8c0aa09c102ea95.jpg" >}}
-{{< figure src="img/livros/literatura/d499b398dc0ac5ed6c2804550641d95c.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_111750.jpg" >}}
-{{< figure src="img/livros/literatura/84c3c30864b835f1930c41b96f4e2ef3.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Aldous Huxley
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/huxley1.jpg" >}}
-{{< figure src="img/livros/literatura/huxley2.jpg" >}}
-{{< figure src="img/livros/literatura/20230905_165818.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Chico Buarque
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/chico1.jpg" >}}
-{{< figure src="img/livros/literatura/chico2.jpg" >}}
-{{< figure src="img/livros/literatura/chico3.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Dostoievski
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/dostoievski4.jpg" >}}
-{{< figure src="img/livros/literatura/dostoievski1.jpg" >}}
-{{< figure src="img/livros/literatura/dostoievski7.jpg" >}}
-
-{{< figure src="img/livros/literatura/dostoievski5.jpg" >}}
-{{< figure src="img/livros/literatura/dostoievski8.jpg" >}}
-{{< figure src="img/livros/literatura/dostoievski2.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Ernst Hemingway
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/hemingway1.jpg" >}}
-{{< figure src="img/livros/literatura/hemingway2.jpg" >}}
-{{< figure src="img/livros/literatura/hemingway3.jpg" >}}
-{{< figure src="img/livros/literatura/20230905_165911.jpg" >}}
-{{< /gallery >}}
-
----
-
-## E. T. A. Hoffmann
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/hoffmann1.jpg" >}}
-{{< figure src="img/livros/literatura/hoffmann3.jpg" >}}
-{{< figure src="img/livros/literatura/hoffmann8.jpg" >}}
-{{< figure src="img/livros/literatura/20230905_170005.jpg" caption="Livro Lacrado" >}}
-{{< /gallery >}}
-
----
-
-## Franz Kafka
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/kafka1.jpg" >}}
-{{< figure src="img/livros/literatura/kafka2.jpg" >}}
-{{< figure src="img/livros/literatura/kafka3.jpg" >}}
-
-{{< figure src="img/livros/literatura/kafka5.jpg" >}}
-{{< figure src="img/livros/literatura/kafka6.jpg" >}}
-{{< figure src="img/livros/literatura/kafka7.jpg" >}}
-{{< figure src="img/livros/literatura/kafka8.jpg" >}}
-{{< /gallery >}}
-
----
-
-## H. P. Lovecraft
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/lovecraft2.jpg" >}}
-{{< figure src="img/livros/literatura/lovecraft3.jpg" >}}
-{{< figure src="img/livros/literatura/lovecraft4.jpg" >}}
-{{< figure src="img/livros/literatura/lovecraft6.jpg" >}}
-{{< figure src="img/livros/literatura/lovecraft8.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Italo Calvino
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/calvino1.jpg" >}}
-{{< figure src="img/livros/literatura/calvino3.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Jack London
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/london1.jpg" >}}
-{{< figure src="img/livros/literatura/london2.jpg" >}}
-{{< figure src="img/livros/literatura/london3.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Strindberg
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/strindberg1.jpg" caption="RARIDADE" >}}
-{{< figure src="img/livros/literatura/strindberg2.jpg" >}}
-{{< figure src="img/livros/literatura/strindberg3.jpg" >}}
-{{< figure src="img/livros/literatura/20230905_165847.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Diversos
-
-{{< gallery >}}
-{{< figure src="img/livros/literatura/20230905_165716.jpg" >}}
-{{< figure src="img/livros/literatura/20230905_165832.jpg" >}}
-{{< figure src="img/livros/literatura/20230905_165838.jpg" >}}
-{{< figure src="img/livros/literatura/20230905_165904.jpg" >}}
-{{< figure src="img/livros/literatura/3336537f114a178c5553028d382048df.jpg" >}}
-
-{{< figure src="img/livros/literatura/5bc417ae8b64dbb5ddfbfcb84c596263.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_105912.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_110305.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_110316.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_110322.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_110439.jpg" >}}
-
-{{< figure src="img/livros/literatura/20230825_110941.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_111028.jpg" >}}
-{{< figure src="img/livros/literatura/20230825_111037.jpg" >}}
-{{< figure src="img/livros/literatura/bec722fe7c2a6c705f158ab7b30318b5.jpg" >}}
-
-{{< figure src="img/livros/literatura/c6410e1472866a8eea8d16306d2611f3.jpg" >}}
-{{< figure src="img/livros/literatura/d516b97a764c4636e4625ce8dc5d9840.jpg" >}}
-{{< figure src="img/livros/literatura/gullar1.jpg" >}}
-{{< figure src="img/livros/literatura/jeosafa1.jpg" >}}
-{{< figure src="img/livros/literatura/jeosafa2.jpg" >}}
-{{< figure src="img/livros/literatura/jeosafa3.jpg" >}}
+{{< figure src="img/livros/literatura/10/10_31.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_32.jpg" caption="R$ 10" >}}
+{{< figure src="img/livros/literatura/10/10_33.jpg" caption="R$ 10" >}}
 
 {{< /gallery >}}
 
