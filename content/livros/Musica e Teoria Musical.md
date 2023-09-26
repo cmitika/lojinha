@@ -1,7 +1,7 @@
 +++
 title = "Musica & Teoria Musical (8)"
 draft = false
-image = "img/livros/musica/476882f223c5eb8019e7d3743517312c.jpg"
+image = "img/livros/musica/100/100_3.jpg"
 showonlyimage = false
 weight = 12
 +++

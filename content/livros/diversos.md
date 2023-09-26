@@ -1,7 +1,7 @@
 +++
 title = "Diversos (20)"
 draft = false
-image = "img/livros/diversos/20230905_165753.jpg"
+image = "img/livros/diversos/20/20_4.jpg"
 showonlyimage = false
 weight = 16
 +++
