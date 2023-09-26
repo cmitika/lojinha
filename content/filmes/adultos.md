@@ -5,54 +5,61 @@ image = "img/filmes/adultos/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-Mais de 40 filmes disponiveis por <span class="price">R$ 20</span> cada
 <!--more-->
 
 {{< gallery >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-08.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-13.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-19.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-21.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-46-04.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-25.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-28.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-30.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-36.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-45.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-57.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-59.rotated.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-46-01.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/scola1.jpg" >}}
-	{{< figure src="img/filmes/adultos/branca1.jpg" >}}
-	{{< figure src="img/filmes/adultos/branca2.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-51.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/scola2.jpg" >}}
-	{{< figure src="img/filmes/adultos/reggio1.jpg" >}}
-	{{< figure src="img/filmes/adultos/reggio3.jpg" >}}
-	{{< figure src="img/filmes/adultos/reggio4.jpg" >}}
-	{{< figure src="img/filmes/adultos/clint1.jpg" >}}
-	{{< figure src="img/filmes/adultos/clint2.jpg" >}}
-	{{< figure src="img/filmes/adultos/etica1.jpg" >}}
-	{{< figure src="img/filmes/adultos/etica2.jpg" >}}
-	{{< figure src="img/filmes/adultos/3.jpg" >}}
-	{{< figure src="img/filmes/adultos/4.jpg" >}}
-	
-	{{< figure src="img/filmes/adultos/moretti2.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-44-34.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-44-42.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-44-46.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-01.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-07.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-11.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-39.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-41.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-48.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-50.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-45-53.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/photo_2023-08-25_10-46-02.rotated.jpg" >}}
-	{{< figure src="img/filmes/adultos/musica1.jpg" >}}
-	{{< figure src="img/filmes/adultos/musica2.jpg" >}}
-	{{< figure src="img/filmes/adultos/musica3.jpg" >}}
-	{{< figure src="img/filmes/adultos/musica4.jpg" >}}
-	{{< figure src="img/filmes/adultos/musica5.jpg" >}}
+{{< figure src="img/filmes/adultos/50/50_1.jpg" caption="R$ 50" >}}
+{{< figure src="img/filmes/adultos/50/50_2.jpg" caption="R$ 50" >}}
+{{< figure src="img/filmes/adultos/50/50_3.jpg" caption="R$ 50" >}}
+
+{{< figure src="img/filmes/adultos/30/30_1.jpg" caption="R$ 30" >}}
+{{< figure src="img/filmes/adultos/30/30_2.jpg" caption="R$ 30" >}}
+
+{{< figure src="img/filmes/adultos/20/20_1.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_2.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_3.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_4.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_5.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_6.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_7.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_8.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_9.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_10.jpg" caption="R$ 20" >}}
+
+{{< figure src="img/filmes/adultos/20/20_11.jpg" caption="Lacrado R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_12.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_13.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_14.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_15.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_16.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_17.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_18.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_19.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_20.jpg" caption="R$ 20" >}}
+
+{{< figure src="img/filmes/adultos/20/20_21.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_22.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_23.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_24.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_25.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_26.jpg" caption="Lacrado R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_27.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_28.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_29.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_30.jpg" caption="R$ 20" >}}
+
+{{< figure src="img/filmes/adultos/20/20_31.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_32.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_33.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_34.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_35.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_36.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_37.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_38.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_39.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_40.jpg" caption="R$ 20" >}}
+
+{{< figure src="img/filmes/adultos/20/20_41.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/20_42.jpg" caption="R$ 20" >}}
+
 {{< /gallery >}}

@@ -8,12 +8,12 @@ weight = 10
 <!--more-->
 
 {{< gallery >}}
-{{< figure src="img/livros/filosofia/100/100_2.jpg" caption="R$ 100" >}}
 {{< figure src="img/livros/filosofia/100/100_1.jpg" caption="R$ 100" >}}
+{{< figure src="img/livros/filosofia/100/100_2.jpg" caption="R$ 100" >}}
+{{< figure src="img/livros/filosofia/90/90_1.jpg" caption="R$ 90" >}}
 {{< figure src="img/livros/filosofia/50/50_1.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/filosofia/50/50_2.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/filosofia/50/50_3.jpg" caption="R$ 50" >}}
-{{< figure src="img/livros/filosofia/50/50_4.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/filosofia/45/45_1.jpg" caption="R$ 45" >}}
 {{< figure src="img/livros/filosofia/40/40_1.jpg" caption="R$ 40" >}}
 {{< figure src="img/livros/filosofia/40/40_2.jpg" caption="R$ 40" >}}
