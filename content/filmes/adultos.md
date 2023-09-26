@@ -8,7 +8,6 @@ weight = 1
 <!--more-->
 
 {{< gallery >}}
-{{< figure src="img/filmes/adultos/50/50_1.jpg" caption="R$ 50" >}}
 {{< figure src="img/filmes/adultos/50/50_2.jpg" caption="R$ 50" >}}
 {{< figure src="img/filmes/adultos/50/50_3.jpg" caption="R$ 50" >}}
 
@@ -48,7 +47,6 @@ weight = 1
 {{< figure src="img/filmes/adultos/20/20_29.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/20_30.jpg" caption="R$ 20" >}}
 
-{{< figure src="img/filmes/adultos/20/20_31.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/20_32.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/20_33.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/20_34.jpg" caption="R$ 20" >}}

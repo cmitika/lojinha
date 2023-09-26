@@ -66,7 +66,7 @@ weight = 5
 {{< figure src="img/livros/infantil/20/20_3.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_4.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_5.jpg" caption="R$ 20" >}}
-{{< figure src="img/livros/infantil/20/20_6.jpg" caption="R$ 20" >}}
+
 {{< figure src="img/livros/infantil/20/20_7.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_8.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_9.jpg" caption="R$ 20" >}}

@@ -1,16 +1,15 @@
 +++
-title = "O Contrario"
+title = "Meus Caros Amigos"
 draft = false
-image = "img/livros/00/infantil_20_6.jpg"
+image = "img/filmes/00/20_31.jpg"
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 <span class="sold">~~R$ 20~~</span> **VENDIDO!**
 
 <!--more-->
 
 {{< gallery >}}
-{{< figure src="img/livros/00/infantil_20_6.jpg" >}}
-
+{{< figure src="img/filmes/00/20_31.jpg" >}}
 {{< /gallery >}}
 
