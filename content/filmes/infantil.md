@@ -5,7 +5,6 @@ image = "img/filmes/infanto-juvenil/cover.jpg"
 showonlyimage = false
 weight = 1
 +++
-Qualquer filme por <span class="price">R$ 20</span>
 <!--more-->
 
 

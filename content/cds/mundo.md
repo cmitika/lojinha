@@ -8,7 +8,6 @@ weight = 1
 </br>
 <!--more-->
 
-
 ## Box Miles Davis
 
 {{< gallery >}}
