@@ -1,7 +1,7 @@
 +++
 title = "Musica Internacional (+40)"
 draft = false
-image = "img/cds/rock/cover.jpg"
+image = "img/cds/internacional/cover.jpg"
 showonlyimage = false
 weight = 1
 +++

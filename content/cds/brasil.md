@@ -1,7 +1,7 @@
 +++
 title = "Musica Brasileira (+50)"
 draft = false
-image = "img/cds/brasil-mpb/cover.jpg"
+image = "img/cds/brasil/cover.jpg"
 showonlyimage = false
 weight = 2
 +++
