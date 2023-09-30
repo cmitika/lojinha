@@ -8,6 +8,7 @@ weight = 2
 <!--more-->
 
 {{< gallery >}}
+{{< figure src="img/livros/design/80/1.jpg" caption="R$ 80" >}}
 {{< figure src="img/livros/design/50/50_1.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/design/50/50_2.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/design/50/50_3.jpg" caption="R$ 50" >}}

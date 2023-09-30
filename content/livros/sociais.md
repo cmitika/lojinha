@@ -25,6 +25,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/50/50_4.jpg" caption="🔥💖 R$ 50" >}}
 {{< figure src="img/livros/filosofia/50/50_5.jpg" caption="🔥💖" >}}
 {{< figure src="img/livros/filosofia/50/50_6.jpg" caption="🔥💖" >}}
+{{< figure src="img/livros/filosofia/50/50_7.jpg" caption="💖" >}}
 
 {{< figure src="img/livros/filosofia/45/45_1.jpg" caption="👍 R$ 45" >}}
 
@@ -51,6 +52,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/35/35_10.jpg"  caption="💖 R$ 35" >}}
 {{< figure src="img/livros/filosofia/35/35_11.jpg"  caption="💖 R$ 35" >}}
 {{< figure src="img/livros/filosofia/35/35_12.jpg"  caption="💖 R$ 35" >}}
+{{< figure src="img/livros/filosofia/35/35_13.jpg"  caption="💖 R$ 35" >}}
 
 {{< figure src="img/livros/filosofia/30/30_1.jpg" caption="👍 R$ 30" >}}
 {{< figure src="img/livros/filosofia/30/30_2.jpg" caption="👍 R$ 30" >}}
@@ -108,6 +110,8 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/20/20_42.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/filosofia/20/20_43.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/filosofia/20/20_44.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/filosofia/20/20_45.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/filosofia/20/20_46.jpg" caption="💖 R$ 20" >}}
 
 
 
