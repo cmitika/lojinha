@@ -5,7 +5,7 @@ image = "img/joalheria/bancada.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="orange">Pra levar sem pensar:</span> De ~~600~~ por <span class="price">R$ 350</span>
+<span class="orange">Pra levar sem pensar:</span> De ~~900~~ por <span class="price">R$ 550</span>
 
 <!--more-->
 

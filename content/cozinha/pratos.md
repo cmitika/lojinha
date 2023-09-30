@@ -1,11 +1,11 @@
 +++
-title = "Pratos"
+title = "5x Pratos"
 draft = false
 image = "img/casa/cozinha/Pratos.jpg"
 showonlyimage = false
 weight = 3
 +++
-<span class="price">R$ 75</span>
+<span class="price">R$ 100</span> todos
 
 <!--more-->
 
