@@ -83,12 +83,6 @@ weight = 1
 {{< figure src="img/cds/internacional/20/7.jpg" caption="R$ 20" >}}
 {{< figure src="img/cds/internacional/20/9.jpg" caption="R$ 20" >}}
 
-{{< figure src="img/cds/internacional/20/1.jpg" caption="R$ 20" >}}
-{{< figure src="img/cds/internacional/20/3.jpg" caption="R$ 20" >}}
-{{< figure src="img/cds/internacional/20/5.jpg" caption="R$ 20" >}}
-{{< figure src="img/cds/internacional/20/7.jpg" caption="R$ 20" >}}
-{{< figure src="img/cds/internacional/20/9.jpg" caption="R$ 20" >}}
-
 {{< figure src="img/cds/internacional/20/11.jpg" caption="R$ 20" >}}
 {{< figure src="img/cds/internacional/20/13.jpg" caption="R$ 20" >}}
 {{< figure src="img/cds/internacional/20/15.jpg" caption="R$ 20" >}}
