@@ -1,5 +1,5 @@
 +++
-title = "Microondas Brastemp"
+title = "Micro-ondas Brastemp"
 draft = false
 image = "img/casa/cozinha/Microondas.jpg"
 showonlyimage = false
@@ -11,9 +11,10 @@ De ~~1.400~~ por <span class="price">R$ 700</span>
 
 Microondas em inox, espelhado, com grill, possui algumas manchas nas laterais
 
-- 30,7x53,9x43 cm
-- 110V
-- 32L
+- Modelo: BMY45ARANA
+- Capacidade: 32 litros
+- Tensao: 110V
+- Dimensoes: 30,7x53,9x43 cm
 - Marca: Brastemp
 
 
