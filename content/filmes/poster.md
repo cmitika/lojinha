@@ -1,7 +1,7 @@
 +++
-title = "Posters de Filmes"
+title = "Poster de Filmes (36)"
 draft = false
-image = "img/filmes/adultos/cover.jpg"
+image = "img/filmes/poster/oito_meio-fellini.jpg"
 showonlyimage = false
 weight = 1
 +++
