@@ -6,7 +6,7 @@
 /** GENERAL FIGURE LAYOUT **/
 
 figure {
-  max-width: 90%;  /* ALX 90% = Big, 20% = Book, 30% = CD */
+  max-width: 30%;  /* ALX 90% = Big, 20% = Book, 30% = CD */
   margin: 10px auto;
   display: block;
   text-align: center;

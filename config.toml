@@ -105,9 +105,9 @@ googleAnalytics = "UA-27161989-3"
   name = "Ferramentas"
   url = "ferramentas/"
 
-  [[params.navlinks]]
-  name = "Reservados"
-  url = "reservado/"
+  #[[params.navlinks]]
+  #name = "Reservados"
+  #url = "reservado/"
 
   [[params.navlinks]]
   name = "Vendidos"

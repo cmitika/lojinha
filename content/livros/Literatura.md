@@ -26,7 +26,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/literatura/40/40_5.jpg" caption="👍 R$ 40" >}}
 {{< figure src="img/livros/literatura/40/40_6.jpg" caption="💖 R$ 40" >}}
 
-{{< figure src="img/livros/literatura/30/30_1.jpg" caption="👍 R$ 30" >}}
+{{< figure src="img/livros/literatura/30/30_1.jpg" caption="🤔 R$ 30" >}}
 {{< figure src="img/livros/literatura/30/30_2.jpg" caption="🔥👍 R$ 30" >}}
 {{< figure src="img/livros/literatura/30/30_3.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/literatura/30/30_4.jpg" caption="💖 R$ 30" >}}
@@ -50,7 +50,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/literatura/25/25_11.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/literatura/25/25_12.jpg" caption="💖 R$ 25" >}}
 
-{{< figure src="img/livros/literatura/20/20_1.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/literatura/20/20_1.jpg" caption="👍 R$ 20" >}}
 {{< figure src="img/livros/literatura/20/20_2.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/literatura/20/20_3.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/literatura/20/20_4.jpg" caption="💖 R$ 20" >}}
@@ -86,7 +86,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/literatura/15/15_3.jpg" caption="💖 R$ 15" >}}
 {{< figure src="img/livros/literatura/15/15_4.jpg" caption="💖 R$ 15" >}}
 {{< figure src="img/livros/literatura/15/15_5.jpg" caption="🤔 R$ 15" >}}
-{{< figure src="img/livros/literatura/15/15_6.jpg" caption="💖 R$ 15" >}}
+{{< figure src="img/livros/literatura/15/15_6.jpg" caption="👍 R$ 15" >}}
 {{< figure src="img/livros/literatura/15/15_7.jpg" caption="💖 R$ 15" >}}
 {{< figure src="img/livros/literatura/15/15_8.jpg" caption="💖 R$ 15" >}}
 {{< figure src="img/livros/literatura/15/15_9.jpg" caption="💖 R$ 15" >}}
