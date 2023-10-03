@@ -18,7 +18,7 @@ Em estado de novo, possui apenas marcas muito leves de uso, tal como pode ser ve
 Sem nenhuma marca de grind, sem trinco, sem cantos amassados, nada. Realmente como novo.
 
 - Shape Chocolate Vincent Alvarez Original Chunk 7.75" Canadian Maple 7-ply
-- Truck Thunder Titanium Lights 129mm com Thunder Blue 95 DURO
+- Truck Thunder Titanium Lights 145 (7.62", 19cm) com Thunder Blue 95 DURO
 - Rodinha Spitfire Formula Four 52mm 101 DURO ou 99 DURO (vc escolhe)
 - Rolamentos Bones Red
 - Amortercedores Thunder Blue
