@@ -32,6 +32,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/40/40_9.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_10.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_11.jpg" caption="💖 R$ 40" >}}
+{{< figure src="img/livros/infantil/40/40_12.jpg" caption="💖 Novo R$ 40" >}}
 
 {{< figure src="img/livros/infantil/35/35_1.jpg" caption="💖 R$ 35" >}}
 {{< figure src="img/livros/infantil/35/35_2.jpg" caption="💖 Lacrado R$ 35" >}}
@@ -50,6 +51,8 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/30/30_12.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/infantil/30/30_13.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/infantil/30/30_14.jpg" caption="💖 R$ 30" >}}
+{{< figure src="img/livros/infantil/30/30_15.jpg" caption="💖 R$ 30" >}}
+{{< figure src="img/livros/infantil/30/30_16.jpg" caption="👍 R$ 30" >}}
 
 
 {{< figure src="img/livros/infantil/25/25_1.jpg" caption="💖 R$ 25" >}}
@@ -66,6 +69,9 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/25/25_12.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_13.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_14.jpg" caption="💖 R$ 25" >}}
+{{< figure src="img/livros/infantil/25/25_15.jpg" caption="💖 R$ 25" >}}
+{{< figure src="img/livros/infantil/25/25_16.jpg" caption="💖 R$ 25" >}}
+{{< figure src="img/livros/infantil/25/25_17.jpg" caption="💖 R$ 25" >}}
 
 {{< figure src="img/livros/infantil/20/20_1.jpg" caption="👍 R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_2.jpg" caption="👍 R$ 20" >}}
@@ -76,7 +82,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/20/20_7.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_8.jpg" caption="👍 R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_9.jpg" caption="💖 R$ 20" >}}
-{{< figure src="img/livros/infantil/20/20_10.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/infantil/20/20_10.jpg" caption="👍 R$ 20" >}}
 
 {{< figure src="img/livros/infantil/20/20_11.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_12.jpg" caption="💖 R$ 20" >}}

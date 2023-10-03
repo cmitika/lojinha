@@ -5,10 +5,9 @@ image = "img/diversao/looping/photo_2023-09-07_17-27-55.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="price">R$ 150</span>
+<span class="price">R$ 350</span>
 
 Jogo importado para todas as idades.
-Requer duas pilhas AA.
 <!--more-->
 
 {{< gallery >}}

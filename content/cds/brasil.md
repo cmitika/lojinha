@@ -11,6 +11,7 @@ weight = 2
 
 {{< figure src="img/cds/brasil/50/1.jpg" caption="R$ 50" >}}
 {{< figure src="img/cds/brasil/50/3.jpg" caption="R$ 50" >}}
+{{< figure src="img/cds/brasil/50/5.jpg" caption="Livro+CD R$ 50" >}}
 
 {{< figure src="img/cds/brasil/30/1.jpg" caption="R$ 30" >}}
 {{< figure src="img/cds/brasil/30/3.jpg" caption="R$ 30" >}}

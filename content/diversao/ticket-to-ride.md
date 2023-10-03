@@ -5,7 +5,7 @@ image = "img/diversao/ticket2ride/photo_2023-09-07_17-26-32.jpg"
 showonlyimage = false
 weight = 10
 +++
-De ~~400~~ por <span class="price">R$ 300</span>
+De ~~400~~ por <span class="price">R$ 320</span>
 
 Jogo de tabuleiro para todas as idades
 
