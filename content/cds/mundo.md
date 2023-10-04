@@ -40,38 +40,38 @@ weight = 1
 ## Importados
 
 {{< gallery >}}
-{{< figure src="img/cds/internacional/50/1.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/3.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/5.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/7.jpg" caption="R$ 30" >}}
-{{< figure src="img/cds/internacional/50/9.jpg" caption="R$ 50" >}}
+{{< figure src="img/cds/internacional/50/1.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/3.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/5.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/7.jpg" caption="Importado R$ 30" >}}
+{{< figure src="img/cds/internacional/50/9.jpg" caption="Importado R$ 50" >}}
 
-{{< figure src="img/cds/internacional/50/11.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/13.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/15.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/17.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/19.jpg" caption="R$ 50" >}}
+{{< figure src="img/cds/internacional/50/11.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/13.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/15.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/17.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/19.jpg" caption="Importado R$ 50" >}}
 
-{{< figure src="img/cds/internacional/50/21.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/23.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/25.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/27.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/29.jpg" caption="R$ 50" >}}
+{{< figure src="img/cds/internacional/50/21.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/23.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/25.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/27.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/29.jpg" caption="Importado R$ 50" >}}
 
-{{< figure src="img/cds/internacional/50/31.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/33.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/35.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/37.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/39.jpg" caption="R$ 50" >}}
+{{< figure src="img/cds/internacional/50/31.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/33.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/35.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/37.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/39.jpg" caption="Importado R$ 50" >}}
 
-{{< figure src="img/cds/internacional/50/41.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/43.jpg" caption="R$ 50" >}}
-{{< figure src="img/cds/internacional/50/45.jpg" caption="Novo R$ 50" >}}
+{{< figure src="img/cds/internacional/50/41.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/43.jpg" caption="Importado R$ 50" >}}
+{{< figure src="img/cds/internacional/50/45.jpg" caption="Importado R$ 50" >}}
 {{< /gallery >}}
 # Outros mais
 
 {{< gallery >}}
-{{< figure src="img/cds/internacional/100/1.jpg" caption="R$ 100" >}}
+{{< figure src="img/cds/internacional/100/1.jpg" caption="Raridade R$ 80" >}}
 
 {{< figure src="img/cds/internacional/80/1.jpg" caption="R$ 80" >}}
 
