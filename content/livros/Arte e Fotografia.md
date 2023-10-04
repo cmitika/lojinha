@@ -132,6 +132,29 @@ Livro esgotado. O nosso exemplar eh como novo.
 
 ---
 
+
+## Alice, R$ 200
+
+- 4x livros de 100 paginas cada
+	- As aventuras de Alice no Pais das Maravilhas 1 e 2
+	- Alice do outro lado do espelho 1 e 2
+- 27 x 27cm
+- Em portugues, editora Expresso
+- <span class="price">R$ 200</span>
+
+{{< gallery >}}
+	{{< figure src="img/livros/arte/alice/1.jpg" >}}
+	{{< figure src="img/livros/arte/alice/2.jpg" >}}
+	{{< figure src="img/livros/arte/alice/3.jpg" >}}
+	{{< figure src="img/livros/arte/alice/4.jpg" >}}
+	{{< figure src="img/livros/arte/alice/5.jpg" >}}
+	{{< figure src="img/livros/arte/alice/6.jpg" >}}
+	{{< figure src="img/livros/arte/alice/7.jpg" >}}
+	{{< figure src="img/livros/arte/alice/8.jpg" >}}
+{{< /gallery >}}
+
+---
+
 # Expressionismo, R$ 200
 
 Biografia em portugues e principais obras dos pintores do movimento expressionista alemao

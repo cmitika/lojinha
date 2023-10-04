@@ -56,7 +56,6 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 
 {{< figure src="img/livros/infantil/25/25_1.jpg" caption="💖 R$ 25" >}}
-{{< figure src="img/livros/infantil/25/25_2.jpg" caption="👍 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_3.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_4.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_5.jpg" caption="💖 R$ 25" >}}
