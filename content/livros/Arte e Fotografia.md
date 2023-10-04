@@ -133,7 +133,7 @@ Livro esgotado. O nosso exemplar eh como novo.
 ---
 
 
-## Alice, R$ 200
+## Alice (pinturas Diogo Munoz), R$ 200
 
 - 4x livros de 100 paginas cada
 	- As aventuras de Alice no Pais das Maravilhas 1 e 2
