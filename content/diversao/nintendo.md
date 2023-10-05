@@ -16,8 +16,9 @@ Vide-game Nintendo Switch v1, com Serial Verde que permite desbloqueio.
 - Nintendo Switch v1, Serial XAW40010 Verde - Unpatched, 100% desbloqueavel!
 - Completo e original: com docker, fonte e cabos originais, joycons/joysticks originais, na caixa
 - Sem quaisquer riscos, marcas ou sinais 
+- Joga online sem problemas
 
-Jogos incluidos (sem box)
+Jogos incluidos (originais)
 - Max: The Curse of Brotherhood
 - Crash Bandicoot N. Sane Trilogy
 - Croc's World 2
@@ -31,12 +32,12 @@ Jogos incluidos (sem box)
 
 {{< gallery >}}
 
-{{< figure src="img/diversao/nintendo/photo_2023-09-03_17-06-58.jpg" >}}
-{{< figure src="img/diversao/nintendo/photo_2023-09-03_17-06-29.jpg" >}}
-{{< figure src="img/diversao/nintendo/photo_2023-09-03_17-06-50.jpg" >}}
-{{< figure src="img/diversao/nintendo/photo_2023-09-03_17-06-43.jpg" >}}
-{{< figure src="img/diversao/nintendo/photo_2023-09-03_17-06-47.jpg" >}}
-{{< figure src="img/diversao/nintendo/photo_2023-09-03_17-06-53.jpg" >}}
-{{< figure src="img/diversao/nintendo/photo_2023-09-03_17-06-55.jpg" >}}
+{{< figure src="img/diversao/nintendo/1.jpg" >}}
+{{< figure src="img/diversao/nintendo/2.jpg" >}}
+{{< figure src="img/diversao/nintendo/3.jpg" >}}
+{{< figure src="img/diversao/nintendo/4.jpg" >}}
+{{< figure src="img/diversao/nintendo/5.jpg" >}}
+{{< figure src="img/diversao/nintendo/6.jpg" >}}
+{{< figure src="img/diversao/nintendo/7.jpg" >}}
 
 {{< /gallery >}}
