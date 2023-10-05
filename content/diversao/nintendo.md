@@ -5,7 +5,7 @@ image = "img/diversao/nintendo/photo_2023-09-03_17-06-58.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 2.000</span>
+<span class="price">R$ 1.800</span>
 
 Nintendo Switch v1 Serial Verde + 10 Jogos
 
