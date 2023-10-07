@@ -5,7 +5,7 @@ image = "img/diversao/myfish/photo_2023-09-07_17-25-24.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="price">R$ 150</span>
+<span class="price">R$ 130</span>
 
 Jogo para todas as idades.
 <!--more-->
