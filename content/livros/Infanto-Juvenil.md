@@ -26,12 +26,13 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/40/40_1.jpg" caption="👍 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_2.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_3.jpg" caption="💖 R$ 40" >}}
-{{< figure src="img/livros/infantil/40/40_4.jpg" caption="💖 R$ 40" >}}
+
 {{< figure src="img/livros/infantil/40/40_5.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_6.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_7.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_8.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_9.jpg" caption="💖 R$ 40" >}}
+{{< figure src="img/livros/infantil/40/40_4.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_10.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_11.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_12.jpg" caption="💖 Novo R$ 40" >}}
@@ -114,4 +115,22 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< /gallery >}}
 
 
+## Por categoria
 
+### Diario de Pilar
+
+{{< gallery >}}
+{{< figure src="img/livros/infantil/30/30_12.jpg" caption="💖 R$ 30" >}}
+{{< figure src="img/livros/infantil/30/30_13.jpg" caption="💖 R$ 30" >}}
+{{< figure src="img/livros/infantil/30/30_14.jpg" caption="💖 R$ 30" >}}
+{{< figure src="img/livros/infantil/30/30_15.jpg" caption="💖 R$ 30" >}}
+{{< /gallery >}}
+
+### Os Invenciveis
+
+{{< gallery >}}
+{{< figure src="img/livros/infantil/40/40_4.jpg" caption="💖 R$ 40" >}}
+{{< figure src="img/livros/infantil/40/40_10.jpg" caption="💖 R$ 40" >}}
+{{< figure src="img/livros/infantil/40/40_11.jpg" caption="💖 R$ 40" >}}
+
+{{< /gallery >}}

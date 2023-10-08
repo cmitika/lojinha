@@ -43,7 +43,6 @@ weight = 1
 {{< figure src="img/cds/internacional/50/1.jpg" caption="Importado R$ 50" >}}
 {{< figure src="img/cds/internacional/50/3.jpg" caption="Importado R$ 50" >}}
 {{< figure src="img/cds/internacional/50/5.jpg" caption="Importado R$ 50" >}}
-{{< figure src="img/cds/internacional/50/7.jpg" caption="Importado R$ 30" >}}
 {{< figure src="img/cds/internacional/50/9.jpg" caption="Importado R$ 50" >}}
 
 {{< figure src="img/cds/internacional/50/11.jpg" caption="Importado R$ 50" >}}
@@ -73,7 +72,7 @@ weight = 1
 {{< gallery >}}
 {{< figure src="img/cds/internacional/100/1.jpg" caption="Raridade R$ 80" >}}
 
-{{< figure src="img/cds/internacional/80/1.jpg" caption="R$ 80" >}}
+{{< figure src="img/cds/internacional/80/1.jpg" caption="Importado R$ 80" >}}
 
 {{< figure src="img/cds/internacional/30/1.jpg" caption="R$ 30" >}}
 
