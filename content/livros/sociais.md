@@ -117,6 +117,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/20/20_44.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/filosofia/20/20_45.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/filosofia/20/20_46.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/filosofia/20/15_4.jpg" caption="💖 R$ 20" >}}
 
 {{< figure src="img/livros/filosofia/20/15_15.jpg" caption="👍 R$ 20" >}}
 {{< figure src="img/livros/filosofia/20/15_16.jpg" caption="👍 R$ 20" >}}
@@ -126,7 +127,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 {{< figure src="img/livros/filosofia/15/15_1.jpg" caption="👍 R$ 15" >}}
 {{< figure src="img/livros/filosofia/15/15_2.jpg" caption="👍 R$ 15" >}}
-{{< figure src="img/livros/filosofia/15/15_4.jpg" caption="💖 R$ 15" >}}
+
 {{< figure src="img/livros/filosofia/15/15_5.jpg" caption="💖 R$ 15" >}}
 {{< figure src="img/livros/filosofia/15/15_6.jpg" caption="💖 R$ 15" >}}
 {{< figure src="img/livros/filosofia/15/15_9.jpg" caption="🤔 R$ 15" >}}
@@ -157,16 +158,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 
 
-## Por categoria
-
-### Domenico Losurdo
-
-{{< gallery >}}
-{{< figure src="img/livros/filosofia/40/40_9.jpg" caption="💖 R$ 40" >}}
-{{< figure src="img/livros/filosofia/35/35_12.jpg"  caption="💖 R$ 35" >}}
-{{< figure src="img/livros/filosofia/35/35_13.jpg"  caption="💖 R$ 35" >}}
-{{< figure src="img/livros/filosofia/30/30_1.jpg" caption="👍 R$ 30" >}}
-{{< /gallery >}}
+## Por Autor
 
 ### Caio Prado Junior
 
@@ -181,7 +173,56 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/20/15_3.jpg" caption="💖 R$ 20" >}}
 {{< /gallery >}}
 
-## Colecao Terra Brasilis - Eduardo Bueno
+### Domenico Losurdo
+
+{{< gallery >}}
+{{< figure src="img/livros/filosofia/40/40_9.jpg" caption="💖 R$ 40" >}}
+{{< figure src="img/livros/filosofia/35/35_12.jpg"  caption="💖 R$ 35" >}}
+{{< figure src="img/livros/filosofia/35/35_13.jpg"  caption="💖 R$ 35" >}}
+{{< figure src="img/livros/filosofia/30/30_1.jpg" caption="👍 R$ 30" >}}
+{{< /gallery >}}
+
+### Lenin
+
+{{< gallery >}}
+{{< figure src="img/livros/filosofia/120/100_4.jpg" caption="🔥💖 R$ 120" >}}
+{{< figure src="img/livros/filosofia/120/100_5.jpg" caption="🔥💖 R$ 120" >}}
+{{< figure src="img/livros/filosofia/120/100_6.jpg" caption="🔥💖 R$ 120" >}}
+{{< figure src="img/livros/filosofia/100/100_2.jpg" caption="🔥👍 R$ 100" >}}
+{{< figure src="img/livros/filosofia/50/50_2.jpg" caption="🔥👍 R$ 50" >}}
+{{< figure src="img/livros/filosofia/50/50_3.jpg" caption="🔥👍 R$ 50" >}}
+{{< figure src="img/livros/filosofia/20/20_28.jpg" caption="🤔 R$ 20" >}}
+
+{{< /gallery >}}
+
+### Marx & Engels
+
+{{< gallery >}}
+{{< figure src="img/livros/filosofia/65/65_3.jpg" caption="🔥👍 R$ 65" >}}
+{{< figure src="img/livros/filosofia/50/50_8.jpg" caption="💖 R$ 50" >}}
+{{< figure src="img/livros/filosofia/45/45_1.jpg" caption="👍 R$ 45" >}}
+{{< figure src="img/livros/filosofia/40/40_7.jpg" caption="🔥🤔 R$ 40" >}}
+{{< figure src="img/livros/filosofia/35/35_2.jpg"  caption="🔥🤔 R$ 35" >}}
+{{< figure src="img/livros/filosofia/35/35_3.jpg"  caption="💖 R$ 35" >}}
+{{< figure src="img/livros/filosofia/30/30_9.jpg" caption="🔥💖 R$ 30" >}}
+{{< figure src="img/livros/filosofia/20/20_6.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/filosofia/20/20_29.jpg" caption="🤔 R$ 20" >}}
+{{< figure src="img/livros/filosofia/20/20_30.jpg" caption="👍 R$ 20" >}}
+{{< figure src="img/livros/filosofia/20/20_31.jpg" caption="👍 R$ 20" >}}
+{{< figure src="img/livros/filosofia/20/20_32.jpg" caption="👍 R$ 20" >}}
+{{< figure src="img/livros/filosofia/20/15_4.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/filosofia/15/15_14.jpg" caption="🤔 R$ 15" >}}
+{{< figure src="img/livros/filosofia/10/10_13.jpg" caption="🤔 R$ 10" >}}
+{{< figure src="img/livros/filosofia/10/10_14.jpg" caption="🤔 R$ 10" >}}
+{{< figure src="img/livros/filosofia/10/10_15.jpg" caption="👍 R$ 10" >}}
+{{< figure src="img/livros/filosofia/10/10_16.jpg" caption="👍 R$ 10" >}}
+
+{{< /gallery >}}
+
+
+## Colecoes
+
+### Colecao Terra Brasilis - Eduardo Bueno
 
 {{< gallery >}}
 {{< figure src="img/livros/filosofia/20/15_15.jpg" caption="👍 R$ 20" >}}
