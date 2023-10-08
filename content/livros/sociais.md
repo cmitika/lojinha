@@ -14,21 +14,27 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 - 🤔: Em bom estado, com marcas de uso, quinas desgastadas ou algo similar. 
 
 {{< gallery >}}
-{{< figure src="img/livros/filosofia/120/1.jpg" caption="🔥🤔 R$ 120" >}}
-{{< figure src="img/livros/filosofia/120/2.jpg" caption="🤔" >}}
 {{< figure src="img/livros/filosofia/100/100_2.jpg" caption="🔥👍 R$ 100" >}}
+{{< figure src="img/livros/filosofia/100/100_4.jpg" caption="🔥💖 R$ 100" >}}
+{{< figure src="img/livros/filosofia/100/100_5.jpg" caption="🔥💖 R$ 100" >}}
+{{< figure src="img/livros/filosofia/100/100_6.jpg" caption="🔥💖 R$ 100" >}}
+
 
 {{< figure src="img/livros/filosofia/90/90_1.jpg" caption="🔥👍 R$ 90" >}}
 
-{{< figure src="img/livros/filosofia/65/65_1.jpg" caption="🔥👍 R$ 65" >}}
+{{< figure src="img/livros/filosofia/80/1.jpg" caption="🔥🤔 R$ 80" >}}
+{{< figure src="img/livros/filosofia/80/2.jpg" caption="🔥🤔 R$ 80" >}}
 
-\
-{{< figure src="img/livros/filosofia/30/50_1.jpg" caption="💖 R$ 50" >}}
+{{< figure src="img/livros/filosofia/65/65_1.jpg" caption="🔥👍 R$ 65" >}}
+{{< figure src="img/livros/filosofia/65/65_5.jpg"  caption="💖 R$ 65" >}}
+{{< figure src="img/livros/filosofia/65/65_6.jpg"  caption="💖 R$ 65" >}}
+{{< figure src="img/livros/filosofia/65/65_7.jpg"  caption="💖 R$ 65" >}}
+{{< figure src="img/livros/filosofia/65/65_8.jpg"  caption="💖 3x por R$ 150" >}}
+
+
+{{< figure src="img/livros/filosofia/50/50_1.jpg" caption="💖 R$ 50" >}}
 {{< figure src="img/livros/filosofia/50/50_2.jpg" caption="🔥👍 R$ 50" >}}
 {{< figure src="img/livros/filosofia/50/50_3.jpg" caption="🔥👍 R$ 50" >}}
-{{< figure src="img/livros/filosofia/50/50_4.jpg" caption="🔥💖 R$ 50" >}}
-{{< figure src="img/livros/filosofia/50/50_5.jpg" caption="🔥💖 R$ 50" >}}
-{{< figure src="img/livros/filosofia/50/50_6.jpg" caption="🔥💖 R$ 50" >}}
 {{< figure src="img/livros/filosofia/50/50_7.jpg" caption="🔥💖 R$ 50" >}}
 {{< figure src="img/livros/filosofia/50/50_8.jpg" caption="💖 R$ 50" >}}
 
@@ -49,10 +55,6 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/35/35_3.jpg"  caption="💖 R$ 35" >}}
 {{< figure src="img/livros/filosofia/35/35_4.jpg"  caption="👍 R$ 35" >}}
 
-{{< figure src="img/livros/filosofia/35/35_5.jpg"  caption="💖 R$ 35" >}}
-{{< figure src="img/livros/filosofia/35/35_6.jpg"  caption="💖 R$ 35" >}}
-{{< figure src="img/livros/filosofia/35/35_7.jpg"  caption="💖 R$ 35" >}}
-{{< figure src="img/livros/filosofia/35/35_8.jpg"  caption="💖 3x por R$ 100" >}}
 {{< figure src="img/livros/filosofia/35/35_9.jpg"  caption="💖 R$ 35" >}}
 {{< figure src="img/livros/filosofia/35/35_10.jpg"  caption="💖 R$ 35" >}}
 {{< figure src="img/livros/filosofia/35/35_11.jpg"  caption="💖 R$ 35" >}}
