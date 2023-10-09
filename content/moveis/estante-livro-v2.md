@@ -5,14 +5,15 @@ image = "img/moveis/estantev2.jpg"
 showonlyimage = false
 weight = 2
 +++
-<span class="price">R$ 750</span>
+De ~~R$ 2.399~~ por <span class="price">1.690</span>
 
 <!--more-->
 
-Estante com 4 pratelerias de tamanhos irregulares, de madeira maciça, com pequena marca na prateleria inferior.
+Estante com 4 pratelerias, de madeira maciça.
 
-- 1,80x0,80cm
-- Tokstok
+- Designer Guilherme Bender
+- 1,80 x 0,80 cm
+- Marca: Tokstok
 
 {{< gallery >}}
 {{< figure src="img/moveis/estantev2.jpg" >}}

@@ -5,14 +5,14 @@ image = "img/moveis/mesa_cabeceira.jpg"
 showonlyimage = false
 weight = 3
 +++
-<span class="price">R$ 750</span>
+De ~~R$ 2.798~~ por <span class="price">1.690</span> o par
 
 <!--more-->
 
-Designer Guilherme Bender
+2 mesas de cabeceira com 1 gaveta, de madeira maciça e puxador de metal.
 
-- 2 mesas de cabeceira com 1 gaveta, de madeira maciça e puxador de metal, com alguns riscos de uso
-- 0,37x0,50x0,56 cm	
+- Designer Guilherme Bender
+- 0,37 x 0,50 x 0,56 cm	
 - Marca: Tokstok
 
 
