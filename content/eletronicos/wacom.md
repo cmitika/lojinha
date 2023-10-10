@@ -5,7 +5,7 @@ image = "img/eletronicos/wacom/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 1.000</span>
+<span class="price">R$ 950</span>
 <!--more-->
 
 Em excelente estado, sem marcas ou sinais, pouco desgaste da superficie.

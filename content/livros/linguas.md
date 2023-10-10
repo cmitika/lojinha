@@ -1,7 +1,7 @@
 +++
 title = "Linguas (20)"
 draft = false
-image = "img/livros/linguas/70/70_1.jpg"
+image = "img/livros/linguas/egb/1.jpg"
 showonlyimage = false
 weight = 15
 +++
@@ -9,7 +9,7 @@ weight = 15
 <!--more-->
 
 {{< gallery >}}
-{{< figure src="img/livros/linguas/70/70_1.jpg" caption="R$ 70" >}}
+{{< figure src="img/livros/linguas/egb/1.jpg" caption="Novo - R$ 140" >}}
 {{< figure src="img/livros/linguas/20/20_1.jpg" caption="R$ 20" >}}
 
 {{< figure src="img/livros/linguas/10/10_1.jpg" caption="R$ 10" >}}

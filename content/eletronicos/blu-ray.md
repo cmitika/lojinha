@@ -5,7 +5,7 @@ image = "img/eletronicos/blu-ray/1.jpg"
 showonlyimage = false
 weight = 3
 +++
-<span class="price">R$ 480</span>
+<span class="price">R$ 455</span>
 <!--more-->
 
 Em excelente estado e perfeito funcionamento. Sem danos, marcas ou sinais. Controle funcionando perfeitamente e sem nenhum desgaste. Pronto pra uso.

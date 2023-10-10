@@ -5,7 +5,7 @@ image = "img/diversao/patinete/1.jpg"
 showonlyimage = false
 weight = 2
 +++
-<span class="price">R$ 275</span>
+<span class="price">R$ 200</span>
 
 <!--more-->
 

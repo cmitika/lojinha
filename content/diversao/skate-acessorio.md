@@ -8,7 +8,7 @@ weight = 11
 Rodinhas, amortecedores, rolamentos.
 <!--more-->
 
-## Rodinha Spitfire Formula Four Classic Red 101D 52mm, por R$ 300
+## Rodinha Spitfire Formula Four Classic Red 101D 52mm, por R$ 260
 
 Rodinhas em estado de novas, sem desgaste.
 
@@ -21,7 +21,7 @@ Rodinhas em estado de novas, sem desgaste.
 
 ---
 
-## Rodinha Spitfire Formula Four Classic Blue 99D 52mm, por R$ 300
+## Rodinha Spitfire Formula Four Classic Blue 99D 52mm, por R$ 260
 
 Rodinhas em estado de novas, sem desgaste.
 
@@ -34,9 +34,9 @@ Rodinhas em estado de novas, sem desgaste.
 
 ---
 
-## Amortecedor Thunder por R$ 42
+## Amortecedor Thunder por R$ 45
 
-Amortecedores da Thunder por R$ 42 cada jogo.
+Amortecedores da Thunder por R$ 45 cada jogo.
 
 {{< gallery >}}
 {{< figure src="img/diversao/skate-acessorios/photo_2023-08-23_16-58-51.jpg" width="225" >}}
