@@ -25,5 +25,18 @@ Acompanha:
 {{< gallery >}}
 {{< figure src="img/fotografia/17_40/1740-1.png" >}}
 {{< figure src="img/fotografia/17_40/1740-2.png" >}}
+{{< /gallery >}}
 
+## Mais fotos:
+
+{{< gallery >}}
+{{< figure src="img/fotografia/17_40/mais/1.jpg" >}}
+{{< figure src="img/fotografia/17_40/mais/2.jpg" >}}
+{{< figure src="img/fotografia/17_40/mais/3.jpg" >}}
+{{< figure src="img/fotografia/17_40/mais/4.jpg" >}}
+{{< figure src="img/fotografia/17_40/mais/5.jpg" >}}
+{{< figure src="img/fotografia/17_40/mais/6.jpg" >}}
+{{< figure src="img/fotografia/17_40/mais/7.jpg" >}}
+{{< figure src="img/fotografia/17_40/mais/8.jpg" >}}
+{{< figure src="img/fotografia/17_40/mais/9.jpg" >}}
 {{< /gallery >}}
