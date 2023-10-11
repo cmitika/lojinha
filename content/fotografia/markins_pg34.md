@@ -5,7 +5,7 @@ image = "img/fotografia/plates/markins-pg34.jpg"
 showonlyimage = false
 weight = 200
 +++
-<span class="price">R$ 100</span>
+<span class="price">R$ 250</span>
 
 Plate Universal Markins para qualquer marca ou modelo de DSRL.
 

@@ -5,9 +5,9 @@ image = "img/fotografia/plates/Markins-pl55-0.jpg"
 showonlyimage = false
 weight = 200
 +++
-<span class="price">R$ 100</span>
+<span class="price">R$ 250</span>
 
-Plate Universal Markin PL55 para tele-objectivas.
+Plate Universal Markin PL55 para tele-objetivas.
 <!--more-->
 
 Plate em estado de novo, sem marcas ou sinais de uso.
