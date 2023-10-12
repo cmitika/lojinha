@@ -1,18 +1,18 @@
 +++
-title = "Taças Champagne de Cristal, da Strauss"
+title = "Taças Champagne/Prosecco, da Strauss"
 draft = false
 image = "img/casa/cozinha/Taca_strauss.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 200</span>
+De ~~R$ 490~~ por <span class="price">R$ 350</span>
 <!--more-->
 
-Tacas da Strauss, de cristal fino.
+Tacas da Strauss, levissima, de cristal fino e com corte reto.
 
-- 6 taças de cristal para champagne
-- 210ml
+- 6 taças de cristal para champagne e prosecco
 - De cristal legitimo, ultra-fino e ultra-leve
+- Capacidade: 210ml
 - Marca: Strauss
 
 

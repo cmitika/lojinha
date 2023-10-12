@@ -1,17 +1,19 @@
 +++
-title = "Taça Gigante para Vinho Tinto"
+title = "Taça Bordeaux 850ml"
 draft = false
 image = "img/casa/taca_tinto_grande/1.png"
 showonlyimage = false
 weight = 4
 +++
-<span class="price">R$ 90</span>
+<span class="price">R$ 120</span>
 <!--more-->
 
-Taça "gigante" para tintos encorpados e complexos.
+Taça Bordeaux Grand Cru.
 
 - 1 unidade
+- 850ml
 - De cristal
+- Marca: Strauss
 
 
 {{< gallery >}}
