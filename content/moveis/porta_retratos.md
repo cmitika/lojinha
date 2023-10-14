@@ -1,7 +1,7 @@
 +++
 title = "Porta Retrato de mesa"
 draft = false
-image = "img/casa/porta_retratos/1.jpg"
+image = "img/moveis/porta_retratos/1.jpg"
 showonlyimage = false
 weight = 5
 +++
@@ -15,9 +15,9 @@ Porta Retrato para 4 fotos
 - Marca: Imaginarium
 
 {{< gallery >}}
-{{< figure src="img/casa/porta_retratos/1.jpg" >}}
-{{< figure src="img/casa/porta_retratos/2.jpg" >}}
-{{< figure src="img/casa/porta_retratos/3.jpg" >}}
-{{< figure src="img/casa/porta_retratos/4.jpg" >}}
+{{< figure src="img/moveis/porta_retratos/1.jpg" >}}
+{{< figure src="img/moveis/porta_retratos/2.jpg" >}}
+{{< figure src="img/moveis/porta_retratos/3.jpg" >}}
+{{< figure src="img/moveis/porta_retratos/4.jpg" >}}
 
 {{< /gallery >}}

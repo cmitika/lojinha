@@ -1,9 +1,9 @@
 +++
 title = "Silhouette Cameo 2"
 draft = false
-image = "img/eletronicos/craft/1.jpg"
+image = "img/craft/silhouette/1.jpg"
 showonlyimage = false
-weight = 3
+weight = 1
 +++
 <span class="price">R$ 1.000</span>
 
@@ -26,12 +26,12 @@ Vem na caixa original com:
 
 
 {{< gallery >}}
-{{< figure src="img/eletronicos/craft/1.jpg" >}}
-{{< figure src="img/eletronicos/craft/2.jpg" >}}
-{{< figure src="img/eletronicos/craft/3.jpg" >}}
-{{< figure src="img/eletronicos/craft/4.jpg" >}}
-{{< figure src="img/eletronicos/craft/5.jpg" >}}
-{{< figure src="img/eletronicos/craft/6.jpg" >}}
-{{< figure src="img/eletronicos/craft/7.jpg" >}}
+{{< figure src="img/craft/silhouette/1.jpg" >}}
+{{< figure src="img/craft/silhouette/2.jpg" >}}
+{{< figure src="img/craft/silhouette/3.jpg" >}}
+{{< figure src="img/craft/silhouette/4.jpg" >}}
+{{< figure src="img/craft/silhouette/5.jpg" >}}
+{{< figure src="img/craft/silhouette/6.jpg" >}}
+{{< figure src="img/craft/silhouette/7.jpg" >}}
 
 {{< /gallery >}}

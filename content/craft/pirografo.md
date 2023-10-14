@@ -1,7 +1,7 @@
 +++
 title = "Pirógrafo CM-10 Colegial"
 draft = false
-image = "img/casa/pirografo/4.jpg"
+image = "img/craft/pirografo/4.jpg"
 showonlyimage = false
 weight = 1
 +++
@@ -14,9 +14,9 @@ Pirógrafo, para gavação em couro, madeira, veludo, cortiça, bivolt. Novo, so
 - Marca: Palante
 
 {{< gallery >}}
-{{< figure src="img/casa/pirografo/1.jpg" >}}
-{{< figure src="img/casa/pirografo/2.jpg" >}}
-{{< figure src="img/casa/pirografo/3.jpg" >}}
-{{< figure src="img/casa/pirografo/4.jpg" >}}
+{{< figure src="img/craft/pirografo/1.jpg" >}}
+{{< figure src="img/craft/pirografo/2.jpg" >}}
+{{< figure src="img/craft/pirografo/3.jpg" >}}
+{{< figure src="img/craft/pirografo/4.jpg" >}}
 
 {{< /gallery >}}

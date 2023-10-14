@@ -13,6 +13,7 @@ Em excelente estado e perfeito funcionamento. Sem danos, marcas ou sinais. Contr
 - Com Wifi e USB. 
 - Toca blu-ray normal e 3D
 - Toca DVD e cd de audio.
+- Toca DVD Region 4 (pode ser desbloqueado) e Blu-Ray ALL (A, B, C)
 - Bi-volt
 
 

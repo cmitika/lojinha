@@ -56,12 +56,16 @@ googleAnalytics = "UA-27161989-3"
   url = "eletrodomesticos/"
 
   [[params.navlinks]]
+  name = "Moveis & Decoracao"
+  url = "moveis/"
+
+  [[params.navlinks]]
   name = "Eletronicos"
   url = "eletronicos/"
 
   [[params.navlinks]]
-  name = "Moveis & Decoracao"
-  url = "moveis/"
+  name = "Artes Manuais"
+  url = "craft/"
 
   [[params.navlinks]]
   name = "Jogos e Brinquedos"
