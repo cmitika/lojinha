@@ -1,7 +1,7 @@
 +++
 title = "Palestina"
 draft = false
-image = "img/livros/quadrinhos/00/60_1.jpg"
+image = "img/livros/00/60_1.jpg"
 showonlyimage = false
 weight = 100
 +++
@@ -10,5 +10,5 @@ weight = 100
 <!--more-->
 
 {{< gallery >}}
-{{< figure src="img/livros/quadrinhos/00/60_1.jpg"  >}}
+{{< figure src="img/livros/00/60_1.jpg"  >}}
 {{< /gallery >}}
