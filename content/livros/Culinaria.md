@@ -44,7 +44,6 @@ weight = 3
 
 {{< gallery >}}
 {{< figure src="img/livros/culinaria/80/20_7.jpg" caption="NOVO - R$ 80" >}}
-{{< figure src="img/livros/culinaria/80/40_5.jpg" caption="NOVO - R$ 80" >}}
 {{< figure src="img/livros/culinaria/30/20_8.jpg" caption="R$ 30" >}}
 {{< figure src="img/livros/culinaria/20/20_6.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/culinaria/10/10_10.jpg" caption="R$ 10" >}}

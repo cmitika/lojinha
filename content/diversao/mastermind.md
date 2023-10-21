@@ -5,7 +5,7 @@ image = "img/diversao/mastermind/photo_2023-09-07_17-27-59.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="price">R$ 100</span>
+<span class="price">R$ 120</span>
 
 Jogo de raciocinio logico para todas as idades.
 <!--more-->

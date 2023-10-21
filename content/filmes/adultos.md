@@ -43,11 +43,12 @@ weight = 1
 
 
 
-{{< figure src="img/filmes/adultos/20/1.jpg" caption="R$ 20" >}}
-{{< figure src="img/filmes/adultos/20/2.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/1.jpg" caption="R$ 35" >}}
+{{< figure src="img/filmes/adultos/20/2.jpg" caption="R$ 35" >}}
+
 {{< figure src="img/filmes/adultos/20/3.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/4.jpg" caption="R$ 20" >}}
-{{< figure src="img/filmes/adultos/20/5.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/adultos/20/5.jpg" caption="R$ 35" >}}
 {{< figure src="img/filmes/adultos/20/6.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/7.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/8.jpg" caption="R$ 20" >}}
