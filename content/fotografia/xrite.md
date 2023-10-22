@@ -25,5 +25,7 @@ Edicao especial do i1 DisplayPro. Funciona com todos os monitores e TV compative
 {{< figure src="img/fotografia/x-rite/2.jpg" >}}
 {{< figure src="img/fotografia/x-rite/3.jpg" >}}
 {{< figure src="img/fotografia/x-rite/4.jpg" >}}
+{{< figure src="img/fotografia/x-rite/5.jpg" >}}
+{{< figure src="img/fotografia/x-rite/6.jpg" >}}
 
 {{< /gallery >}}

@@ -21,5 +21,7 @@ Em perfeito estado de funcionamento e apenas marcas bem superficiais de uso. Aco
 {{< figure src="img/casa/mag-lite-3aa/1.jpg" >}}
 {{< figure src="img/casa/mag-lite-3aa/2.jpg" >}}
 {{< figure src="img/casa/mag-lite-3aa/3.jpg" >}}
-
+{{< figure src="img/casa/mag-lite-3aa/4.jpg" >}}
+{{< figure src="img/casa/mag-lite-3aa/5.jpg" >}}
+{{< figure src="img/casa/mag-lite-3aa/6.jpg" >}}
 {{< /gallery >}}
