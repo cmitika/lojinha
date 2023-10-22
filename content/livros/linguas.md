@@ -57,22 +57,27 @@ Livro novo, sem uso, sem anotacoes, sem vincos ou marcas. Com CD tambem sem uso.
 {{< gallery >}}
 {{< figure src="img/livros/linguas/20/20_1.jpg" caption="R$ 30" >}}
 {{< figure src="img/livros/linguas/10/10_2.jpg" caption="R$ 20" >}}
-{{< figure src="img/livros/linguas/10/10_8.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/linguas/10/10_10.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/linguas/10/10_11.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/linguas/10/10_12.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/linguas/10/10_13.jpg" caption="R$ 20" >}}
-{{< figure src="img/livros/linguas/10/10_14.jpg" caption="R$ 30" >}}
-{{< figure src="img/livros/linguas/10/10_15.jpg" caption="R$ 30" >}}
 {{< figure src="img/livros/linguas/10/10_18.jpg" caption="R$ 10" >}}
 {{< /gallery >}}
 
 ## Alemao
 
 {{< gallery >}}
+{{< figure src="img/livros/linguas/10/10_14.jpg" caption="R$ 30" >}}
+{{< figure src="img/livros/linguas/10/10_15.jpg" caption="R$ 30" >}}
 {{< figure src="img/livros/linguas/10/10_3.jpg" caption="R$ 30" >}}
 {{< figure src="img/livros/linguas/10/10_4.jpg" caption="R$ 10" >}}
 {{< figure src="img/livros/linguas/10/10_7.jpg" caption="R$ 10" >}}
+{{< /gallery >}}
+
+## Frances
+
+{{< gallery >}}
+{{< figure src="img/livros/linguas/10/10_8.jpg" caption="R$ 20" >}}
 {{< /gallery >}}
 
 ## Russo

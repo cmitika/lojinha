@@ -72,11 +72,11 @@ googleAnalytics = "UA-27161989-3"
   url = "diversao/"
 
   [[params.navlinks]]
-  name = "Esporte"
+  name = "Esporte & Aventura"
   url = "esporte/"
 
   [[params.navlinks]]
-  name = "Roupas e Calcados"
+  name = "Roupas & Calcados"
   url = "roupas/"
 
   [[params.navlinks]]
