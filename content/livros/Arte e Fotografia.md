@@ -252,7 +252,7 @@ Klimt e Schiele ainda estao lacrados!
 
 ---
 
-## Michael Freeman - The Photographer's Mind, R$ 50
+## Michael Freeman - The Photographer's Mind, R$ 100
 
 - Importado, Ingles
 
@@ -262,7 +262,7 @@ Klimt e Schiele ainda estao lacrados!
 
 ---
 
-## Livros de Bolso, R$ 50
+## Livros de Bolso, R$ 60
 
 - O Grande Livro das Artes: 1,000 paginas com as mais famosas pinturas de todos os tempos; portugues
 - Sebastiao Salgado: frances
