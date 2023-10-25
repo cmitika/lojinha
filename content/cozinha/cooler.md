@@ -22,4 +22,7 @@ A caixa teve realmente pouquissimo uso. Esta como nova, em perfeito estado, sem 
 {{< figure src="img/casa/cooler/2.jpg" >}}
 {{< figure src="img/casa/cooler/3.jpg" >}}
 {{< figure src="img/casa/cooler/4.jpg" >}}
+{{< figure src="img/casa/cooler/5.jpg" >}}
+{{< figure src="img/casa/cooler/6.jpg" >}}
+{{< figure src="img/casa/cooler/7.jpg" >}}
 {{< /gallery >}}

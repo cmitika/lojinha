@@ -1,7 +1,7 @@
 +++
 title = "Mesa Grande + 6 Cadeiras"
 draft = false
-image = "img/moveis/mesa-grande1.jpg"
+image = "img/moveis/mesa6/1.jpg"
 showonlyimage = false
 weight = 1
 +++
@@ -16,9 +16,12 @@ Mesa com 6 cadeiras
 - Medida do tampo da mesa: 1x2metros
 
 {{< gallery >}}
-{{< figure src="img/moveis/mesa-grande1.jpg" >}}
-{{< figure src="img/moveis/mesa-grande2.jpg" >}}
-{{< figure src="img/moveis/mesa-grande3.jpg" >}}
-{{< figure src="img/moveis/mesa-grande4.jpg" >}}
-{{< figure src="img/moveis/mesa-grande5.jpg" >}}
+{{< figure src="img/moveis/mesa6/1.jpg" >}}
+{{< figure src="img/moveis/mesa6/2.jpg" >}}
+{{< figure src="img/moveis/mesa6/3.jpg" >}}
+{{< figure src="img/moveis/mesa6/4.jpg" >}}
+{{< figure src="img/moveis/mesa6/5.jpg" >}}
+{{< figure src="img/moveis/mesa6/6.jpg" >}}
+{{< figure src="img/moveis/mesa6/7.jpg" >}}
+
 {{< /gallery >}}
