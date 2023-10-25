@@ -1,5 +1,5 @@
 +++
-title = "Caixa térmica Cooler Coleman grande"
+title = "Caixa térmica Cooler Coleman 45L, Grande"
 draft = false
 image = "img/casa/cooler/1.jpg"
 showonlyimage = false
@@ -9,16 +9,17 @@ weight = 5
 
 <!--more-->
 
-Caixa térmica Cooler Coleman grande, com 2 alças, tampa
+Caixa térmica Cooler Coleman de 45L, grande, com 2 alças, tampa e valvula para escorrimento de liquidos.
 
-Capacidade: 45.4L
-Marca: Coleman
+A caixa teve realmente pouquissimo uso. Esta como nova, em perfeito estado, sem marcas ou sinais de qualquer tipo.
 
+- Capacidade: 45.4L
+- Dimensoes: 65 x 35 x 35 (C x L x A)
+- Marca: Coleman
 
 {{< gallery >}}
 {{< figure src="img/casa/cooler/1.jpg" >}}
 {{< figure src="img/casa/cooler/2.jpg" >}}
 {{< figure src="img/casa/cooler/3.jpg" >}}
 {{< figure src="img/casa/cooler/4.jpg" >}}
-
 {{< /gallery >}}
