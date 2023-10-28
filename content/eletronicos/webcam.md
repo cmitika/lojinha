@@ -14,6 +14,7 @@ Como nova. Temos 2 unidades.
 {{< figure src="img/eletronicos/webcam/1.jpg" >}}
 {{< figure src="img/eletronicos/webcam/2.jpg" >}}
 {{< figure src="img/eletronicos/webcam/3.jpg" >}}
-{{< figure src="img/eletronicos/webcam/4.jpg" >}}
 {{< figure src="img/eletronicos/webcam/5.jpg" >}}
+{{< figure src="img/eletronicos/webcam/4.jpg" >}}
+
 {{< /gallery >}}
