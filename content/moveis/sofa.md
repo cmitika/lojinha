@@ -5,7 +5,7 @@ image = "img/moveis/sofa/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 3.000</span>
+De ~~R$ 24.000~~ por <span class="price">R$ 3.000</span>
 
 <!--more-->
 
