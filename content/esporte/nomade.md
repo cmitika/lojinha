@@ -20,9 +20,9 @@ Marca: Botas Vento  / Nomade
 
 {{< gallery >}}
 {{< figure src="img/esporte/nomade/a1.jpg" >}}
-{{< figure src="img/esporte/curtlo/a2.jpg" >}}
-{{< figure src="img/esporte/curtlo/a3.jpg" >}}
-{{< figure src="img/esporte/curtlo/a4.jpg" >}}
-{{< figure src="img/esporte/curtlo/a5.jpg" >}}
+{{< figure src="img/esporte/nomade/a2.jpg" >}}
+{{< figure src="img/esporte/nomade/a3.jpg" >}}
+{{< figure src="img/esporte/nomade/a4.jpg" >}}
+{{< figure src="img/esporte/nomade/a5.jpg" >}}
 
 {{< /gallery >}}
