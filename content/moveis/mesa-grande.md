@@ -5,7 +5,7 @@ image = "img/moveis/mesa6/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 1.850</span>
+DE ~~R$ 4.300~~ por <span class="price">1.850</span>
 
 <!--more-->
 

@@ -5,13 +5,16 @@ image = "img/casa/mag-lite-xl200/1.jpg"
 showonlyimage = false
 weight = 3
 +++
-<span class="price">R$ 350</span>
+De ~~R$ 750~~ por <span class="price">350</span>
 
 <!--more-->
+
+Famosa laterna da Mag-Lite a prova de tudo: agua e chuva, queda, terremoto e bomba atomica!
 
 Em perfeito estado de funcionamento e apenas marcas bem superficiais de uso.
 
 - Pilhas: 3 x AAA
+- Material: aluminio anodizado
 - Marca: Mag-Lite
 - Origem: USA
 

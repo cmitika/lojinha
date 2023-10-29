@@ -5,7 +5,7 @@ image = "img/esporte/mont_blanc/1.jpg"
 showonlyimage = false
 weight = 3
 +++
-<span class="price">R$ 220</span>
+<span class="price">R$ 200</span>
 
 Pochete tecnica para Escalada e Montanhismo
 <!--more-->
