@@ -57,4 +57,12 @@ weight = 3
 {{< figure src="img/esporte/curtlo/1.jpg" caption="R$ 460" >}}
 {{< figure src="img/eletronicos/blu-ray/1.jpg" caption="R$ 460" >}}
 {{< figure src="img/diversao/skate-acessorios/photo_2023-08-23_16-59-10.rotated.jpg" width="400" caption="R$ 75" >}}
+{{< figure src="img/moveis/aparador/1.jpg" caption="R$ 400" >}}
+{{< figure src="img/moveis/armario1.jpg" caption="R$ 1.650" >}}
+{{< figure src="img/moveis/estante1.jpg" caption="R$ 1.200" >}}
+{{< figure src="img/moveis/sapateira.jpg" caption="R$ 100" >}}
+{{< figure src="img/moveis/fruteira1.jpg" caption="R$ 200" >}}
+{{< figure src="img/moveis/mesa_jantar_4/1.jpg" caption="R$ 1.200" >}}
+{{< figure src="img/instrumentos/rack/r.png" caption="R$ 1.600" >}}
+
 {{< /gallery >}}
