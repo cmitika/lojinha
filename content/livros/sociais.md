@@ -118,9 +118,6 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/20/20_46.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/filosofia/20/15_4.jpg" caption="💖 R$ 20" >}}
 
-{{< figure src="img/livros/filosofia/20/15_15.jpg" caption="👍 R$ 20" >}}
-{{< figure src="img/livros/filosofia/20/15_16.jpg" caption="👍 R$ 20" >}}
-{{< figure src="img/livros/filosofia/20/15_17.jpg" caption="👍 R$ 20" >}}
 
 
 
@@ -218,13 +215,3 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 {{< /gallery >}}
 
-
-## Colecoes
-
-### Colecao Terra Brasilis - Eduardo Bueno
-
-{{< gallery >}}
-{{< figure src="img/livros/filosofia/20/15_15.jpg" caption="👍 R$ 20" >}}
-{{< figure src="img/livros/filosofia/20/15_16.jpg" caption="👍 R$ 20" >}}
-{{< figure src="img/livros/filosofia/20/15_17.jpg" caption="👍 R$ 20" >}}
-{{< /gallery >}}

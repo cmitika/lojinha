@@ -54,7 +54,7 @@ weight = 1
 {{< figure src="img/filmes/adultos/20/8.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/9.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/10.jpg" caption="R$ 20" >}}
-{{< figure src="img/filmes/adultos/20/11.jpg" caption="R$ 20" >}}
+
 {{< figure src="img/filmes/adultos/20/12.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/13.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/adultos/20/14.jpg" caption="R$ 20" >}}

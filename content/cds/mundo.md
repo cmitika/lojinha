@@ -107,7 +107,7 @@ weight = 1
 
 {{< figure src="img/cds/internacional/20/51.jpg" caption="R$ 20" >}}
 {{< figure src="img/cds/internacional/20/53.jpg" caption="R$ 20" >}}
-{{< figure src="img/cds/internacional/20/55.jpg" caption="R$ 20" >}}
+
 {{< figure src="img/cds/internacional/20/59.jpg" caption="Novo R$ 20" >}}
 
 {{< figure src="img/cds/internacional/20/61.jpg" caption="Novo R$ 20" >}}
