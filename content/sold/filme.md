@@ -10,6 +10,10 @@ weight = 10
 <!--more-->
 
 {{< gallery >}}
+{{< figure src="img/filmes/00/20_1.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/00/20_2.jpg" caption="R$ 50" >}}
+{{< figure src="img/filmes/00/20_3.jpg" caption="R$ 50" >}}
+{{< figure src="img/filmes/00/20_41.jpg" caption="R$ 50" >}}
 {{< figure src="img/filmes/00/amor.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/00/moretti1.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/00/80_1.jpg" caption="R$ 20" >}}
