@@ -30,5 +30,6 @@ weight = 1
 {{< figure src="img/filmes/infanto-juvenil/20/12.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/infanto-juvenil/20/13.jpg" caption="R$ 20" >}}
 {{< figure src="img/filmes/infanto-juvenil/20/14.jpg" caption="R$ 20" >}}
+{{< figure src="img/filmes/infanto-juvenil/20/15.jpg" caption="R$ 20" >}}
 
 {{< /gallery >}}	
