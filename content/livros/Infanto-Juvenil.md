@@ -29,7 +29,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< gallery >}}
 {{< figure src="img/livros/infantil/50/stalker.jpg" caption="💖 R$ 50" >}}
 {{< figure src="img/livros/infantil/40/ousadas.jpg" caption="LACRADO 💖 R$ 40" >}}
-{{< figure src="img/livros/infantil/40/bichos.jpg" caption="💖 R$ 40" >}}
+{{< figure src="img/livros/infantil/40/bichos.jpg" caption="💖 R$ 35" >}}
 {{< figure src="img/livros/infantil/40/revolucaobichos.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/ilha.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/legas_submarinas.jpg" caption="💖 R$ 40" >}}
@@ -56,7 +56,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/20/20_11.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_12.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/infantil/15/15_1.jpg" caption="👍 R$ 15" >}}
-{{< figure src="img/livros/infantil/15/15_2.jpg" caption="Livro Jogo - 💖 R$ 15" >}}
+
 {{< figure src="img/livros/infantil/10/hollow.jpg" caption="👍 R$ 10" >}}
 
 {{< /gallery >}}
