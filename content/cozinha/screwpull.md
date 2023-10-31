@@ -5,7 +5,7 @@ image = "img/casa/screwpull/1.png"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 180</span>
+<span class="price">R$ 210</span>
 
 <!--more-->
 
