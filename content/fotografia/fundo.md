@@ -5,18 +5,17 @@ image = "img/fotografia/fundo_infinito/suporte2.jpg"
 showonlyimage = false
 weight = 100
 +++
-De ~~1.600~~ por <span class="price">R$ 1.000</span>
+De ~~1.600~~ por <span class="price">R$ 750</span>
 
 Suporte de Fundo e Rolo de Papel Importado da BD Company
 <!--more-->
 
-Novos, sem uso, na caixa. Nao tenho sequer foto pra postar (exceto se quizer ver foto das caixas).
+Novos, sem uso, na caixa. Nao tenho sequer foto pra postar (exceto se quizer ver foto das caixas). As fotos abaixo sao ilustrativas do uso.
 
 Kit para Fundo contendo:
 
 - 2x Tripés Mako Wide II
 - 1x Haste OneClic Mako retratil
-- 2x Pinca Pony importada
 - 1x Rolo de Papel Dovegrey (BD Company USA, codigo 109-Dovegrey, 2,72m x 11 metros)
 
 {{< gallery >}}
