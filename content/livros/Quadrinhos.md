@@ -12,7 +12,7 @@ weight = 6
 - 🤔: Bom estado, com marcas de uso, quinas desgastadas ou algo similar. 
 
 {{< gallery >}}
-{{< figure src="img/livros/quadrinhos/80/80_1.jpg" caption="💖 R$ 80" >}}
+
 {{< figure src="img/livros/quadrinhos/40/40_2.jpg" caption="💖 Lacrado R$ 40" >}}
 {{< figure src="img/livros/quadrinhos/40/40_3.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/quadrinhos/35/35_1.jpg" caption="💖 R$ 35" >}}

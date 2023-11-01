@@ -103,5 +103,10 @@ weight = 100
 {{< figure src="img/livros/literatura/10/10_10.jpg" caption="💖 R$ 15" >}}
 {{< figure src="img/livros/infantil/15/15_2.jpg" caption="Livro Jogo - 💖 R$ 15" >}}
 {{< figure src="img/livros/literatura/15/15_21.jpg" caption="💖 R$ 15" >}}
+{{< figure src="img/livros/quadrinhos/80/80_1.jpg" caption="💖 R$ 80" >}}
+{{< figure src="img/livros/design/80/1.jpg" caption="R$ 80" >}}
+{{< figure src="img/livros/design/50/50_3.jpg" caption="R$ 50" >}}
+{{< figure src="img/livros/design/50/50_6.jpg" caption="R$ 50" >}}
+{{< figure src="img/livros/design/20/20_4.jpg" caption="R$ 20" >}}
 {{< /gallery >}}
 

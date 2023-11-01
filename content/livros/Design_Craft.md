@@ -8,13 +8,13 @@ weight = 2
 <!--more-->
 
 {{< gallery >}}
-{{< figure src="img/livros/design/80/1.jpg" caption="R$ 80" >}}
+
 {{< figure src="img/livros/design/50/50_1.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/design/50/50_2.jpg" caption="R$ 50" >}}
-{{< figure src="img/livros/design/50/50_3.jpg" caption="R$ 50" >}}
+
 {{< figure src="img/livros/design/50/50_4.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/design/50/50_5.jpg" caption="R$ 50" >}}
-{{< figure src="img/livros/design/50/50_6.jpg" caption="R$ 50" >}}
+
 {{< figure src="img/livros/design/50/50_7.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/design/50/50_8.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/design/50/50_9.jpg" caption="R$ 50" >}}
@@ -30,7 +30,7 @@ weight = 2
 {{< figure src="img/livros/design/20/20_1.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/design/20/20_2.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/design/20/20_3.jpg" caption="R$ 20" >}}
-{{< figure src="img/livros/design/20/20_4.jpg" caption="R$ 20" >}}
+
 {{< figure src="img/livros/design/20/20_5.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/design/20/20_6.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/design/20/20_7.jpg" caption="R$ 20" >}}
