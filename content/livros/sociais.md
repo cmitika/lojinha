@@ -73,7 +73,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 
 
-{{< figure src="img/livros/psicologia/50/50_3.jpg" caption="💖 R$ 25" >}}
+
 {{< figure src="img/livros/filosofia/25/25_3.jpg" caption="👍 R$ 25" >}}
 {{< figure src="img/livros/filosofia/25/25_4.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/filosofia/25/25_5.jpg" caption="💖 R$ 25" >}}
@@ -125,7 +125,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/15/15_2.jpg" caption="👍 R$ 15" >}}
 
 {{< figure src="img/livros/filosofia/15/15_5.jpg" caption="💖 R$ 15" >}}
-{{< figure src="img/livros/filosofia/15/15_6.jpg" caption="💖 R$ 15" >}}
+
 {{< figure src="img/livros/filosofia/15/15_9.jpg" caption="🤔 R$ 15" >}}
 {{< figure src="img/livros/filosofia/15/15_10.jpg" caption="🤔 R$ 15" >}}
 {{< figure src="img/livros/filosofia/15/15_11.jpg" caption="💖 R$ 15" >}}
