@@ -14,9 +14,9 @@ weight = 6
 {{< gallery >}}
 
 {{< figure src="img/livros/quadrinhos/40/40_2.jpg" caption="💖 Lacrado R$ 40" >}}
-{{< figure src="img/livros/quadrinhos/40/40_3.jpg" caption="💖 R$ 40" >}}
-{{< figure src="img/livros/quadrinhos/35/35_1.jpg" caption="💖 R$ 35" >}}
-{{< figure src="img/livros/quadrinhos/30/30_2.jpg" caption="💖 R$ 30" >}}
+{{< figure src="img/livros/quadrinhos/40/40_3.jpg" caption="💖 R$ 25" >}}
+{{< figure src="img/livros/quadrinhos/35/35_1.jpg" caption="💖 R$ 25" >}}
+{{< figure src="img/livros/quadrinhos/30/30_2.jpg" caption="💖 R$ 25" >}}
 
 {{< /gallery >}}
 

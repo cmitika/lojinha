@@ -40,7 +40,7 @@ weight = 1
 
 ---
 
-## Sebastiao Salgado - Genesis, R$ 300
+## Sebastiao Salgado - Genesis, R$ 410
 
 Edicao importada e **completa** do Genesis, tamanho gigante, com mais de 500 paginas.
 
@@ -48,7 +48,7 @@ Edicao importada e **completa** do Genesis, tamanho gigante, com mais de 500 pag
 - 25 x 36 cm
 - Capa dura + encarte + paginas extendidas (4 paginas)
 - Importado, Ingles
-- De ~~620~~ por <span class="price">R$ 300</span>
+- De ~~620~~ por <span class="price">R$ 410</span>
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/salgado_genesis.jpg"  >}}
@@ -60,7 +60,7 @@ Edicao importada e **completa** do Genesis, tamanho gigante, com mais de 500 pag
 
 ---
 
-## Sebastiao Salgado - Trabalhadores, R$ 300
+## Sebastiao Salgado - Trabalhadores, R$ 460
 
 Edicao completa e esgotada dos Trabalhadores. 
 
@@ -69,7 +69,7 @@ Esta sendo vendido por ai por R$ 1.000!
 - 400 pag
 - 25 x 33 cm
 - Edicao completa
-- De ~~500~~ por <span class="price">R$ 300</span>
+- <span class="price">R$ 460</span>
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/salgado_trabalhadores.jpg" >}}
@@ -79,7 +79,7 @@ Esta sendo vendido por ai por R$ 1.000!
 
 ---
 
-## Steve McCurry, Iconic Photographs, R$ 300
+## Steve McCurry, Iconic Photographs, R$ 410
 
 As fotos mais emblematicas do Steven McCurry, em tamanho gigante.
 
@@ -87,7 +87,7 @@ As fotos mais emblematicas do Steven McCurry, em tamanho gigante.
 - 30 x 39 cm
 - Capa dura
 - Importado, Ingles
-- De ~~700~~ por <span class="price">R$ 300</span>
+- De ~~700~~ por <span class="price">R$ 410</span>
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/mccurry_iconic.jpg" >}}
@@ -98,13 +98,13 @@ As fotos mais emblematicas do Steven McCurry, em tamanho gigante.
 
 ---
 
-## Sebastiao Salgado - Outras Americas, R$ 100
+## Sebastiao Salgado - Outras Americas, R$ 105
 
 Livro esgotado. O nosso exemplar eh como novo.
 
 - 120 pag
 - 24 x 30 cm
-- <span class="price">R$ 100</span>
+- <span class="price">R$ 105</span>
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/salgado_americas.jpg" >}}
@@ -115,13 +115,13 @@ Livro esgotado. O nosso exemplar eh como novo.
 
 ---
 
-## Sebastiao Salgado - Children, R$ 200
+## Sebastiao Salgado - Children, R$ 210
 
 - 110 pag
 - 25 x 33 cm
 - Edicao Importada, Ingles
 - Editora: Apertura
-- <span class="price">R$ 200</span>
+- <span class="price">R$ 210</span>
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/salgado_children.jpg" >}}
@@ -170,12 +170,12 @@ Biografia em portugues e principais obras dos pintores do movimento expressionis
 
 ---
 
-## Steve McCurry, Temples of Ankgor, R$ 200
+## Steve McCurry, Temples of Ankgor, R$ 210
 
 - 200 pag
 - 19 x 27 cm
 - Edicao Importada, Ingles
-- <span class="price">R$ 200</span>
+- <span class="price">R$ 210</span>
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/mccurry_sactuary.jpg" >}}
@@ -186,7 +186,7 @@ Biografia em portugues e principais obras dos pintores do movimento expressionis
 
 ---
 
-## Marc Chagall, R$ 200
+## Marc Chagall, R$ 210
 
 Livro novo, adquirido a poucos dias na Exposicao Chagall no Brasil.
 
@@ -194,7 +194,7 @@ Livro novo, adquirido a poucos dias na Exposicao Chagall no Brasil.
 - 30 x 34 cm
 - Capa dura
 - Portugues
-- <span class="price">R$ 200</span>
+- <span class="price">R$ 210</span>
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/chagall.jpg" >}}
@@ -221,7 +221,7 @@ Catalogo completa das obras expostas no MAM-RJ. Foto da obra e biografia ou fich
 
 ---
 
-## Pintores Diversos, R$ 70
+## Pintores Diversos
 
 Klimt e Schiele ainda estao lacrados!
 
@@ -229,25 +229,24 @@ Klimt e Schiele ainda estao lacrados!
 - 25 x 30 cm
 - Capa dura
 - Em Portugues
-- <span class="price">R$ 70</span>
 
 {{< gallery >}}
-	{{< figure src="img/livros/arte/klint.jpg" caption="Lacrado" >}}
-	{{< figure src="img/livros/arte/schielev2.jpg" caption="Lacrado" >}}
-	{{< figure src="img/livros/arte/bosch.jpg" >}}
-	{{< figure src="img/livros/arte/munch.jpg" >}}
+	{{< figure src="img/livros/arte/klint.jpg" caption="Lacrado R$ 95" >}}
+	{{< figure src="img/livros/arte/schielev2.jpg" caption="Lacrado R$ 125" >}}
+	{{< figure src="img/livros/arte/bosch.jpg" caption="R$ 55" >}}
+	{{< figure src="img/livros/arte/munch.jpg" caption="R$ 95" >}}
 {{< /gallery >}}
 
 ---
 
-## Pintores Diversos, R$ 50
+## Pintores Diversos
 
 - Em Portugues
 
 {{< gallery >}}	
-	{{< figure src="img/livros/arte/kirchner.jpg" >}}
-	{{< figure src="img/livros/arte/schiele.jpg" >}}
-	{{< figure src="img/livros/arte/el_greco.jpg" >}}
+	{{< figure src="img/livros/arte/kirchner.jpg" caption="R$ 55" >}}
+	{{< figure src="img/livros/arte/schiele.jpg" caption="R$ 95" >}}
+	{{< figure src="img/livros/arte/el_greco.jpg" caption="R$ 50" >}}
 {{< /gallery >}}
 
 ---

@@ -64,5 +64,6 @@ weight = 3
 {{< figure src="img/moveis/fruteira1.jpg" caption="R$ 200" >}}
 {{< figure src="img/moveis/mesa_jantar_4/1.jpg" caption="R$ 1.200" >}}
 {{< figure src="img/instrumentos/rack/r.png" caption="R$ 1.600" >}}
+{{< figure src="img/casa/cozinha/Travessa.jpg" caption="R$ 50" >}}
 
 {{< /gallery >}}
