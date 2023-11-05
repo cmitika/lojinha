@@ -108,5 +108,6 @@ weight = 100
 {{< figure src="img/livros/design/50/50_3.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/design/50/50_6.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/design/20/20_4.jpg" caption="R$ 20" >}}
+{{< figure src="img/livros/musica/40/40_5.jpg" caption="👍 R$ 40" >}}
 {{< /gallery >}}
 
