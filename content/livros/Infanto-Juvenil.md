@@ -91,14 +91,13 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 
 {{< figure src="img/livros/infantil/25/25_1.jpg" caption="💖 R$ 25" >}}
-{{< figure src="img/livros/infantil/25/25_4.jpg" caption="💖 R$ 50" >}}
-{{< figure src="img/livros/infantil/25/25_5.jpg" caption="💖 R$ 50" >}}
+{{< figure src="img/livros/infantil/25/25_4.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/infantil/25/25_5.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/infantil/25/25_6.jpg" caption="👍 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_8.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_9.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_10.jpg" caption="👍 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_11.jpg" caption="💖 R$ 25" >}}
-{{< figure src="img/livros/infantil/25/25_12.jpg" caption="Com CD 💖 R$ 80" >}}
 {{< figure src="img/livros/infantil/25/25_13.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/infantil/25/25_14.jpg" caption="💖 R$ 35" >}}
 {{< figure src="img/livros/infantil/25/25_15.jpg" caption="💖 R$ 25" >}}
@@ -128,7 +127,6 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 {{< figure src="img/livros/infantil/20/20_20.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/infantil/20/20_21.jpg" caption="👍 R$ 20" >}}
-{{< figure src="img/livros/infantil/20/20_22.jpg" caption="Com 4 CDs 💖 R$ 150" >}}
 {{< figure src="img/livros/infantil/20/20_23.jpg" caption="🤔 R$ 20" >}}
 
 {{< figure src="img/livros/infantil/15/15_3.jpg" caption="💖 R$ 15" >}}
@@ -138,7 +136,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 {{< figure src="img/livros/infantil/10/10_3.jpg" caption="👍 R$ 10" >}}
 {{< figure src="img/livros/infantil/10/10_4.jpg" caption="👍 R$ 10" >}}
-{{< figure src="img/livros/infantil/10/10_5.jpg" caption="💖 R$ 45" >}}
+{{< figure src="img/livros/infantil/10/10_5.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/infantil/10/10_6.jpg" caption="💖 R$ 10" >}}
 {{< figure src="img/livros/infantil/10/10_7.jpg" caption="👍 R$ 10" >}}
 {{< /gallery >}}

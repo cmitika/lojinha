@@ -42,12 +42,12 @@ Livro novo, sem uso, sem anotacoes, sem vincos ou marcas. Com CD tambem sem uso.
 {{< figure src="img/livros/infantil/50/stalker.jpg" caption="💖 R$ 50" >}}
 {{< figure src="img/livros/literatura/40/40_3.jpg" caption="🔥👍 R$ 40" >}}
 {{< figure src="img/livros/literatura/40/40_4.jpg" caption="🔥👍 R$ 40" >}}
-{{< figure src="img/livros/infantil/25/25_4.jpg" caption="💖 R$ 50" >}}
-{{< figure src="img/livros/infantil/25/25_5.jpg" caption="💖 R$ 50" >}}
+{{< figure src="img/livros/infantil/25/25_4.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/infantil/25/25_5.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/infantil/25/25_14.jpg" caption="💖 R$ 35" >}}
-{{< figure src="img/livros/infantil/20/20_22.jpg" caption="Com 4 CDs - 💖 R$ 150" >}}
-{{< figure src="img/livros/infantil/25/25_12.jpg" caption="Com CD - 💖 R$ 80" >}}
-{{< figure src="img/livros/infantil/10/10_5.jpg" caption="💖 R$ 45" >}}
+{{< figure src="img/livros/infantil/20/20_22.jpg" caption="Com 2 CDs - 👍 R$ 45" >}}
+{{< figure src="img/livros/infantil/25/25_12.jpg" caption="Com CD - 💖 R$ 20" >}}
+{{< figure src="img/livros/infantil/10/10_5.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/literatura/10/10_3.jpg" caption="🤔 R$ 10" >}}
 {{< figure src="img/livros/literatura/10/10_1.jpg" caption="💖 R$ 10" >}}
 {{< /gallery >}}
