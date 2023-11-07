@@ -5,7 +5,7 @@ image = "img/casa/aquecedor/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 380</span>
+<span class="price">R$ 350</span>
 
 <!--more-->
 

@@ -31,8 +31,8 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/40/ousadas.jpg" caption="LACRADO 💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/bichos.jpg" caption="💖 R$ 35" >}}
 {{< figure src="img/livros/infantil/40/revolucaobichos.jpg" caption="💖 R$ 40" >}}
-{{< figure src="img/livros/infantil/40/ilha.jpg" caption="💖 R$ 40" >}}
-{{< figure src="img/livros/infantil/40/legas_submarinas.jpg" caption="💖 R$ 40" >}}
+{{< figure src="img/livros/infantil/40/ilha.jpg" caption="💖 R$ 30" >}}
+{{< figure src="img/livros/infantil/40/legas_submarinas.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/infantil/40/40_4.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/infantil/40/40_5.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_10.jpg" caption="💖 R$ 30" >}}
@@ -48,7 +48,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/30/30_13.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/infantil/30/30_14.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/infantil/30/30_15.jpg" caption="💖 R$ 30" >}}
-{{< figure src="img/livros/infantil/25/arsene.jpg" caption="NOVO 💖 R$ 25" >}}
+{{< figure src="img/livros/infantil/25/arsene.jpg" caption="NOVO 💖 R$ 20" >}}
 {{< figure src="img/livros/infantil/20/historias_brasileira.jpg" caption="👍 R$ 20" >}}
 {{< figure src="img/livros/infantil/20/historias_brasileira1_1.jpg" caption="👍 R$ 25" >}}
 {{< figure src="img/livros/infantil/20/20_3.jpg" caption="👍 R$ 20" >}}

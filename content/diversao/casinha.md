@@ -5,7 +5,7 @@ image = "img/diversao/casinha/1.jpg"
 showonlyimage = false
 weight = 2
 +++
-<span class="price">R$ 450</span>
+<span class="price">R$ 400</span>
 
 <!--more-->
 

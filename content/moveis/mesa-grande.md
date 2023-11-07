@@ -5,8 +5,10 @@ image = "img/moveis/mesa6/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-DE ~~R$ 4.300~~ por <span class="price">1.850</span>
+DE ~~R$ 4.300~~ por <span class="price">1.500</span>
 
+Somente a mesa: R$ 800<br>
+Somente as cadeiras: R$ 800
 <!--more-->
 
 Mesa com 6 cadeiras

@@ -5,11 +5,14 @@ image = "img/joalheria/foredom.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="price">R$ 3.300</span>
+De ~~R$ 3.100~~ por <span class="price">2.500</span>
 
+Novo, sem uso.
 <!--more-->
 
-Foredon kit original K2230, acompanha motor, mandril, porta brocas giratória, pedal. Somente testado, na caixa, 110v
+Foredon kit original K2230, acompanha motor, mandril, porta brocas giratória, pedal. Novo, na caixa, somente testado e sem uso. Voltagem: 110v
+
+Se achar preco mais baixo, a gente cobre a oferta.
 
 {{< gallery >}}
 {{< figure src="img/joalheria/foredom.jpg" >}}

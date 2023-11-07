@@ -5,7 +5,7 @@ image = "img/diversao/patins/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 435</span>
+<span class="price">R$ 400</span>
 
 Patins + protecao + acessorios
 <!--more-->

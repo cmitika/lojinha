@@ -5,7 +5,7 @@ image = "img/moveis/mesa-centro1.jpg"
 showonlyimage = false
 weight = 3
 +++
-De ~~700~~ por <span class="price">R$ 565</span>
+De ~~700~~ por <span class="price">R$ 400</span>
 
 <!--more-->
 
