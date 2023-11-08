@@ -5,7 +5,7 @@ image = "img/casa/fogao/2.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 1.000</span>
+<span class="price">R$ 1.500</span>
 
 Fogao com Vapor, Grill, Timer e Automatico
 
