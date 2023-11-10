@@ -1,5 +1,5 @@
 +++
-title = "Infanto-Juvenil"
+title = "Infanto-Juvenil (88 items)"
 draft = false
 image = "img/livros/infantil/cover.jpg"
 showonlyimage = false

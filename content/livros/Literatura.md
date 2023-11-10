@@ -1,5 +1,5 @@
 +++
-title = "Literatura, Poesia, Biografias (+80)"
+title = "Literatura, Poesia, Biografias (86)"
 draft = false
 image = "img/livros/literatura/cover.jpg"
 showonlyimage = false

@@ -1,5 +1,5 @@
 +++
-title = "Linguas (20)"
+title = "Linguas (31)"
 draft = false
 image = "img/livros/linguas/egb/1.jpg"
 showonlyimage = false

@@ -1,5 +1,5 @@
 +++
-title = "Ciencias Sociais, Filosofia & Politica"
+title = "Ciencias Sociais, Filosofia & Politica (108)"
 draft = false
 image = "img/livros/filosofia/cover.jpg"
 showonlyimage = false

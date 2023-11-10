@@ -1,5 +1,5 @@
 +++
-title = "Diversos (20)"
+title = "Diversos (5 items)"
 draft = false
 image = "img/livros/diversos/20/20_4.jpg"
 showonlyimage = false

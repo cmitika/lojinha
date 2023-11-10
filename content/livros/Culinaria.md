@@ -1,5 +1,5 @@
 +++
-title = "Culinaria & Vinho (+25)"
+title = "Culinaria & Vinho (25)"
 draft = false
 image = "img/livros/culinaria/cover.jpg"
 showonlyimage = false

@@ -1,5 +1,5 @@
 +++
-title = "Design & Artes Manuais (20)"
+title = "Design & Artes Manuais (24)"
 draft = false
 image = "img/livros/design/cover.jpg"
 showonlyimage = false
