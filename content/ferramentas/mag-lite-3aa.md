@@ -5,7 +5,7 @@ image = "img/casa/mag-lite-3aa/1.jpg"
 showonlyimage = false
 weight = 3
 +++
-<span class="price">R$ 350</span>
+<span class="price">R$ 300</span>
 
 <!--more-->
 

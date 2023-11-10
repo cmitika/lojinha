@@ -5,7 +5,7 @@ image = "img/esporte/deuter/1.jpg"
 showonlyimage = false
 weight = 3
 +++
-<span class="price">R$ 200</span>
+<span class="price">R$ 180</span>
 
 <!--more-->
 

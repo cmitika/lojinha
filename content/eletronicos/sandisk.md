@@ -5,7 +5,7 @@ image = "img/eletronicos/sandisk/1.jpg"
 showonlyimage = false
 weight = 3
 +++
-<span class="price">R$ 120</span>
+<span class="price">R$ 100</span>
 
 Le 12 tipos de midias.
 <!--more-->

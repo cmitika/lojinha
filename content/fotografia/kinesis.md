@@ -5,7 +5,7 @@ image = "img/fotografia/mochila_kinesis/k1.png"
 showonlyimage = false
 weight = 50
 +++
-<span class="price">R$ 900</span>
+<span class="price">R$ 800</span>
 
 Mochila Kinesis Journeyman P450
 <!--more-->

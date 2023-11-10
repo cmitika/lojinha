@@ -8,7 +8,7 @@ weight = 11
 Rodinhas, amortecedores, rolamentos.
 <!--more-->
 
-## Rodinha Spitfire Formula Four Classic Red 101D 52mm, por R$ 260
+## Rodinha Spitfire Formula Four Classic Red 101D 52mm, por R$ 210
 
 Rodinhas em estado de novas, sem desgaste.
 
@@ -21,7 +21,7 @@ Rodinhas em estado de novas, sem desgaste.
 
 ---
 
-## Rodinha Spitfire Formula Four Classic Blue 99D 52mm, por R$ 260
+## Rodinha Spitfire Formula Four Classic Blue 99D 52mm, por R$ 210
 
 Rodinhas em estado de novas, sem desgaste.
 
