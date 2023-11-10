@@ -5,7 +5,7 @@ image = "img/joalheria/luminaria1.jpg"
 showonlyimage = false
 weight = 5
 +++
-<span class="price">R$ 700</span>
+De ~~R$ 700~~ por <span class="price">500</span>
 
 <!--more-->
 

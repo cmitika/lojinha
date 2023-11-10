@@ -44,4 +44,6 @@ weight = 5
 {{< figure src="img/joalheria/Triboulet_pulseria.jpg" caption="R$ 150" >}}
 {{< figure src="img/joalheria/Morceto_borboleta.jpg" caption="R$ 15" >}}
 {{< figure src="img/joalheria/martelete.jpg" caption="R$ 200" >}}
+{{< figure src="img/joalheria/martelo.jpg" caption="R$ 35" >}}
+{{< figure src="img/joalheria/Oxidante_prata.jpg" caption="R$ 12" >}}
 {{< /gallery >}}
