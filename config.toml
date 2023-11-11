@@ -76,8 +76,12 @@ googleAnalytics = "UA-27161989-3"
   url = "esporte/"
 
   [[params.navlinks]]
-  name = "Roupas & Calcados"
+  name = "Roupas"
   url = "roupas/"
+
+  [[params.navlinks]]
+  name = "Calcados"
+  url = "calcados/"
 
   [[params.navlinks]]
   name = "DVD & Blu-Ray"

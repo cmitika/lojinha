@@ -46,4 +46,6 @@ weight = 5
 {{< figure src="img/joalheria/martelete.jpg" caption="R$ 200" >}}
 {{< figure src="img/joalheria/martelo.jpg" caption="R$ 35" >}}
 {{< figure src="img/joalheria/Oxidante_prata.jpg" caption="R$ 12" >}}
+{{< figure src="img/joalheria/limas.jpg" caption="R$ 290" >}}
+{{< figure src="img/joalheria/luminaria1.jpg" caption="R$ 500" >}}
 {{< /gallery >}}

@@ -7,7 +7,7 @@ weight = 3
 +++
 <span class="price">R$ 30</span>
 
-
+Novo, sem uso.
 <!--more-->
 
 Com esse plástico faça artesanato. É só desenhar em um tamanho maior com caneta permanente, colocar no forno, ele diminui e você pode usar o objeto final em chaveiros, brincos, correntinhas, decoração. 

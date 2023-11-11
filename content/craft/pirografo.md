@@ -7,6 +7,7 @@ weight = 1
 +++
 <span class="price">R$ 250</span>
 
+Novo, sem uso.
 <!--more-->
 
 Pirógrafo, para gavação em couro, madeira, veludo, cortiça, bivolt. Novo, somente testado.
