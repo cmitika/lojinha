@@ -275,15 +275,15 @@ Klimt e Schiele ainda estao lacrados!
 
 ---
 
-## Barganhas por R$ 20
+## Outro mais
 
-- Capa dura
+- Todos de capa dura
 - Mulheres do Brasil e Sedes da Copa ainda lacrados.
 
 {{< gallery >}}
-	{{< figure src="img/livros/arte/mulheres_brazil.jpg" caption="Livro Lacrado" >}}
-	{{< figure src="img/livros/arte/imagens_posteriores.jpg" >}}
-	{{< figure src="img/livros/arte/sedes_copa.jpg" caption="Livro Lacrado" >}}
-	{{< figure src="img/livros/arte/spny.jpg" >}}
-	{{< figure src="img/livros/arte/terra_bras.jpg" >}}
+	{{< figure src="img/livros/arte/mulheres_brazil.jpg" caption="Lacrado - R$ 80" >}}
+	{{< figure src="img/livros/arte/sedes_copa.jpg" caption="Lacrado - R$ 55" >}}
+	{{< figure src="img/livros/arte/imagens_posteriores.jpg" caption="R$ 35" >}}
+	{{< figure src="img/livros/arte/spny.jpg" caption="R$ 35" >}}
+	{{< figure src="img/livros/arte/terra_bras.jpg" caption="R$ 35" >}}
 {{< /gallery >}}
