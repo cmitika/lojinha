@@ -141,23 +141,3 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/10/10_7.jpg" caption="👍 R$ 10" >}}
 {{< /gallery >}}
 
-
-## Por categoria
-
-### Diario de Pilar
-
-{{< gallery >}}
-{{< figure src="img/livros/infantil/30/30_12.jpg" caption="💖 R$ 30" >}}
-{{< figure src="img/livros/infantil/30/30_13.jpg" caption="💖 R$ 30" >}}
-{{< figure src="img/livros/infantil/30/30_14.jpg" caption="💖 R$ 30" >}}
-{{< figure src="img/livros/infantil/30/30_15.jpg" caption="💖 R$ 30" >}}
-{{< /gallery >}}
-
-### Os Invenciveis
-
-{{< gallery >}}
-{{< figure src="img/livros/infantil/40/40_4.jpg" caption="💖 R$ 40" >}}
-{{< figure src="img/livros/infantil/40/40_10.jpg" caption="💖 R$ 40" >}}
-{{< figure src="img/livros/infantil/40/40_11.jpg" caption="💖 R$ 40" >}}
-
-{{< /gallery >}}
