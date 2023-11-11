@@ -32,6 +32,7 @@ weight = 10
 {{< figure src="img/diversao/myfish/photo_2023-09-07_17-25-24.jpg" caption="R$ 130" >}}
 {{< figure src="img/diversao/ticket2ride/photo_2023-09-07_17-26-32.jpg" caption="R$ 320" >}}
 {{< figure src="img/diversao/puzzle_italia/photo_2023-09-07_17-29-16.jpg" caption="R$ 30" >}}
+{{< figure src="img/diversao/cade_meu_par/1.jpg" caption="R$ 20" >}}
 {{< /gallery >}}
 
 

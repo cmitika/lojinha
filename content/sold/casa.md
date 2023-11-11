@@ -67,4 +67,6 @@ weight = 3
 {{< figure src="img/eletronicos/jbl_go2/1.jpg" caption="R$ 125" >}}
 {{< figure src="img/casa/screwpull/1.png" caption="R$ 210" >}}
 {{< figure src="img/casa/lupa/1.jpg" caption="R$ 125" >}}
+{{< figure src="img/moveis/luz-preta/1.jpg" caption="R$ 70" >}}
+{{< figure src="img/craft/silhouette/1.jpg" caption="R$ 1.000" >}}
 {{< /gallery >}}

@@ -18,12 +18,13 @@ weight = 100
 {{< figure src="img/livros/literatura/10/10_12.jpg" caption="🤔 R$ 10" >}}
 {{< figure src="img/livros/psicologia/40/40_1.jpg" caption="👍 R$ 40" >}}
 {{< figure src="img/livros/psicologia/20/20_3.jpg" caption="💖 R$ 20" >}}
-{{< figure src="img/livros/infantil/25/25_3.jpg" caption="💖 R$ 25" >}}
+{{< figure src="img/livros/literatura/25/25_3.jpg" caption="👍 R$ 25" >}}
+
 {{< figure src="img/livros/00/9840ebabb2ecce800eeb92aa0e441870.jpg" caption="R$ 30" >}}
 {{< figure src="img/livros/00/infantil_20_6.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/psicologia/45/45_2.jpg" caption="💖 R$ 45" >}}
 {{< figure src="img/livros/psicologia/45/45_1.jpg" caption="👍 R$ 45" >}}
-{{< figure src="img/livros/infantil/25/25_7.jpg" caption="💖 R$ 25" >}}
+
 {{< figure src="img/livros/00/f7ecec983a9c96f188026c129aecaea1.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/filosofia/10/10_1.jpg" caption="🤔 R$ 10" >}}
 {{< figure src="img/livros/psicologia/50/50_1.jpg" caption="💖 R$ 50" >}}
@@ -95,7 +96,7 @@ weight = 100
 {{< figure src="img/livros/filosofia/20/15_16.jpg" caption="👍 R$ 20" >}}
 {{< figure src="img/livros/filosofia/20/15_17.jpg" caption="👍 R$ 20" >}}
 {{< figure src="img/livros/literatura/30/30_5.jpg" caption="💖 R$ 30 (Lacrado)" >}}
-{{< figure src="img/livros/literatura/25/25_3.jpg" caption="👍 R$ 25" >}}
+
 {{< figure src="img/livros/literatura/25/20_23.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/literatura/30/30_3.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/literatura/20/20_15.jpg" caption="💖 R$ 20" >}}
@@ -122,5 +123,7 @@ weight = 100
 {{< figure src="img/livros/psicologia/50/50_3.jpg" caption="💖 R$ 25" >}}
 {{< figure src="img/livros/literatura/20/20_21.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/filosofia/15/15_6.jpg" caption="💖 R$ 15" >}}
+{{< figure src="img/livros/infantil/20/20_21.jpg" caption="👍 R$ 20" >}}
+{{< figure src="img/livros/infantil/20/lolo.jpg" caption="💖 R$ 20" >}}
 {{< /gallery >}}
 
