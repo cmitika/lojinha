@@ -15,4 +15,5 @@ weight = 3
 {{< figure src="img/fotografia/einstein2/1.jpg" caption="Flash Einstein" caption="R$ 14.000" >}}
 {{< figure src="img/fotografia/fundo_infinito/suporte2.jpg" caption="R$ 750" >}}
 {{< figure src="img/fotografia/fundo_infinito/cadete.jpg" caption="R$ 315" >}}
+{{< figure src="img/fotografia/x-rite/1.jpg" caption="R$ 1.200" >}}
 {{< /gallery >}}
