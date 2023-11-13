@@ -1,6 +1,6 @@
 +++
 title = "Memoria CORSAIR Vengeance LP 16GB DDR3"
-draft = false
+draft = true
 image = "img/eletronicos/ddr3/1.jpg"
 showonlyimage = false
 weight = 3
