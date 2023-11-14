@@ -10,24 +10,16 @@ weight = 1
 Patins + protecao + acessorios
 <!--more-->
 
-Patins regulavel, que se ajusta ao tamanho do pe. Nao requer ferramentas, basta apertar um botao e mover a base para ajustar.
-
-Em excelente estado, apenas marcas normais de uso.
-
-Configuracao ideal para iniciantes ou intermediarios:
+Regulavel, se ajusta ao tamanho do pe. Em excelente estado, somente marcas normais de uso. Para criancas ate uns 10 anos.
 
 - Modelo: Spitfire XT
-- Tamanho: 5 a 8 (de infantil a adulto, regulavel)
+- Tamanho: 5 a 8 
 - Base: suporta rodas ate 76mm
-- Rodas: 72mm 80A (roda macia, boa para iniciantes e criancas)
-- Rolamentos: SG3
-- Freio: removivel
-
-Acompanha
-- Capacete infantil
-- 2x kits de joelheira, cotoveleira e wrist-guard para criancas de diferentes tamanhos/idades
-- Kit adicional de rolamentos novos
+- Rodas 72mm 80A, rolamento SG3
+- Freio removivel
 - Chave de roda
+- Capacete infantil + 2x kits de protecao pra diferentes tamanhos
+
 
 {{< gallery >}}
 {{< figure src="img/diversao/patins/1.jpg" >}}
