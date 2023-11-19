@@ -5,12 +5,13 @@ image = "img/moveis/mesa-centro1.jpg"
 showonlyimage = false
 weight = 3
 +++
-De ~~700~~ por <span class="price">R$ 400</span>
+De ~~R$ 744~~ por <span class="price">400</span>
 
 <!--more-->
 
-Mesa de centro, de madeira de demolição, em ótimo estado de conservação.
+Mesa de centro, de madeira de demolição, como nova.
 
+Medida: 45 x 60 x 90 cm (A x L x C)
 
 {{< gallery >}}
 {{< figure src="img/moveis/mesa-centro1.jpg" >}}
