@@ -1,5 +1,5 @@
 +++
-title = "Sofá 4 Lugares, com Pluma de Ganso"
+title = "Sofá com Pluma de Ganso da Marche Art de Vie"
 draft = false
 image = "img/moveis/sofa/a1.jpg"
 showonlyimage = false
@@ -9,10 +9,10 @@ De ~~R$ 23.400~~ por <span class="price">R$ 1.500</span>
 
 <!--more-->
 
-Sofá super confortável, grande, com camada de pluma de ganso, capa de shibori (tingimento japonês), bipartido, precisa de reforma (limpeza, reparo forração, reparo de pe). Acompanha capa jeans.
+Sofá super confortável, grande, com camada de pluma de ganso, capa de shibori (tingimento japonês), bipartido. Acompanha capa jeans.
 
 Medida: 2,60x1,10m
-Marca: Marche Art de Vie
+Marca: Marche Art de Vie (Gabriel Monteiro da Silva)
 
 {{< gallery >}}
 {{< figure src="img/moveis/sofa/a1.jpg" >}}
