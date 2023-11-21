@@ -143,14 +143,14 @@ weight = 1
 {{< figure src="img/cds/internacional/20/111.jpg" caption="R$ 20" >}}
 {{< figure src="img/cds/internacional/20/113.jpg" caption="R$ 20" >}}
 
-{{< figure src="img/cds/internacional/5/1.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/internacional/5/3.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/internacional/5/5.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/internacional/5/7.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/internacional/5/9.jpg" caption="R$ 5" >}}
+{{< figure src="img/cds/internacional/5/1.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/internacional/5/3.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/internacional/5/5.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/internacional/5/7.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/internacional/5/9.jpg" caption="R$ 20" >}}
 
-{{< figure src="img/cds/internacional/5/11.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/internacional/5/13.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/internacional/5/15.jpg" caption="R$ 5" >}}
+{{< figure src="img/cds/internacional/5/11.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/internacional/5/13.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/internacional/5/15.jpg" caption="R$ 20" >}}
 
 {{< /gallery >}}

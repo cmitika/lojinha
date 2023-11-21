@@ -71,19 +71,19 @@ weight = 2
 {{< figure src="img/cds/brasil/20/91.jpg" caption="Novo R$ 20" >}}
 
 
-{{< figure src="img/cds/brasil/10/1.jpg" caption="R$ 10" >}}
-{{< figure src="img/cds/brasil/10/3.jpg" caption="Novo R$ 10" >}}
-{{< figure src="img/cds/brasil/10/5.jpg" caption="Novo R$ 10" >}}
-{{< figure src="img/cds/brasil/10/7.jpg" caption="Novo R$ 10" >}}
-{{< figure src="img/cds/brasil/10/9.jpg" caption="Novo R$ 10" >}}
-{{< figure src="img/cds/brasil/10/11.jpg" caption="R$ 10" >}}
+{{< figure src="img/cds/brasil/10/1.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/brasil/10/3.jpg" caption="Novo R$ 20" >}}
+{{< figure src="img/cds/brasil/10/5.jpg" caption="Novo R$ 20" >}}
+{{< figure src="img/cds/brasil/10/7.jpg" caption="Novo R$ 20" >}}
+{{< figure src="img/cds/brasil/10/9.jpg" caption="Novo R$ 20" >}}
+{{< figure src="img/cds/brasil/10/11.jpg" caption="R$ 20" >}}
 
-{{< figure src="img/cds/brasil/5/1.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/brasil/5/3.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/brasil/5/5.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/brasil/5/7.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/brasil/5/9.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/brasil/5/11.jpg" caption="R$ 5" >}}
-{{< figure src="img/cds/brasil/5/13.jpg" caption="Lacrado R$ 5" >}}
+{{< figure src="img/cds/brasil/5/1.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/brasil/5/3.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/brasil/5/5.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/brasil/5/7.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/brasil/5/9.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/brasil/5/11.jpg" caption="R$ 20" >}}
+{{< figure src="img/cds/brasil/5/13.jpg" caption="Lacrado R$ 20" >}}
 
 {{< /gallery >}}
