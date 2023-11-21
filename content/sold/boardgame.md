@@ -33,6 +33,8 @@ weight = 10
 {{< figure src="img/diversao/ticket2ride/photo_2023-09-07_17-26-32.jpg" caption="R$ 320" >}}
 {{< figure src="img/diversao/puzzle_italia/photo_2023-09-07_17-29-16.jpg" caption="R$ 30" >}}
 {{< figure src="img/diversao/cade_meu_par/1.jpg" caption="R$ 20" >}}
+{{< figure src="img/diversao/puzzle_franca/photo_2023-09-07_17-28-55.jpg" caption="R$ 30" >}}
+{{< figure src="img/diversao/puzzle_toscana/photo_2023-09-07_17-28-20.jpg" caption="R$ 30" >}}
 {{< /gallery >}}
 
 

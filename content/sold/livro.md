@@ -125,5 +125,7 @@ weight = 100
 {{< figure src="img/livros/filosofia/15/15_6.jpg" caption="💖 R$ 15" >}}
 {{< figure src="img/livros/infantil/20/20_21.jpg" caption="👍 R$ 20" >}}
 {{< figure src="img/livros/infantil/20/lolo.jpg" caption="💖 R$ 20" >}}
+{{< figure src="img/livros/arte/mccurry_iconic.jpg" caption="💖 R$ 400" >}}
+{{< figure src="img/livros/arte/mccurry_sactuary.jpg" caption="💖 R$ 210" >}}
 {{< /gallery >}}
 

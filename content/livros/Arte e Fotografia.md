@@ -8,38 +8,6 @@ weight = 1
 </br>
 <!--more-->
 
-## Expressionism, R$ 250
-
-- 256 pag
-- 25 x 31 cm
-- Capa dura
-- Importado, Ingles
-- De ~~450~~ por <span class="price">R$ 250</span>
-
-{{< gallery >}}
-{{< figure src="img/livros/arte/expressionism.jpg" >}}
-{{< figure src="img/livros/arte/expressionism1.jpg" >}}
-{{< figure src="img/livros/arte/expressionism2.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Portinari, R$ 250
-
-- 280 pag
-- 24 x 30 cm
-- Capa dura
-- <span class="price">R$ 250</span>
-
-{{< gallery >}}
-	{{< figure src="img/livros/arte/portinari.jpg" >}}
-	{{< figure src="img/livros/arte/portinari1.jpg" >}}
-	{{< figure src="img/livros/arte/portinari2.jpg" >}}
-	{{< figure src="img/livros/arte/portinari3.jpg" >}}
-{{< /gallery >}}
-
----
-
 ## Sebastiao Salgado - Genesis, R$ 410
 
 Edicao importada e **completa** do Genesis, tamanho gigante, com mais de 500 paginas.
@@ -60,7 +28,9 @@ Edicao importada e **completa** do Genesis, tamanho gigante, com mais de 500 pag
 
 ---
 
-## Sebastiao Salgado - Trabalhadores, R$ 460
+## Sebastiao Salgado
+
+### Sebastiao Salgado - Trabalhadores, R$ 460
 
 Edicao completa e esgotada dos Trabalhadores. 
 
@@ -79,26 +49,7 @@ Esta sendo vendido por ai por R$ 1.000!
 
 ---
 
-## Steve McCurry, Iconic Photographs, R$ 410
-
-As fotos mais emblematicas do Steven McCurry, em tamanho gigante.
-
-- 270 pag
-- 30 x 39 cm
-- Capa dura
-- Importado, Ingles
-- De ~~700~~ por <span class="price">R$ 410</span>
-
-{{< gallery >}}
-	{{< figure src="img/livros/arte/mccurry_iconic.jpg" >}}
-	{{< figure src="img/livros/arte/mccurry_iconic1.jpg" >}}
-	{{< figure src="img/livros/arte/mccurry_iconic2.jpg" >}}
-	{{< figure src="img/livros/arte/mccurry_iconic3.jpg" >}}
-{{< /gallery >}}
-
----
-
-## Sebastiao Salgado - Outras Americas, R$ 105
+### Sebastiao Salgado - Outras Americas, R$ 105
 
 Livro esgotado. O nosso exemplar eh como novo.
 
@@ -115,7 +66,7 @@ Livro esgotado. O nosso exemplar eh como novo.
 
 ---
 
-## Sebastiao Salgado - Children, R$ 210
+### Sebastiao Salgado - Children, R$ 210
 
 - 110 pag
 - 25 x 33 cm
@@ -132,30 +83,46 @@ Livro esgotado. O nosso exemplar eh como novo.
 
 ---
 
+### Sebastiao Salgado (Photo Poche) - R$ 60
 
-## Alice (pinturas Diogo Munoz), R$ 200
-
-- 4x livros de 100 paginas cada
-	- As aventuras de Alice no Pais das Maravilhas 1 e 2
-	- Alice do outro lado do espelho 1 e 2
-- 27 x 27cm
-- Em portugues, editora Expresso
-- <span class="price">R$ 200</span>
+- Livro em frances
 
 {{< gallery >}}
-	{{< figure src="img/livros/arte/alice/1.jpg" >}}
-	{{< figure src="img/livros/arte/alice/2.jpg" >}}
-	{{< figure src="img/livros/arte/alice/3.jpg" >}}
-	{{< figure src="img/livros/arte/alice/4.jpg" >}}
-	{{< figure src="img/livros/arte/alice/5.jpg" >}}
-	{{< figure src="img/livros/arte/alice/6.jpg" >}}
-	{{< figure src="img/livros/arte/alice/7.jpg" >}}
-	{{< figure src="img/livros/arte/alice/8.jpg" >}}
+	{{< figure src="img/livros/arte/salgado_photo_poche.jpg" caption="Importado, Frances" >}}
 {{< /gallery >}}
 
 ---
 
-# Expressionismo, R$ 200
+### Sebastiao Salgado - Serra Pelada (Photo Poche) - R$ 60
+
+- Livro em frances
+
+{{< gallery >}}
+	{{< figure src="img/livros/arte/salgado_serra_pelada.jpg" caption="Importado, Frances" >}}
+{{< /gallery >}}
+
+
+---
+
+## Expressionism (Ingles), R$ 250
+
+Biografia em Ingles e principais obras dos pintores do movimento expressionista alemao
+
+- 256 pag
+- 25 x 31 cm
+- Capa dura
+- Importado, Ingles
+- De ~~450~~ por <span class="price">R$ 250</span>
+
+{{< gallery >}}
+{{< figure src="img/livros/arte/expressionism.jpg" >}}
+{{< figure src="img/livros/arte/expressionism1.jpg" >}}
+{{< figure src="img/livros/arte/expressionism2.jpg" >}}
+{{< /gallery >}}
+
+---
+
+## Expressionismo (Portugues), R$ 200
 
 Biografia em portugues e principais obras dos pintores do movimento expressionista alemao
 
@@ -170,18 +137,19 @@ Biografia em portugues e principais obras dos pintores do movimento expressionis
 
 ---
 
-## Steve McCurry, Temples of Ankgor, R$ 210
 
-- 200 pag
-- 19 x 27 cm
-- Edicao Importada, Ingles
-- <span class="price">R$ 210</span>
+## Portinari, R$ 250
+
+- 280 pag
+- 24 x 30 cm
+- Capa dura
+- <span class="price">R$ 250</span>
 
 {{< gallery >}}
-	{{< figure src="img/livros/arte/mccurry_sactuary.jpg" >}}
-	{{< figure src="img/livros/arte/mccurry_sactuary1.jpg" >}}
-	{{< figure src="img/livros/arte/mccurry_sactuary2.jpg" >}}
-	{{< figure src="img/livros/arte/mccurry_sactuary3.jpg" >}}
+	{{< figure src="img/livros/arte/portinari.jpg" >}}
+	{{< figure src="img/livros/arte/portinari1.jpg" >}}
+	{{< figure src="img/livros/arte/portinari2.jpg" >}}
+	{{< figure src="img/livros/arte/portinari3.jpg" >}}
 {{< /gallery >}}
 
 ---
@@ -201,23 +169,6 @@ Livro novo, adquirido a poucos dias na Exposicao Chagall no Brasil.
 	{{< figure src="img/livros/arte/chagall1.jpg" >}}
 	{{< figure src="img/livros/arte/chagall2.jpg" >}}
 {{< /gallery >}}
-
-
----
-
-## Catalogo do MAM-RJ, R$ 100
-
-Catalogo completa das obras expostas no MAM-RJ. Foto da obra e biografia ou ficha.
-
-- 360 pag
-- 21 x 28 cm
-- Capa dura
-- <span class="price">R$ 100</span>
-
-{{< gallery >}}
-	{{< figure src="img/livros/arte/mam_rio.jpg" >}}
-{{< /gallery >}}
-
 
 ---
 
@@ -261,16 +212,51 @@ Klimt e Schiele ainda estao lacrados!
 
 ---
 
-## Livros de Bolso, R$ 60
 
-- O Grande Livro das Artes: 1,000 paginas com as mais famosas pinturas de todos os tempos; portugues
-- Sebastiao Salgado: frances
-- Sebastiao Salgado - Serra Pelada: frances
+## Alice (pinturas Diogo Munoz), R$ 200
+
+- 4x livros de 100 paginas cada
+	- As aventuras de Alice no Pais das Maravilhas 1 e 2
+	- Alice do outro lado do espelho 1 e 2
+- 27 x 27cm
+- Em portugues, editora Expresso
+- <span class="price">R$ 200</span>
+
+{{< gallery >}}
+	{{< figure src="img/livros/arte/alice/1.jpg" >}}
+	{{< figure src="img/livros/arte/alice/2.jpg" >}}
+	{{< figure src="img/livros/arte/alice/3.jpg" >}}
+	{{< figure src="img/livros/arte/alice/4.jpg" >}}
+	{{< figure src="img/livros/arte/alice/5.jpg" >}}
+	{{< figure src="img/livros/arte/alice/6.jpg" >}}
+	{{< figure src="img/livros/arte/alice/7.jpg" >}}
+	{{< figure src="img/livros/arte/alice/8.jpg" >}}
+{{< /gallery >}}
+
+---
+
+## Catalogo do MAM-RJ, R$ 100
+
+Catalogo completa das obras expostas no MAM-RJ. Foto da obra e biografia ou ficha.
+
+- 360 pag
+- 21 x 28 cm
+- Capa dura
+- <span class="price">R$ 100</span>
+
+{{< gallery >}}
+	{{< figure src="img/livros/arte/mam_rio.jpg" >}}
+{{< /gallery >}}
+
+
+---
+
+## O Grande Livro das Artes, R$ 60
+
+Cerca de 1,000 paginas com as mais famosas pinturas de todos os tempos; portugues
 
 {{< gallery >}}
 	{{< figure src="img/livros/arte/grande_livro_arte.jpg" caption="1.000 paginas, Portugues" >}}
-	{{< figure src="img/livros/arte/salgado_photo_poche.jpg" caption="Importado, Frances" >}}
-	{{< figure src="img/livros/arte/salgado_serra_pelada.jpg" caption="Importado, Frances" >}}
 {{< /gallery >}}
 
 ---
@@ -287,3 +273,4 @@ Klimt e Schiele ainda estao lacrados!
 	{{< figure src="img/livros/arte/spny.jpg" caption="R$ 35" >}}
 	{{< figure src="img/livros/arte/terra_bras.jpg" caption="R$ 35" >}}
 {{< /gallery >}}
+
