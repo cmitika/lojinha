@@ -72,4 +72,7 @@ weight = 3
 {{< figure src="img/moveis/mesa6/1.jpg" caption="R$ 1.500" >}}
 {{< figure src="img/casa/cozinha/Bandejas_mosaico.jpg" caption="R$ 50" >}}
 {{< figure src="img/casa/cozinha/Travessa.jpg" caption="R$ 50" >}}
+{{< figure src="img/esporte/mascara-adulto/1.jpg" caption="R$ 100" >}}
+{{< figure src="img/esporte/mascara-infantil/1.jpg" caption="R$ 50" >}}
+{{< figure src="img/diversao/moveis_madeira/1.jpg" caption="R$ 50" >}}
 {{< /gallery >}}
