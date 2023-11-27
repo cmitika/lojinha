@@ -5,8 +5,9 @@ image = "img/esporte/beisebol/1.jpg"
 showonlyimage = false
 weight = 2
 +++
-De ~~R$ 300~~ por <span class="price">150</span>
+De ~~R$ 300~~ por <span class="price">100</span>
 
+Novo, nunca usado, sem marcas ou sinais.
 <!--more-->
 
 

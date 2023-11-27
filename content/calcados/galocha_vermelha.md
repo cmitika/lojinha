@@ -5,7 +5,7 @@ image = "img/roupas/galocha_vermelha/1.jpg"
 showonlyimage = false
 weight = 3
 +++
-De ~~R$ 150~~ por <span class="price">100</span>
+De ~~R$ 150~~ por <span class="price">80</span>
 
 Bota nova, sem uso, numero 35.
 
