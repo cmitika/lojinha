@@ -7,7 +7,7 @@ weight = 2
 +++
 De ~~R$ 300~~ por <span class="price">100</span>
 
-Novo, nunca usado, sem marcas ou sinais.
+Em excelente estado, nunca usado.
 <!--more-->
 
 
