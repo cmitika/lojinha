@@ -3,7 +3,7 @@ title = "Bota Vento/Nomade, no. 41"
 draft = false
 image = "img/esporte/nomade/a1.jpg"
 showonlyimage = false
-weight = 3
+weight = 10
 +++
 <span class="price">R$ 200</span>
 

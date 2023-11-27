@@ -3,7 +3,7 @@ title = "Lanterna Mag-Lite  LED XL200 - USA"
 draft = false
 image = "img/casa/mag-lite-xl200/1.jpg"
 showonlyimage = false
-weight = 3
+weight = 10
 +++
 De ~~R$ 750~~ por <span class="price">350</span>
 

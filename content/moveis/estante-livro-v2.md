@@ -5,7 +5,7 @@ image = "img/moveis/estantev2.jpg"
 showonlyimage = false
 weight = 2
 +++
-De ~~R$ 2.399~~ por <span class="price">1.400</span>
+De ~~R$ 2.399~~ por <span class="price">1.200</span>
 
 <!--more-->
 

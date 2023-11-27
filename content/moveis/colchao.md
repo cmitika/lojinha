@@ -5,7 +5,7 @@ image = "img/moveis/colchao/1.jpeg"
 showonlyimage = false
 weight = 5
 +++
-De ~~R$699~~ por <span class="price">350</span>
+De ~~R$699~~ por <span class="price">300</span>
 
 <!--more-->
 

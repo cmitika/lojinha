@@ -5,7 +5,7 @@ image = "img/eletronicos/akg/1.jpg"
 showonlyimage = false
 weight = 3
 +++
-<span class="price">R$ 545</span>
+<span class="price">R$ 450</span>
 <!--more-->
 
 Fone em estado de novo, sem nenhuma marca ou sinal. Adquirido em marco/2022 e usado poucas vezes.

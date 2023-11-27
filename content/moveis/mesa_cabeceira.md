@@ -5,9 +5,9 @@ image = "img/moveis/mesa_cabeceira.jpg"
 showonlyimage = false
 weight = 3
 +++
-De ~~R$ 2.798~~ por <span class="price">1.400</span> o par
+De ~~R$ 2.798~~ por <span class="price">1.200</span> o par
 
-Unitario: R$ 800 cada
+Unitario: R$ 700 cada
 
 <!--more-->
 

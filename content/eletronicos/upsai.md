@@ -7,16 +7,16 @@ weight = 3
 +++
 <span class="price">R$ 40</span> cada
 
-Filtro de linha com protecao via fusivel.
+Filtro de linha com protecao via fusivel que segura qualquer pico de energia.
 <!--more-->
 
-Filtro de linha da Upsai para home-theater, com protecao via fusivel e labels para facilitar conexao.
+Filtro de linha da Upsai para home-theater, com protecao via fusivel e labels para facilitar conexao. Indispensavel para proteger computador, TV, etc.
 
 - Oito tomadas
 - 127V, 10A, 60Hz freq
 - Cabo de 1.5m
 - Protecao via fusivel para tomadas, cabo e fone.
-- 05 unidades disponiveis, preco por unidade
+- 02 unidades disponiveis, preco por unidade
 
 ---
 

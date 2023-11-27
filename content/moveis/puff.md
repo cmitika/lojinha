@@ -9,8 +9,9 @@ weight = 1
 
 <!--more-->
 
-Puff feijão com capa jeans. Precisa de reforma (pés e forração).
+Puff feijão com capa jeans. 
 
+- Precisa de reforma de forração.
 - Medidas: 0,80x0,45x0,40A
 
 {{< gallery >}}

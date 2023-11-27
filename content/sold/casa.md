@@ -75,4 +75,6 @@ weight = 3
 {{< figure src="img/esporte/mascara-adulto/1.jpg" caption="R$ 100" >}}
 {{< figure src="img/esporte/mascara-infantil/1.jpg" caption="R$ 50" >}}
 {{< figure src="img/diversao/moveis_madeira/1.jpg" caption="R$ 50" >}}
+{{< figure src="img/moveis/espelho/1.jpeg" caption="R$ 160" >}}
+{{< figure src="img/casa/massageador/1.webp" caption="R$ 100" >}}
 {{< /gallery >}}

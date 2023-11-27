@@ -3,7 +3,7 @@ title = "Lanterna Mag-Lite LED 3 x AA"
 draft = false
 image = "img/casa/mag-lite-3aa/1.jpg"
 showonlyimage = false
-weight = 3
+weight = 10
 +++
 <span class="price">R$ 300</span>
 

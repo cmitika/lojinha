@@ -9,10 +9,13 @@ De ~~R$ 23.400~~ por <span class="price">R$ 1.500</span>
 
 <!--more-->
 
-Sofá super confortável, grande, com camada de pluma de ganso, capa de shibori (tingimento japonês), bipartido. Acompanha capa jeans.
+Sofá super confortável, grande, com camada de pluma de ganso, bipartido. Acompanha capa shibori (tingimento japonês).
 
-Medida: 2,60x1,10m
-Marca: Marche Art de Vie (Gabriel Monteiro da Silva)
+- O sofa tem uma estrutura excelente, muito leve e ao mesmo tempo muito resistente.
+- O tecido branco esta bastante sujo e manchado. Precisa de limpeza ou troca.
+- O enchimento de pluma de ganso esta em excelente condicoes.
+- Medida: 2,60x1,10m
+- Marca: Marche Art de Vie (Gabriel Monteiro da Silva)
 
 {{< gallery >}}
 {{< figure src="img/moveis/sofa/a1.jpg" >}}
