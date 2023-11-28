@@ -5,7 +5,7 @@ image = "img/casa/ferro/1.jpg"
 showonlyimage = false
 weight = 1
 +++
-<span class="price">R$ 800</span>
+<span class="price">R$ 600</span>
 
 <!--more-->
 

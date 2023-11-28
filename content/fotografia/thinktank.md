@@ -5,7 +5,7 @@ image = "img/fotografia/mochila_kinesis/modular-essentials-v3-set-on-belt.jpg"
 showonlyimage = false
 weight = 50
 +++
-De ~~2.500~~ por <span class="price">R$ 1.500</span>
+De ~~2.500~~ por <span class="price">R$ 1.200</span>
 
 Kit Think Tank de Cinto e Bolsos Articulados
 <!--more-->

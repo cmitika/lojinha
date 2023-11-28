@@ -77,4 +77,7 @@ weight = 3
 {{< figure src="img/diversao/moveis_madeira/1.jpg" caption="R$ 50" >}}
 {{< figure src="img/moveis/espelho/1.jpeg" caption="R$ 160" >}}
 {{< figure src="img/casa/massageador/1.webp" caption="R$ 100" >}}
+{{< figure src="img/casa/pilao/1.jpeg" caption="R$ 45" >}}
+{{< figure src="img/roupas/asics.jpg" caption="R$ 200" >}}
+{{< figure src="img/roupas/galocha_vermelha/1.jpg" caption="R$ 80" >}}
 {{< /gallery >}}
