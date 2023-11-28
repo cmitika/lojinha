@@ -7,10 +7,8 @@ weight = 3
 +++
 De ~~R$ 730~~ por <span class="price">400</span>
 
-Bota estilo Chukka
+Como nova, sem uso (muito pequena)
 <!--more-->
-
-Botinha nova, sem uso, ficou muito apertada. Zero de desgaste na sola.
 
 - Numeracao: 40
 - Camurça e couro 100% bovino 

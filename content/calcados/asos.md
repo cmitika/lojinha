@@ -7,10 +7,9 @@ weight = 3
 +++
 <span class="price">R$ 300</span>
 
-Bota estilo Chelsea, da marca britanica Asos
-<!--more-->
+Como nova, sem uso (muito grande)
 
-Bota importada da ASOS, nova, sem praticamente nenhum uso (ficou muito grande).
+<!--more-->
 
 Solado novo, sem desgaste.
 
