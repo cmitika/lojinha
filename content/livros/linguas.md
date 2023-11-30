@@ -67,8 +67,8 @@ Livro novo, sem uso, sem anotacoes, sem vincos ou marcas. Com CD tambem sem uso.
 ## Alemao
 
 {{< gallery >}}
-{{< figure src="img/livros/linguas/10/10_14.jpg" caption="R$ 80" >}}
-{{< figure src="img/livros/linguas/10/10_15.jpg" caption="R$ 80" >}}
+{{< figure src="img/livros/linguas/10/10_14.jpg" caption="R$ 50" >}}
+{{< figure src="img/livros/linguas/10/10_15.jpg" caption="R$ 50" >}}
 {{< figure src="img/livros/linguas/10/10_3.jpg" caption="R$ 30" >}}
 {{< figure src="img/livros/linguas/10/10_4.jpg" caption="R$ 20" >}}
 {{< figure src="img/livros/linguas/10/10_7.jpg" caption="R$ 20" >}}
