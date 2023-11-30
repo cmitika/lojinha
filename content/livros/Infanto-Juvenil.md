@@ -81,7 +81,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 
 
-{{< figure src="img/livros/infantil/35/35_2.jpg" caption="💖 Lacrado R$ 35" >}}
+
 
 
 {{< figure src="img/livros/infantil/30/30_4.jpg" caption="👍 R$ 30" >}}

@@ -127,5 +127,14 @@ weight = 100
 {{< figure src="img/livros/infantil/20/lolo.jpg" caption="💖 R$ 20" >}}
 {{< figure src="img/livros/arte/mccurry_iconic.jpg" caption="💖 R$ 400" >}}
 {{< figure src="img/livros/arte/mccurry_sactuary.jpg" caption="💖 R$ 210" >}}
+{{< figure src="img/livros/arte/salgado_genesis.jpg"  caption="💖 R$ 410" >}}
+{{< figure src="img/livros/arte/salgado_trabalhadores.jpg" caption="💖 R$ 460" >}}
+{{< figure src="img/livros/arte/salgado_americas.jpg" caption="💖 R$ 105" >}}
+{{< figure src="img/livros/arte/salgado_children.jpg" caption="💖 R$ 210" >}}
+{{< figure src="img/livros/arte/salgado_photo_poche.jpg" caption="R$ 60" >}}
+{{< figure src="img/livros/arte/salgado_serra_pelada.jpg" caption="R$ 60" >}}
+{{< figure src="img/livros/filosofia/50/50_8.jpg" caption="💖 R$ 50" >}}
+{{< figure src="img/livros/filosofia/30/30_1.jpg" caption="👍 R$ 30" >}}
+{{< figure src="img/livros/infantil/35/35_2.jpg" caption="💖 Lacrado R$ 35" >}}
 {{< /gallery >}}
 

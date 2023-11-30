@@ -80,4 +80,6 @@ weight = 3
 {{< figure src="img/casa/pilao/1.jpeg" caption="R$ 45" >}}
 {{< figure src="img/roupas/asics.jpg" caption="R$ 200" >}}
 {{< figure src="img/roupas/galocha_vermelha/1.jpg" caption="R$ 80" >}}
+{{< figure src="img/moveis/estanteaco/1.jpg" caption="R$ 265" >}}
+{{< figure src="img/casa/mag-lite-xl200/2.jpg" caption="R$ 300" >}}
 {{< /gallery >}}

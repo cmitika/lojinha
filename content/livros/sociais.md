@@ -36,7 +36,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/50/50_2.jpg" caption="🔥👍 R$ 50" >}}
 {{< figure src="img/livros/filosofia/50/50_3.jpg" caption="🔥👍 R$ 50" >}}
 {{< figure src="img/livros/filosofia/50/50_7.jpg" caption="🔥💖 R$ 50" >}}
-{{< figure src="img/livros/filosofia/50/50_8.jpg" caption="💖 R$ 50" >}}
+
 
 
 {{< figure src="img/livros/filosofia/45/45_1.jpg" caption="👍 R$ 45" >}}
@@ -62,7 +62,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/35/35_13.jpg"  caption="💖 R$ 35" >}}
 {{< figure src="img/livros/filosofia/35/30_12.jpg" caption="💖 R$ 35" >}}
 
-{{< figure src="img/livros/filosofia/30/30_1.jpg" caption="👍 R$ 30" >}}
+
 {{< figure src="img/livros/filosofia/30/30_4.jpg" caption="🔥👍 R$ 30" >}}
 {{< figure src="img/livros/filosofia/30/30_5.jpg" caption="🔥👍 R$ 30" >}}
 {{< figure src="img/livros/filosofia/30/30_6.jpg" caption="👍 R$ 30" >}}
@@ -175,7 +175,6 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/filosofia/40/40_9.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/filosofia/35/35_12.jpg"  caption="💖 R$ 35" >}}
 {{< figure src="img/livros/filosofia/35/35_13.jpg"  caption="💖 R$ 35" >}}
-{{< figure src="img/livros/filosofia/30/30_1.jpg" caption="👍 R$ 30" >}}
 {{< /gallery >}}
 
 ### Lenin
