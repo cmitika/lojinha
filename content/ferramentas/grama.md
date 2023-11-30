@@ -7,7 +7,7 @@ weight = 5
 +++
 <span class="price">R$ 160</span>
 
-Novo, usado literalmente apenas 1 vez.
+Novo, sem nenhum uso.
 <!--more-->
 
 Voltagem: 127v, 60Hz, 3.15A
