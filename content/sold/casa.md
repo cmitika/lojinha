@@ -82,4 +82,9 @@ weight = 3
 {{< figure src="img/roupas/galocha_vermelha/1.jpg" caption="R$ 80" >}}
 {{< figure src="img/moveis/estanteaco/1.jpg" caption="R$ 265" >}}
 {{< figure src="img/casa/mag-lite-xl200/2.jpg" caption="R$ 300" >}}
+{{< figure src="img/casa/lum_pixar/1.jpeg" caption="R$ 100" >}}
+{{< figure src="img/moveis/mesa_canto/1.jpg" caption="R$ 300" >}}
+{{< figure src="img/moveis/mesa-centro1.jpg" caption="R$ 350" >}}
+{{< figure src="img/casa/cozinha/Maquina_Waffle.jpg" caption="R$ 300" >}}
 {{< /gallery >}}
+
