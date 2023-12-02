@@ -87,5 +87,7 @@ weight = 3
 {{< figure src="img/moveis/mesa-centro1.jpg" caption="R$ 350" >}}
 {{< figure src="img/casa/cozinha/Maquina_Waffle.jpg" caption="R$ 300" >}}
 {{< figure src="img/casa/cozinha/cestos.jpg" caption="R$ 300" >}}
+{{< figure src="img/casa/fogao/2.jpg" caption="R$ 1.150" >}}
+{{< figure src="img/moveis/estantev2.jpg" caption="R$ 1.200" >}}
 {{< /gallery >}}
 

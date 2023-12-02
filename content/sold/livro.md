@@ -136,5 +136,8 @@ weight = 100
 {{< figure src="img/livros/filosofia/50/50_8.jpg" caption="💖 R$ 50" >}}
 {{< figure src="img/livros/filosofia/30/30_1.jpg" caption="👍 R$ 30" >}}
 {{< figure src="img/livros/infantil/35/35_2.jpg" caption="💖 Lacrado R$ 35" >}}
+{{< figure src="img/livros/infantil/45/45_1.jpg" caption="💖 R$ 80" >}}
+{{< figure src="img/livros/infantil/40/40_5.jpg" caption="💖 R$ 40" >}}
+{{< figure src="img/livros/filosofia/35/35_2.jpg"  caption="🔥🤔 R$ 35" >}}
 {{< /gallery >}}
 

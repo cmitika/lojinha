@@ -34,7 +34,7 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 {{< figure src="img/livros/infantil/40/ilha.jpg" caption="💖 R$ 35" >}}
 {{< figure src="img/livros/infantil/40/legas_submarinas.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/infantil/40/40_4.jpg" caption="💖 R$ 30" >}}
-{{< figure src="img/livros/infantil/40/40_5.jpg" caption="💖 R$ 40" >}}
+
 {{< figure src="img/livros/infantil/40/40_10.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/infantil/40/40_11.jpg" caption="💖 R$ 30" >}}
 {{< figure src="img/livros/infantil/30/mary.jpg" caption="💖 R$ 30" >}}
@@ -70,7 +70,6 @@ Boa parte dos livros sao efetivamente novos, sem marcas ou sinais de uso (porque
 
 {{< figure src="img/livros/infantil/50/japones.jpg" caption="💖 R$ 50" >}}
 
-{{< figure src="img/livros/infantil/45/45_1.jpg" caption="💖 R$ 45" >}}
 {{< figure src="img/livros/infantil/40/40_1.jpg" caption="👍 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_2.jpg" caption="💖 R$ 40" >}}
 {{< figure src="img/livros/infantil/40/40_3.jpg" caption="💖 R$ 40" >}}
